@@ -1,0 +1,46 @@
+{
+  "query": "кращий",
+  "key": "кращий",
+  "entries": [],
+  "ignoredEntriesWithThisWord": [
+    {
+      "word": "кращий",
+      "kaikkiPos": "adj",
+      "pos": "adjective",
+      "reason": "inflected-form-only",
+      "formOf": [
+        {
+          "word": "краси́вий",
+          "tags": [
+            "comparative"
+          ]
+        },
+        {
+          "word": "га́рний",
+          "tags": [
+            "comparative"
+          ]
+        },
+        {
+          "word": "до́брий",
+          "tags": [
+            "comparative"
+          ]
+        },
+        {
+          "word": "хоро́ший",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "glosses": [
+        "comparative degree of краси́вий (krasývyj)",
+        "comparative degree of га́рний (hárnyj), of до́брий (dóbryj) and of хоро́ший (xoróšyj): better"
+      ],
+      "line": 16244,
+      "url": "https://en.wiktionary.org/wiki/%D0%BA%D1%80%D0%B0%D1%89%D0%B8%D0%B9#Ukrainian",
+      "resolution": "in-paradigm"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "query": "співати",
+  "key": "співати",
+  "entries": [
+    {
+      "id": 2612,
+      "slug": "співати~verb",
+      "word": "співати",
+      "key": "співати",
+      "heads": [
+        "співа́ти"
+      ],
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPartners": [
+        {
+          "word": "заспіва́ти",
+          "aspect": "perfective",
+          "source": "known-aspect-pairs",
+          "linked": true
+        },
+        {
+          "word": "поспіва́ти",
+          "aspect": "perfective",
+          "source": "kaikki",
+          "linked": true
+        },
+        {
+          "word": "спі́ти",
+          "aspect": "perfective",
+          "source": "kaikki",
+          "linked": true
+        }
+      ],
+      "senses": [
+        {
+          "gloss": "to sing",
+          "tags": [
+            "intransitive"
+          ],
+          "relations": {
+            "synonym": [
+              {
+                "word": "пі́яти",
+                "tags": [
+                  "dated"
+                ],
+                "linked": false
+              }
+            ]
+          }
+        },
+        {
+          "gloss": "to perform music",
+          "tags": [
+            "transitive"
+          ]
+        },
+        {
+          "gloss": "to twitter, to whistle, to crow, etc.",
+          "tags": [
+            "intransitive"
+          ]
+        },
+        {
+          "gloss": "to have a nice sound (about musical instrument, bell, toot, etc.)",
+          "tags": [
+            "intransitive",
+            "figuratively"
+          ]
+        },
+        {
+          "gloss": "to be in a nice mood, to be excited",
+          "tags": [
+            "intransitive",
+            "figuratively"
+          ]
+        },
+        {
+          "gloss": "to glorify (in poetry, songs) something or somebody",
+          "tags": [
+            "transitive"
+          ]
+        },
+        {
+          "gloss": "to say something long, to say something with flattery",
+          "tags": [
+            "transitive",
+            "intransitive",
+            "figuratively",
+            "colloquial"
+          ]
+        }
+      ],
+      "paradigm": {
+        "kind": "verb",
+        "forms": {
+          "inf": [
+            {
+              "form": "співа́ти"
+            },
+            {
+              "form": "співа́ть"
+            }
+          ],
+          "pres.1sg": [
+            {
+              "form": "співа́ю"
+            }
+          ],
+          "pres.2sg": [
+            {
+              "form": "співа́єш"
+            }
+          ],
+          "pres.3sg": [
+            {
+              "form": "співа́є"
+            }
+          ],
+          "pres.1pl": [
+            {
+              "form": "співа́ємо"
+            },
+            {
+              "form": "співа́єм"
+            }
+          ],
+          "pres.2pl": [
+            {
+              "form": "співа́єте"
+            }
+          ],
+          "pres.3pl": [
+            {
+              "form": "співа́ють"
+            }
+          ],
+          "fut.1sg": [
+            {
+              "form": "співа́тиму"
+            }
+          ],
+          "fut.2sg": [
+            {
+              "form": "співа́тимеш"
+            }
+          ],
+          "fut.3sg": [
+            {
+              "form": "співа́тиме"
+            }
+          ],
+          "fut.1pl": [
+            {
+              "form": "співа́тимемо"
+            },
+            {
+              "form": "співа́тимем"
+            }
+          ],
+          "fut.2pl": [
+            {
+              "form": "співа́тимете"
+            }
+          ],
+          "fut.3pl": [
+            {
+              "form": "співа́тимуть"
+            }
+          ],
+          "past.m": [
+            {
+              "form": "співа́в"
+            }
+          ],
+          "past.f": [
+            {
+              "form": "співа́ла"
+            }
+          ],
+          "past.n": [
+            {
+              "form": "співа́ло"
+            }
+          ],
+          "past.pl": [
+            {
+              "form": "співа́ли"
+            }
+          ],
+          "imp.1pl": [
+            {
+              "form": "співа́ймо"
+            }
+          ],
+          "imp.2sg": [
+            {
+              "form": "співа́й"
+            }
+          ],
+          "imp.2pl": [
+            {
+              "form": "співа́йте"
+            }
+          ],
+          "ptcp.pass.past": [
+            {
+              "form": "спі́ваний"
+            }
+          ],
+          "impers": [
+            {
+              "form": "спі́вано"
+            }
+          ],
+          "advp.pres": [
+            {
+              "form": "співа́ючи"
+            }
+          ],
+          "advp.past": [
+            {
+              "form": "співа́вши"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "1a",
+          "uk-conj"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[sʲpʲiˈʋate]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Uk-%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.ogg/Uk-%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Uk-%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.ogg",
+            "label": "Uk-співати"
+          }
+        ]
+      },
+      "relations": {
+        "derived": [
+          {
+            "word": "відспіва́ти",
+            "linked": true
+          },
+          {
+            "word": "спів",
+            "linked": true
+          },
+          {
+            "word": "співак",
+            "linked": true
+          },
+          {
+            "word": "співачка",
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 2693,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D0%BF/%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

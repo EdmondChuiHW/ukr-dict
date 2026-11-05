@@ -1,0 +1,113 @@
+{
+  "query": "ножиці",
+  "key": "ножиці",
+  "entries": [
+    {
+      "id": 14001,
+      "slug": "ножиці~noun",
+      "word": "ножиці",
+      "key": "ножиці",
+      "heads": [
+        "но́жиці"
+      ],
+      "pos": "noun",
+      "genders": [
+        "f"
+      ],
+      "animacy": "inanimate",
+      "number": "plural-only",
+      "senses": [
+        {
+          "gloss": "scissors, shears"
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.pl": [
+            {
+              "form": "но́жиці"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "но́жиць"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "но́жицям"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "но́жиці"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "но́жицями"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "но́жицях"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "но́жиці"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-a",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ˈnɔʒet͡sʲi]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/58/Uk-%D0%BD%D0%BE%D0%B6%D0%B8%D1%86%D1%96.ogg/Uk-%D0%BD%D0%BE%D0%B6%D0%B8%D1%86%D1%96.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/5/58/Uk-%D0%BD%D0%BE%D0%B6%D0%B8%D1%86%D1%96.ogg",
+            "label": "Uk-ножиці"
+          }
+        ]
+      },
+      "relations": {
+        "diminutive": [
+          {
+            "word": "но́жички",
+            "linked": false
+          }
+        ],
+        "relational-adjective": [
+          {
+            "word": "но́жичний",
+            "linked": false
+          }
+        ]
+      },
+      "freqRank": 19817,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%BD%D0%BE%D0%B6%D0%B8%D1%86%D1%96#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BD/%D0%BD%D0%BE/%D0%BD%D0%BE%D0%B6%D0%B8%D1%86%D1%96.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

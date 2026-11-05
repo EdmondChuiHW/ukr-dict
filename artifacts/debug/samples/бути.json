@@ -1,0 +1,445 @@
+{
+  "query": "бути",
+  "key": "бути",
+  "entries": [
+    {
+      "id": 8,
+      "slug": "бути~verb",
+      "word": "бути",
+      "key": "бути",
+      "heads": [
+        "бу́ти"
+      ],
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to be",
+          "examples": [
+            {
+              "text": "У ме́не є пита́ння",
+              "source": "wiktionary",
+              "translation": "I have a question."
+            },
+            {
+              "text": "Він був до́бре відо́мий на ба́тьківщині.",
+              "source": "wiktionary",
+              "translation": "He was well known in his homeland."
+            }
+          ]
+        },
+        {
+          "gloss": "used to form the future tense of imperfect verbs",
+          "tags": [
+            "auxiliary"
+          ],
+          "qualifier": "future tense",
+          "examples": [
+            {
+              "text": "Бу́ду роби́ти",
+              "source": "wiktionary",
+              "translation": "I will be doing."
+            },
+            {
+              "text": "Жи́ти бу́де",
+              "source": "wiktionary",
+              "translation": "He/She/It will live (be living)."
+            }
+          ],
+          "relations": {
+            "derived": [
+              {
+                "word": "добува́ти",
+                "tags": [
+                  "imperfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              },
+              {
+                "word": "добу́ти",
+                "tags": [
+                  "perfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              },
+              {
+                "word": "забува́ти",
+                "tags": [
+                  "imperfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              },
+              {
+                "word": "забу́ти",
+                "tags": [
+                  "perfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              },
+              {
+                "word": "набува́ти",
+                "tags": [
+                  "imperfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              },
+              {
+                "word": "набу́ти",
+                "tags": [
+                  "perfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              },
+              {
+                "word": "перебува́ти",
+                "tags": [
+                  "imperfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              },
+              {
+                "word": "перебу́ти",
+                "tags": [
+                  "perfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": false
+              },
+              {
+                "word": "побу́ти",
+                "tags": [
+                  "perfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": false
+              },
+              {
+                "word": "прибува́ти",
+                "tags": [
+                  "imperfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              },
+              {
+                "word": "прибу́ти",
+                "tags": [
+                  "perfective"
+                ],
+                "sense": "Prefixed verbs",
+                "linked": true
+              }
+            ]
+          }
+        },
+        {
+          "gloss": "used to form the pluperfect tense",
+          "tags": [
+            "auxiliary",
+            "past"
+          ],
+          "examples": [
+            {
+              "text": "Я був сказа́в / Я була́ сказа́ла",
+              "source": "wiktionary",
+              "translation": "I had said"
+            },
+            {
+              "text": "Вона́ пила́ була́",
+              "source": "wiktionary",
+              "translation": "She had been drinking"
+            },
+            {
+              "text": "Виходячи із смертельної небезпеки, яка нависла була над Україною в зв'язку з державним переворотом в СРСР 19 серпня 1991 року,",
+              "source": "wiktionary",
+              "translation": "Coming from the mortal danger, which had hung over Ukraine in connection with the state coup in the USSR on August 19, 1991,",
+              "ref": "1991 August 24, Акт проголошення незалежності України (Supreme Soviet of the Ukrainian Soviet Socialist Republic):"
+            }
+          ]
+        }
+      ],
+      "paradigm": {
+        "kind": "verb",
+        "forms": {
+          "inf": [
+            {
+              "form": "бу́ти"
+            },
+            {
+              "form": "буть"
+            }
+          ],
+          "pres.1sg": [
+            {
+              "form": "є"
+            },
+            {
+              "form": "єсть"
+            },
+            {
+              "form": "єсьм"
+            }
+          ],
+          "pres.2sg": [
+            {
+              "form": "є"
+            },
+            {
+              "form": "єсть"
+            },
+            {
+              "form": "єси́"
+            }
+          ],
+          "pres.3sg": [
+            {
+              "form": "є"
+            },
+            {
+              "form": "єсть"
+            }
+          ],
+          "pres.1pl": [
+            {
+              "form": "є"
+            },
+            {
+              "form": "єсть"
+            },
+            {
+              "form": "єсмо́"
+            },
+            {
+              "form": "смо"
+            }
+          ],
+          "pres.2pl": [
+            {
+              "form": "є"
+            },
+            {
+              "form": "єсть"
+            },
+            {
+              "form": "єсте́"
+            },
+            {
+              "form": "сте"
+            }
+          ],
+          "pres.3pl": [
+            {
+              "form": "є"
+            },
+            {
+              "form": "єсть"
+            },
+            {
+              "form": "суть"
+            }
+          ],
+          "fut.1sg": [
+            {
+              "form": "бу́ду"
+            }
+          ],
+          "fut.2sg": [
+            {
+              "form": "бу́деш"
+            }
+          ],
+          "fut.3sg": [
+            {
+              "form": "бу́де"
+            }
+          ],
+          "fut.1pl": [
+            {
+              "form": "бу́дем"
+            },
+            {
+              "form": "бу́демо"
+            }
+          ],
+          "fut.2pl": [
+            {
+              "form": "бу́дете"
+            }
+          ],
+          "fut.3pl": [
+            {
+              "form": "бу́дуть"
+            }
+          ],
+          "past.m": [
+            {
+              "form": "був"
+            }
+          ],
+          "past.f": [
+            {
+              "form": "була́"
+            }
+          ],
+          "past.n": [
+            {
+              "form": "було́"
+            }
+          ],
+          "past.pl": [
+            {
+              "form": "були́"
+            }
+          ],
+          "imp.1pl": [
+            {
+              "form": "бу́дьмо"
+            }
+          ],
+          "imp.2sg": [
+            {
+              "form": "будь"
+            }
+          ],
+          "imp.2pl": [
+            {
+              "form": "бу́дьте"
+            }
+          ],
+          "ptcp.act.pres": [
+            {
+              "form": "бу́дучий"
+            }
+          ],
+          "ptcp.act.past": [
+            {
+              "form": "бу́вший"
+            },
+            {
+              "form": "були́й"
+            }
+          ],
+          "advp.pres": [
+            {
+              "form": "бу́дучи"
+            }
+          ],
+          "advp.past": [
+            {
+              "form": "бу́вши"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "uk-conj-buty"
+        ]
+      },
+      "extraForms": [
+        {
+          "form": "єсьмо",
+          "tags": [
+            "first-person",
+            "plural",
+            "present"
+          ],
+          "origin": "form-of-entry"
+        },
+        {
+          "form": "єсьте",
+          "tags": [
+            "plural",
+            "present",
+            "second-person"
+          ],
+          "origin": "form-of-entry"
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ˈbute]",
+            "note": "Standard Ukrainian"
+          },
+          {
+            "value": "/ˈbutɪ/",
+            "note": "Galician-Bukovian"
+          },
+          {
+            "value": "[ˈbu̯͡o̝t̪ɘ]",
+            "note": "Galician-Bukovian"
+          },
+          {
+            "value": "[bu̯͡ʊt̪ɘ]",
+            "note": "Galician-Bukovian"
+          },
+          {
+            "value": "[bʷo̝t̪ɘ]",
+            "note": "Galician-Bukovian"
+          },
+          {
+            "value": "[bʷʊt̪ɘ]",
+            "note": "Galician-Bukovian"
+          },
+          {
+            "value": "/ˈbɯtɪ/",
+            "note": "Carpathian"
+          },
+          {
+            "value": "[bʷɯ̞t̪ɪ]",
+            "note": "Carpathian"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/Uk-%D0%B1%D1%83%D1%82%D0%B8.ogg/Uk-%D0%B1%D1%83%D1%82%D0%B8.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Uk-%D0%B1%D1%83%D1%82%D0%B8.ogg",
+            "label": "Uk-бути (Standard Ukrainian)"
+          },
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/Cr-%D0%B1%D1%8B%D1%82%D0%B8.ogg/Cr-%D0%B1%D1%8B%D1%82%D0%B8.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cr-%D0%B1%D1%8B%D1%82%D0%B8.ogg",
+            "label": "Cr-быти (Carpathian)"
+          }
+        ]
+      },
+      "relations": {
+        "alternative": [
+          {
+            "word": "буть",
+            "linked": false
+          },
+          {
+            "word": "би́ти",
+            "tags": [
+              "archaic",
+              "dialectal"
+            ],
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 7,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%B8#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B1/%D0%B1%D1%83/%D0%B1%D1%83%D1%82%D0%B8.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

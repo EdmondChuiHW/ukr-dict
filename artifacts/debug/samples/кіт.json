@@ -1,0 +1,227 @@
+{
+  "query": "кіт",
+  "key": "кіт",
+  "entries": [
+    {
+      "id": 6594,
+      "slug": "кіт~noun",
+      "word": "кіт",
+      "key": "кіт",
+      "heads": [
+        "кіт"
+      ],
+      "pos": "noun",
+      "genders": [
+        "m"
+      ],
+      "animacy": "animate",
+      "senses": [
+        {
+          "gloss": "male cat, tomcat (domestic feline; member of Felidae family)",
+          "relations": {
+            "derived": [
+              {
+                "word": "кицька",
+                "linked": true
+              },
+              {
+                "word": "кицю́ня",
+                "linked": true
+              },
+              {
+                "word": "кі́точка",
+                "linked": false
+              },
+              {
+                "word": "кі́шечка",
+                "linked": true
+              },
+              {
+                "word": "кі́шка",
+                "linked": true
+              },
+              {
+                "word": "ко́тик",
+                "linked": true
+              },
+              {
+                "word": "кото́к",
+                "linked": true
+              },
+              {
+                "word": "котопонеді́лок",
+                "linked": true
+              },
+              {
+                "word": "кото́чок",
+                "linked": true
+              },
+              {
+                "word": "коту́сь",
+                "linked": false
+              },
+              {
+                "word": "котя́чий",
+                "linked": true
+              },
+              {
+                "word": "кошеня́",
+                "linked": true
+              },
+              {
+                "word": "кошеня́тко",
+                "linked": false
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "кіт"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "кота́"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "кото́ві"
+            },
+            {
+              "form": "коту́"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "кота́"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "кото́м"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "кото́ві"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "ко́те"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "коти́"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "коті́в"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "кота́м"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "коти́"
+            },
+            {
+              "form": "коті́в"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "кота́ми"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "кота́х"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "коти́"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-b",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[kʲit]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/Uk-%D0%BA%D1%96%D1%82.ogg/Uk-%D0%BA%D1%96%D1%82.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/8/81/Uk-%D0%BA%D1%96%D1%82.ogg",
+            "label": "Uk-кіт"
+          }
+        ]
+      },
+      "relations": {
+        "diminutive": [
+          {
+            "word": "ко́тик",
+            "linked": true
+          },
+          {
+            "word": "кото́к",
+            "linked": true
+          },
+          {
+            "word": "коту́сь",
+            "linked": false
+          },
+          {
+            "word": "кицю́ня",
+            "linked": true
+          }
+        ],
+        "augmentative": [
+          {
+            "word": "котя́ра",
+            "linked": true
+          }
+        ],
+        "feminine": [
+          {
+            "word": "кі́шка",
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 7535,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%BA%D1%96%D1%82#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BA/%D0%BA%D1%96/%D0%BA%D1%96%D1%82.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

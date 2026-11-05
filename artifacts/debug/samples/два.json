@@ -1,0 +1,633 @@
+{
+  "query": "два",
+  "key": "два",
+  "entries": [
+    {
+      "id": 134,
+      "slug": "два~numeral",
+      "word": "два",
+      "key": "два",
+      "heads": [
+        "два"
+      ],
+      "pos": "numeral",
+      "genders": [
+        "m",
+        "n"
+      ],
+      "senses": [
+        {
+          "gloss": "two (2)",
+          "relations": {
+            "coordinate": [
+              {
+                "word": "нуль",
+                "linked": true
+              },
+              {
+                "word": "оди́н",
+                "linked": true
+              },
+              {
+                "word": "три",
+                "english": "try",
+                "linked": true
+              },
+              {
+                "word": "чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "п'ять",
+                "linked": true
+              },
+              {
+                "word": "шість",
+                "linked": true
+              },
+              {
+                "word": "сім",
+                "linked": true
+              },
+              {
+                "word": "ві́сім",
+                "linked": true
+              },
+              {
+                "word": "де́в'ять",
+                "linked": true
+              },
+              {
+                "word": "де́сять",
+                "linked": true
+              },
+              {
+                "word": "одина́дцять",
+                "linked": true
+              },
+              {
+                "word": "двана́дцять",
+                "linked": true
+              },
+              {
+                "word": "трина́дцять",
+                "linked": true
+              },
+              {
+                "word": "чотирна́дцять",
+                "linked": true
+              },
+              {
+                "word": "п'ятна́дцять",
+                "linked": true
+              },
+              {
+                "word": "шістна́дцять",
+                "linked": true
+              },
+              {
+                "word": "сімна́дцять",
+                "linked": true
+              },
+              {
+                "word": "вісімна́дцять",
+                "linked": true
+              },
+              {
+                "word": "дев'ятна́дцять",
+                "linked": true
+              },
+              {
+                "word": "два́дцять",
+                "linked": true
+              },
+              {
+                "word": "два́дцять оди́н",
+                "linked": true
+              },
+              {
+                "word": "два́дцять два́",
+                "linked": true
+              },
+              {
+                "word": "два́дцять три́",
+                "linked": true
+              },
+              {
+                "word": "два́дцять чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "два́дцять п'я́ть",
+                "linked": true
+              },
+              {
+                "word": "два́дцять ші́сть",
+                "linked": true
+              },
+              {
+                "word": "два́дцять сі́м",
+                "linked": true
+              },
+              {
+                "word": "два́дцять ві́сім",
+                "linked": true
+              },
+              {
+                "word": "два́дцять де́в'ять",
+                "linked": true
+              },
+              {
+                "word": "три́дцять",
+                "linked": true
+              },
+              {
+                "word": "три́дцять оди́н",
+                "linked": true
+              },
+              {
+                "word": "три́дцять два́",
+                "linked": true
+              },
+              {
+                "word": "три́дцять три́",
+                "linked": true
+              },
+              {
+                "word": "три́дцять чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "три́дцять п'я́ть",
+                "linked": true
+              },
+              {
+                "word": "три́дцять ші́сть",
+                "linked": true
+              },
+              {
+                "word": "три́дцять сі́м",
+                "linked": true
+              },
+              {
+                "word": "три́дцять ві́сім",
+                "linked": true
+              },
+              {
+                "word": "три́дцять де́в'ять",
+                "linked": true
+              },
+              {
+                "word": "со́рок",
+                "linked": true
+              },
+              {
+                "word": "со́рок оди́н",
+                "linked": true
+              },
+              {
+                "word": "со́рок два́",
+                "linked": true
+              },
+              {
+                "word": "со́рок три́",
+                "linked": true
+              },
+              {
+                "word": "со́рок чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "со́рок п'я́ть",
+                "linked": true
+              },
+              {
+                "word": "со́рок ші́сть",
+                "linked": true
+              },
+              {
+                "word": "со́рок сі́м",
+                "linked": true
+              },
+              {
+                "word": "со́рок ві́сім",
+                "linked": true
+              },
+              {
+                "word": "со́рок де́в'ять",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т оди́н",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т два́",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т три́",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т п'я́ть",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т ші́сть",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т сі́м",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т ві́сім",
+                "linked": true
+              },
+              {
+                "word": "п'ятдеся́т де́в'ять",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т оди́н",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т два́",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т три́",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т п'я́ть",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т ші́сть",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т сі́м",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т ві́сім",
+                "linked": true
+              },
+              {
+                "word": "шістдеся́т де́в'ять",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т оди́н",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т два́",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т три́",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т п'я́ть",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т ші́сть",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т сі́м",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т ві́сім",
+                "linked": true
+              },
+              {
+                "word": "сімдеся́т де́в'ять",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т оди́н",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т два́",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т три́",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т п'я́ть",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т ші́сть",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т сі́м",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т ві́сім",
+                "linked": true
+              },
+              {
+                "word": "вісімдеся́т де́в'ять",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто оди́н",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто два́",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто три́",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто чоти́ри",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто п'я́ть",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто ші́сть",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто сі́м",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто ві́сім",
+                "linked": true
+              },
+              {
+                "word": "дев'яно́сто де́в'ять",
+                "linked": true
+              }
+            ],
+            "derived": [
+              {
+                "word": "дві́єчник",
+                "linked": false
+              },
+              {
+                "word": "дві́йка",
+                "linked": true
+              },
+              {
+                "word": "двійка́р",
+                "linked": false
+              },
+              {
+                "word": "дві́йковий",
+                "linked": true
+              },
+              {
+                "word": "двійни́й",
+                "linked": true
+              },
+              {
+                "word": "двійни́к",
+                "linked": true
+              },
+              {
+                "word": "дві́йня",
+                "linked": false
+              },
+              {
+                "word": "двійня́та",
+                "linked": true
+              },
+              {
+                "word": "двійча́стий",
+                "linked": false
+              },
+              {
+                "word": "дво́їти",
+                "linked": true
+              },
+              {
+                "word": "подві́йний",
+                "linked": true
+              },
+              {
+                "word": "роздві́й",
+                "linked": false
+              },
+              {
+                "word": "удво́х",
+                "linked": true
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "adjectival",
+        "forms": {
+          "nom.m": [
+            {
+              "form": "два"
+            }
+          ],
+          "nom.n": [
+            {
+              "form": "два"
+            }
+          ],
+          "nom.f": [
+            {
+              "form": "дві"
+            }
+          ],
+          "gen.m": [
+            {
+              "form": "двох"
+            }
+          ],
+          "gen.n": [
+            {
+              "form": "двох"
+            }
+          ],
+          "gen.f": [
+            {
+              "form": "двох"
+            }
+          ],
+          "dat.m": [
+            {
+              "form": "двом"
+            }
+          ],
+          "dat.n": [
+            {
+              "form": "двом"
+            }
+          ],
+          "dat.f": [
+            {
+              "form": "двом"
+            }
+          ],
+          "ins.m": [
+            {
+              "form": "двома́"
+            }
+          ],
+          "ins.n": [
+            {
+              "form": "двома́"
+            }
+          ],
+          "ins.f": [
+            {
+              "form": "двома́"
+            }
+          ],
+          "loc.m": [
+            {
+              "form": "двох"
+            }
+          ],
+          "loc.n": [
+            {
+              "form": "двох"
+            }
+          ],
+          "loc.f": [
+            {
+              "form": "двох"
+            }
+          ],
+          "voc.m": [
+            {
+              "form": "два"
+            }
+          ],
+          "voc.n": [
+            {
+              "form": "два"
+            }
+          ],
+          "voc.f": [
+            {
+              "form": "дві"
+            }
+          ],
+          "acc.m.anim": [
+            {
+              "form": "двох"
+            }
+          ],
+          "acc.m.inan": [
+            {
+              "form": "два"
+            }
+          ],
+          "acc.n.anim": [
+            {
+              "form": "двох"
+            }
+          ],
+          "acc.n.inan": [
+            {
+              "form": "два"
+            }
+          ],
+          "acc.f.anim": [
+            {
+              "form": "двох"
+            }
+          ],
+          "acc.f.inan": [
+            {
+              "form": "дві"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "uk-adecl-manual"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ˈdʋa]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/Uk-%D0%B4%D0%B2%D0%B0.ogg/Uk-%D0%B4%D0%B2%D0%B0.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Uk-%D0%B4%D0%B2%D0%B0.ogg",
+            "label": "Uk-два"
+          }
+        ]
+      },
+      "freqRank": 139,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%B4%D0%B2%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B4/%D0%B4%D0%B2/%D0%B4%D0%B2%D0%B0.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

@@ -1,0 +1,204 @@
+{
+  "query": "я",
+  "key": "я",
+  "entries": [
+    {
+      "id": 25,
+      "slug": "я~pronoun",
+      "word": "я",
+      "key": "я",
+      "heads": [
+        "я"
+      ],
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "I (first-person singular subject pronoun)"
+        },
+        {
+          "gloss": "ego",
+          "topics": [
+            "human-sciences",
+            "psychology",
+            "sciences"
+          ]
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "я"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "мене́"
+            },
+            {
+              "form": "ме́не"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "мені́"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "мене́"
+            },
+            {
+              "form": "ме́не"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "мно́ю"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "мені́"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "l-self"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ja]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/Uk-%D1%8F.ogg/Uk-%D1%8F.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Uk-%D1%8F.ogg",
+            "label": "Uk-я"
+          }
+        ]
+      },
+      "freqRank": 25,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%8F#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%8F/%D1%8F/%D1%8F.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 36520,
+      "slug": "Я~letter",
+      "word": "Я",
+      "key": "я",
+      "heads": [
+        "Я"
+      ],
+      "pos": "letter",
+      "senses": [
+        {
+          "gloss": "The twenty-sixth letter of the Ukrainian alphabet, called я (ja) and written in the Cyrillic script.",
+          "tags": [
+            "uppercase"
+          ],
+          "links": [
+            {
+              "start": 58,
+              "end": 59,
+              "target": "я"
+            }
+          ]
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ja]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/LL-Q8798_%28ukr%29-Tohaomg-%D0%AF.wav/LL-Q8798_%28ukr%29-Tohaomg-%D0%AF.wav.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/LL-Q8798_%28ukr%29-Tohaomg-%D0%AF.wav/LL-Q8798_%28ukr%29-Tohaomg-%D0%AF.wav.ogg",
+            "label": "Lingua Libre: Tohaomg"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%AF#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%AF/%D0%AF/%D0%AF.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 36521,
+      "slug": "я~letter",
+      "word": "я",
+      "key": "я",
+      "heads": [
+        "я"
+      ],
+      "pos": "letter",
+      "senses": [
+        {
+          "gloss": "The thirty-third letter of the Ukrainian alphabet, called я (ja) and written in the Cyrillic script.",
+          "tags": [
+            "lowercase"
+          ],
+          "links": [
+            {
+              "start": 58,
+              "end": 59,
+              "target": "я"
+            }
+          ]
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ja]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/Uk-%D1%8F.ogg/Uk-%D1%8F.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Uk-%D1%8F.ogg",
+            "label": "Uk-я"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%8F#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%8F/%D1%8F/%D1%8F.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

@@ -1,0 +1,517 @@
+{
+  "query": "що",
+  "key": "що",
+  "entries": [
+    {
+      "id": 10,
+      "slug": "що~conjunction",
+      "word": "що",
+      "key": "що",
+      "heads": [
+        "що"
+      ],
+      "pos": "conjunction",
+      "senses": [
+        {
+          "gloss": "that"
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ʃt͡ʃɔ]",
+            "note": "Standard Ukrainian"
+          },
+          {
+            "value": "[ʃʂɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "[ʃːɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "[ʂːɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "[ʃɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "[ʂɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "/t͡ʃ.tʷɔ/",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃtʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃtʷɔ̝]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃʈʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂʈʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂtʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂt͡ʂʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃt͡ʂʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃʃʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃʂʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂʂʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂʷɔ]",
+            "note": "Transcarpathian"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/Uk-%D1%89%D0%BE.ogg/Uk-%D1%89%D0%BE.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/3/34/Uk-%D1%89%D0%BE.ogg",
+            "label": "Uk-що (Standard Ukrainian)"
+          }
+        ]
+      },
+      "relations": {
+        "alternative": [
+          {
+            "word": "шо",
+            "linked": true
+          },
+          {
+            "word": "што",
+            "linked": false
+          }
+        ]
+      },
+      "freqRank": 9,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%89%D0%BE#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%89/%D1%89%D0%BE/%D1%89%D0%BE.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "що~pronoun",
+      "word": "що",
+      "key": "що",
+      "heads": [
+        "що"
+      ],
+      "pos": "pronoun",
+      "genders": [
+        "n"
+      ],
+      "senses": [
+        {
+          "gloss": "that, which (relative pronoun)"
+        },
+        {
+          "gloss": "what (interrogative pronoun)"
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "що"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "чого́"
+            },
+            {
+              "form": "чо́го"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "чому́"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "що"
+            },
+            {
+              "form": "ві́що"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "чим"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "чому́"
+            },
+            {
+              "form": "чо́му"
+            },
+            {
+              "form": "чім"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "що"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "uk-ndecl-manual-sg"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ʃt͡ʃɔ]",
+            "note": "Standard Ukrainian"
+          },
+          {
+            "value": "[ʃʂɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "[ʃːɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "[ʂːɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "[ʃɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "[ʂɔ]",
+            "tags": [
+              "contracted"
+            ]
+          },
+          {
+            "value": "/t͡ʃ.tʷɔ/",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃtʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃtʷɔ̝]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃʈʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂʈʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂtʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂt͡ʂʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃt͡ʂʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃʃʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃʂʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂʂʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʃʷɔ]",
+            "note": "Transcarpathian"
+          },
+          {
+            "value": "[ʂʷɔ]",
+            "note": "Transcarpathian"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/Uk-%D1%89%D0%BE.ogg/Uk-%D1%89%D0%BE.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/3/34/Uk-%D1%89%D0%BE.ogg",
+            "label": "Uk-що (Standard Ukrainian)"
+          }
+        ]
+      },
+      "relations": {
+        "coordinate": [
+          {
+            "word": "і́нше",
+            "linked": false
+          },
+          {
+            "word": "хто",
+            "linked": true
+          },
+          {
+            "word": "той",
+            "linked": true
+          },
+          {
+            "word": "ніхто́",
+            "linked": true
+          },
+          {
+            "word": "і́нший",
+            "linked": true
+          },
+          {
+            "word": "та",
+            "linked": true
+          },
+          {
+            "word": "і́нша",
+            "linked": false
+          },
+          {
+            "word": "ті",
+            "linked": true
+          },
+          {
+            "word": "того́",
+            "linked": true
+          },
+          {
+            "word": "і́ншого",
+            "linked": false
+          },
+          {
+            "word": "як",
+            "linked": true
+          },
+          {
+            "word": "сяк",
+            "linked": true
+          },
+          {
+            "word": "так",
+            "linked": true
+          },
+          {
+            "word": "нія́к",
+            "linked": true
+          },
+          {
+            "word": "сяки́й",
+            "linked": false
+          },
+          {
+            "word": "таки́й",
+            "linked": true
+          },
+          {
+            "word": "коли́",
+            "linked": true
+          },
+          {
+            "word": "тоді́",
+            "linked": true
+          },
+          {
+            "word": "ніко́ли",
+            "linked": true
+          },
+          {
+            "word": "і́нколи",
+            "linked": true
+          },
+          {
+            "word": "де",
+            "linked": true
+          },
+          {
+            "word": "туто́сьде",
+            "linked": false
+          },
+          {
+            "word": "десьде-не-де",
+            "linked": false
+          },
+          {
+            "word": "ніде́",
+            "linked": true
+          },
+          {
+            "word": "і́нде",
+            "linked": true
+          },
+          {
+            "word": "зві́дки-не́будь",
+            "linked": false
+          },
+          {
+            "word": "нізві́дки",
+            "linked": true
+          },
+          {
+            "word": "куди́",
+            "linked": true
+          },
+          {
+            "word": "сюди́",
+            "linked": true
+          },
+          {
+            "word": "туди́",
+            "linked": true
+          },
+          {
+            "word": "довсю́ди",
+            "linked": false
+          },
+          {
+            "word": "ніку́ди",
+            "linked": true
+          },
+          {
+            "word": "і́нкуди",
+            "linked": false
+          },
+          {
+            "word": "скі́льки",
+            "linked": true
+          },
+          {
+            "word": "сті́льки",
+            "linked": true
+          }
+        ],
+        "alternative": [
+          {
+            "word": "шо",
+            "linked": true
+          },
+          {
+            "word": "што",
+            "linked": false
+          }
+        ],
+        "derived": [
+          {
+            "word": "що за хуй",
+            "linked": true
+          }
+        ],
+        "related": [
+          {
+            "word": "ніза́що",
+            "linked": true
+          },
+          {
+            "word": "ніщо́",
+            "linked": true
+          },
+          {
+            "word": "що-",
+            "linked": true
+          },
+          {
+            "word": "що-не́будь",
+            "linked": true
+          },
+          {
+            "word": "щоб",
+            "linked": true
+          },
+          {
+            "word": "щось",
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 20,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%89%D0%BE#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%89/%D1%89%D0%BE/%D1%89%D0%BE.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

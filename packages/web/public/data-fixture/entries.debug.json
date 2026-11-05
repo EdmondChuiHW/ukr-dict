@@ -1,0 +1,3739 @@
+[
+ {
+  "word": "і",
+  "heads": [
+   "і"
+  ],
+  "pos": "conjunction",
+  "senses": [
+   {
+    "gloss": "and"
+   },
+   {
+    "gloss": "both … and",
+    "qualifier": "і … і"
+   }
+  ],
+  "freqRank": 1,
+  "pronunciation": {
+   "ipa": [
+    {
+     "value": "[i]"
+    }
+   ]
+  },
+  "id": 0,
+  "slug": "і~conjunction",
+  "key": "і",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%96#Ukrainian",
+    "label": "Wiktionary: і"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%96/%D1%96/%D1%96.html",
+    "label": "kaikki.org: і"
+   }
+  ]
+ },
+ {
+  "word": "що",
+  "heads": [
+   "що"
+  ],
+  "pos": "pronoun",
+  "senses": [
+   {
+    "gloss": "what",
+    "tags": [
+     "interrogative"
+    ],
+    "examples": [
+     {
+      "text": "Що це?",
+      "translation": "What is this?",
+      "source": "wiktionary"
+     }
+    ]
+   },
+   {
+    "gloss": "which, that",
+    "tags": [
+     "relative"
+    ]
+   },
+   {
+    "gloss": "something",
+    "tags": [
+     "colloquial",
+     "indefinite"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "що"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "чо́го"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "чому́"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "що"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "чим"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "чо́му"
+     },
+     {
+      "form": "чім"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 2,
+  "id": 1,
+  "slug": "що~pronoun",
+  "key": "що",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%89%D0%BE#Ukrainian",
+    "label": "Wiktionary: що"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%89/%D1%89%D0%BE/%D1%89%D0%BE.html",
+    "label": "kaikki.org: що"
+   }
+  ]
+ },
+ {
+  "word": "що",
+  "heads": [
+   "що"
+  ],
+  "pos": "conjunction",
+  "senses": [
+   {
+    "gloss": "that",
+    "examples": [
+     {
+      "text": "Я зна́ю, що ти пра́вий.",
+      "translation": "I know that you are right.",
+      "source": "wiktionary"
+     }
+    ]
+   },
+   {
+    "gloss": "because, since",
+    "tags": [
+     "colloquial"
+    ]
+   }
+  ],
+  "freqRank": 2,
+  "id": 2,
+  "slug": "що~conjunction",
+  "key": "що",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%89%D0%BE#Ukrainian",
+    "label": "Wiktionary: що"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%89/%D1%89%D0%BE/%D1%89%D0%BE.html",
+    "label": "kaikki.org: що"
+   }
+  ]
+ },
+ {
+  "word": "по",
+  "heads": [
+   "по"
+  ],
+  "pos": "preposition",
+  "senses": [
+   {
+    "gloss": "[with locative]",
+    "headerOnly": true,
+    "tags": [
+     "with-locative"
+    ],
+    "subsenses": [
+     {
+      "gloss": "used to indicate a physical object on which an action is taking place, or a space in which something is taking place",
+      "tags": [
+       "with-locative"
+      ],
+      "examples": [
+       {
+        "text": "ходи́ти по ву́лиці",
+        "translation": "to walk along the street",
+        "source": "wiktionary"
+       }
+      ]
+     },
+     {
+      "gloss": "in the direction of",
+      "tags": [
+       "with-locative"
+      ]
+     },
+     {
+      "gloss": "used to indicate someone or something that is being mourned over",
+      "tags": [
+       "with-locative",
+       "colloquial"
+      ]
+     },
+     {
+      "gloss": "used to indicate a time-frame during which an action occurs",
+      "tags": [
+       "with-locative",
+       "colloquial"
+      ]
+     },
+     {
+      "gloss": "after",
+      "tags": [
+       "with-locative"
+      ],
+      "examples": [
+       {
+        "text": "по оді́нні",
+        "translation": "after school",
+        "source": "wiktionary"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "gloss": "[with accusative]",
+    "headerOnly": true,
+    "tags": [
+     "with-accusative"
+    ],
+    "subsenses": [
+     {
+      "gloss": "up to, as far as",
+      "tags": [
+       "with-accusative"
+      ]
+     },
+     {
+      "gloss": "for, to fetch",
+      "tags": [
+       "with-accusative",
+       "colloquial"
+      ],
+      "examples": [
+       {
+        "text": "піти́ по во́ду",
+        "translation": "to go for water",
+        "source": "wiktionary"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "gloss": "by means of (communication)",
+    "tags": [
+     "with-dative"
+    ],
+    "examples": [
+     {
+      "text": "по телефо́ну",
+      "translation": "by telephone",
+      "source": "wiktionary"
+     }
+    ]
+   },
+   {
+    "gloss": "each, apiece (distributive)",
+    "tags": [
+     "with-dative",
+     "distributive"
+    ]
+   }
+  ],
+  "pronunciation": {
+   "ipa": [
+    {
+     "value": "[pɔ]"
+    }
+   ]
+  },
+  "freqRank": 3,
+  "id": 3,
+  "slug": "по~preposition",
+  "key": "по",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE#Ukrainian",
+    "label": "Wiktionary: по"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BF/%D0%BF%D0%BE/%D0%BF%D0%BE.html",
+    "label": "kaikki.org: по"
+   }
+  ]
+ },
+ {
+  "word": "я",
+  "heads": [
+   "я"
+  ],
+  "pos": "pronoun",
+  "tags": [
+   "personal"
+  ],
+  "senses": [
+   {
+    "gloss": "I (first-person singular nominative)"
+   },
+   {
+    "gloss": "self, ego",
+    "tags": [
+     "as-noun"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "я"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "мене́"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "мені́"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "мене́"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "мно́ю"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "мені́"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 4,
+  "id": 4,
+  "slug": "я~pronoun",
+  "key": "я",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%8F#Ukrainian",
+    "label": "Wiktionary: я"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%8F/%D1%8F/%D1%8F.html",
+    "label": "kaikki.org: я"
+   }
+  ]
+ },
+ {
+  "word": "два",
+  "heads": [
+   "два"
+  ],
+  "pos": "numeral",
+  "tags": [
+   "cardinal"
+  ],
+  "senses": [
+   {
+    "gloss": "two"
+   }
+  ],
+  "paradigm": {
+   "kind": "adjectival",
+   "forms": {
+    "nom.m": [
+     {
+      "form": "два"
+     }
+    ],
+    "nom.n": [
+     {
+      "form": "два"
+     }
+    ],
+    "nom.f": [
+     {
+      "form": "дві"
+     }
+    ],
+    "gen.m": [
+     {
+      "form": "двох"
+     }
+    ],
+    "gen.n": [
+     {
+      "form": "двох"
+     }
+    ],
+    "gen.f": [
+     {
+      "form": "двох"
+     }
+    ],
+    "dat.m": [
+     {
+      "form": "двом"
+     }
+    ],
+    "dat.n": [
+     {
+      "form": "двом"
+     }
+    ],
+    "dat.f": [
+     {
+      "form": "двом"
+     }
+    ],
+    "acc.m.inan": [
+     {
+      "form": "два"
+     }
+    ],
+    "acc.m.anim": [
+     {
+      "form": "двох"
+     }
+    ],
+    "acc.n": [
+     {
+      "form": "два"
+     }
+    ],
+    "acc.f.inan": [
+     {
+      "form": "дві"
+     }
+    ],
+    "acc.f.anim": [
+     {
+      "form": "двох"
+     }
+    ],
+    "ins.m": [
+     {
+      "form": "двома́"
+     }
+    ],
+    "ins.n": [
+     {
+      "form": "двома́"
+     }
+    ],
+    "ins.f": [
+     {
+      "form": "двома́"
+     }
+    ],
+    "loc.m": [
+     {
+      "form": "двох"
+     }
+    ],
+    "loc.n": [
+     {
+      "form": "двох"
+     }
+    ],
+    "loc.f": [
+     {
+      "form": "двох"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 5,
+  "id": 5,
+  "slug": "два~numeral",
+  "key": "два",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B4%D0%B2%D0%B0#Ukrainian",
+    "label": "Wiktionary: два"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B4/%D0%B4%D0%B2/%D0%B4%D0%B2%D0%B0.html",
+    "label": "kaikki.org: два"
+   }
+  ]
+ },
+ {
+  "word": "мій",
+  "heads": [
+   "мій"
+  ],
+  "pos": "determiner",
+  "tags": [
+   "possessive"
+  ],
+  "senses": [
+   {
+    "gloss": "my, mine"
+   }
+  ],
+  "paradigm": {
+   "kind": "adjectival",
+   "forms": {
+    "nom.m": [
+     {
+      "form": "мій"
+     }
+    ],
+    "nom.n": [
+     {
+      "form": "моє́"
+     }
+    ],
+    "nom.f": [
+     {
+      "form": "моя́"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "мої́"
+     }
+    ],
+    "gen.m": [
+     {
+      "form": "мого́"
+     }
+    ],
+    "gen.n": [
+     {
+      "form": "мого́"
+     }
+    ],
+    "gen.f": [
+     {
+      "form": "моє́ї"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "мої́х"
+     }
+    ],
+    "dat.m": [
+     {
+      "form": "моє́му"
+     }
+    ],
+    "dat.n": [
+     {
+      "form": "моє́му"
+     }
+    ],
+    "dat.f": [
+     {
+      "form": "мої́й"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "мої́м"
+     }
+    ],
+    "acc.m.inan": [
+     {
+      "form": "мій"
+     }
+    ],
+    "acc.m.anim": [
+     {
+      "form": "мого́"
+     }
+    ],
+    "acc.n": [
+     {
+      "form": "моє́"
+     }
+    ],
+    "acc.f": [
+     {
+      "form": "мою́"
+     }
+    ],
+    "acc.pl.inan": [
+     {
+      "form": "мої́"
+     }
+    ],
+    "acc.pl.anim": [
+     {
+      "form": "мої́х"
+     }
+    ],
+    "ins.m": [
+     {
+      "form": "мої́м"
+     }
+    ],
+    "ins.n": [
+     {
+      "form": "мої́м"
+     }
+    ],
+    "ins.f": [
+     {
+      "form": "моє́ю"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "мої́ми"
+     }
+    ],
+    "loc.m": [
+     {
+      "form": "моє́му"
+     },
+     {
+      "form": "мої́м"
+     }
+    ],
+    "loc.n": [
+     {
+      "form": "моє́му"
+     },
+     {
+      "form": "мої́м"
+     }
+    ],
+    "loc.f": [
+     {
+      "form": "мої́й"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "мої́х"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 6,
+  "id": 6,
+  "slug": "мій~determiner",
+  "key": "мій",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%BC%D1%96%D0%B9#Ukrainian",
+    "label": "Wiktionary: мій"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BC/%D0%BC%D1%96/%D0%BC%D1%96%D0%B9.html",
+    "label": "kaikki.org: мій"
+   }
+  ]
+ },
+ {
+  "word": "говорити",
+  "heads": [
+   "говори́ти"
+  ],
+  "pos": "verb",
+  "aspect": "imperfective",
+  "aspectPartners": [
+   {
+    "word": "сказа́ти",
+    "aspect": "perfective",
+    "linked": false,
+    "source": "known-aspect-pairs"
+   }
+  ],
+  "senses": [
+   {
+    "gloss": "to speak, to talk",
+    "tags": [
+     "intransitive"
+    ]
+   },
+   {
+    "gloss": "to say, to tell",
+    "tags": [
+     "transitive"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "verb",
+   "forms": {
+    "inf": [
+     {
+      "form": "говори́ти"
+     }
+    ],
+    "pres.1sg": [
+     {
+      "form": "говорю́"
+     }
+    ],
+    "pres.2sg": [
+     {
+      "form": "гово́риш"
+     }
+    ],
+    "pres.3sg": [
+     {
+      "form": "гово́рить"
+     }
+    ],
+    "pres.1pl": [
+     {
+      "form": "гово́римо"
+     },
+     {
+      "form": "гово́рим",
+      "tags": [
+       "colloquial"
+      ]
+     }
+    ],
+    "pres.2pl": [
+     {
+      "form": "гово́рите"
+     }
+    ],
+    "pres.3pl": [
+     {
+      "form": "гово́рять"
+     }
+    ],
+    "past.m": [
+     {
+      "form": "говори́в"
+     }
+    ],
+    "past.f": [
+     {
+      "form": "говори́ла"
+     }
+    ],
+    "past.n": [
+     {
+      "form": "говори́ло"
+     }
+    ],
+    "past.pl": [
+     {
+      "form": "говори́ли"
+     }
+    ],
+    "imp.2sg": [
+     {
+      "form": "говори́"
+     }
+    ],
+    "imp.1pl": [
+     {
+      "form": "говорі́мо"
+     }
+    ],
+    "imp.2pl": [
+     {
+      "form": "говорі́ть"
+     }
+    ],
+    "ptcp.pass.past": [
+     {
+      "form": "гово́рений"
+     }
+    ],
+    "impers": [
+     {
+      "form": "гово́рено"
+     }
+    ],
+    "advp.pres": [
+     {
+      "form": "говорячи́"
+     }
+    ],
+    "advp.past": [
+     {
+      "form": "говори́вши"
+     }
+    ]
+   },
+   "source": "lcorp"
+  },
+  "freqRank": 7,
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B8#Ukrainian",
+    "label": "Wiktionary: говорити"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B3/%D0%B3%D0%BE/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B8.html",
+    "label": "kaikki.org: говорити"
+   },
+   {
+    "source": "lcorp",
+    "url": "https://lcorp.ulif.org.ua/dictua/dictua.aspx",
+    "label": "lcorp: search говорити",
+    "note": "inflection table"
+   }
+  ],
+  "id": 7,
+  "slug": "говорити~verb",
+  "key": "говорити"
+ },
+ {
+  "word": "великий",
+  "heads": [
+   "вели́кий"
+  ],
+  "pos": "adjective",
+  "senses": [
+   {
+    "gloss": "big, large, great"
+   },
+   {
+    "gloss": "grown-up, adult",
+    "tags": [
+     "colloquial"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "adjectival",
+   "forms": {
+    "nom.m": [
+     {
+      "form": "вели́кий"
+     }
+    ],
+    "nom.n": [
+     {
+      "form": "вели́ке"
+     }
+    ],
+    "nom.f": [
+     {
+      "form": "вели́ка"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "вели́кі"
+     }
+    ],
+    "gen.m": [
+     {
+      "form": "вели́кого"
+     }
+    ],
+    "gen.n": [
+     {
+      "form": "вели́кого"
+     }
+    ],
+    "gen.f": [
+     {
+      "form": "вели́кої"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "вели́ких"
+     }
+    ],
+    "dat.m": [
+     {
+      "form": "вели́кому"
+     }
+    ],
+    "dat.n": [
+     {
+      "form": "вели́кому"
+     }
+    ],
+    "dat.f": [
+     {
+      "form": "вели́кій"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "вели́ким"
+     }
+    ],
+    "acc.m.inan": [
+     {
+      "form": "вели́кий"
+     }
+    ],
+    "acc.m.anim": [
+     {
+      "form": "вели́кого"
+     }
+    ],
+    "acc.n": [
+     {
+      "form": "вели́ке"
+     }
+    ],
+    "acc.f": [
+     {
+      "form": "вели́ку"
+     }
+    ],
+    "acc.pl.inan": [
+     {
+      "form": "вели́кі"
+     }
+    ],
+    "acc.pl.anim": [
+     {
+      "form": "вели́ких"
+     }
+    ],
+    "ins.m": [
+     {
+      "form": "вели́ким"
+     }
+    ],
+    "ins.n": [
+     {
+      "form": "вели́ким"
+     }
+    ],
+    "ins.f": [
+     {
+      "form": "вели́кою"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "вели́кими"
+     }
+    ],
+    "loc.m": [
+     {
+      "form": "вели́кому"
+     },
+     {
+      "form": "вели́кім"
+     }
+    ],
+    "loc.n": [
+     {
+      "form": "вели́кому"
+     },
+     {
+      "form": "вели́кім"
+     }
+    ],
+    "loc.f": [
+     {
+      "form": "вели́кій"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "вели́ких"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "extraForms": [
+   {
+    "form": "бі́льший",
+    "tags": [
+     "comparative"
+    ],
+    "origin": "head"
+   },
+   {
+    "form": "найбі́льший",
+    "tags": [
+     "superlative"
+    ],
+    "origin": "head"
+   }
+  ],
+  "relations": {
+   "antonym": [
+    {
+     "word": "мали́й",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 8,
+  "id": 8,
+  "slug": "великий~adjective",
+  "key": "великий",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9#Ukrainian",
+    "label": "Wiktionary: великий"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B2/%D0%B2%D0%B5/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.html",
+    "label": "kaikki.org: великий"
+   }
+  ]
+ },
+ {
+  "word": "рука",
+  "heads": [
+   "рука́"
+  ],
+  "pos": "noun",
+  "genders": [
+   "f"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "hand"
+   },
+   {
+    "gloss": "arm"
+   },
+   {
+    "gloss": "handwriting",
+    "tags": [
+     "figuratively"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "рука́"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "ру́ки"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "руки́"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "рук"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "руці́"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "рука́м"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "ру́ку"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "ру́ки"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "руко́ю"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "рука́ми"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "руці́"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "рука́х"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "ру́ко"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "ру́ки"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "relations": {
+   "diminutive": [
+    {
+     "word": "ру́чка",
+     "linked": true
+    },
+    {
+     "word": "ру́чечка",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 9,
+  "id": 9,
+  "slug": "рука~noun",
+  "key": "рука",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D0%BA%D0%B0#Ukrainian",
+    "label": "Wiktionary: рука"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%80/%D1%80%D1%83/%D1%80%D1%83%D0%BA%D0%B0.html",
+    "label": "kaikki.org: рука"
+   }
+  ]
+ },
+ {
+  "word": "вода",
+  "heads": [
+   "вода́"
+  ],
+  "pos": "noun",
+  "genders": [
+   "f"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "water"
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "вода́"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "во́ди"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "води́"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "вод"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "воді́"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "во́дам"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "во́ду"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "во́ди"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "водо́ю"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "во́дами"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "воді́"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "во́дах"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "во́до"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "во́ди"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 10,
+  "id": 10,
+  "slug": "вода~noun",
+  "key": "вода",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%B0#Ukrainian",
+    "label": "Wiktionary: вода"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B2/%D0%B2%D0%BE/%D0%B2%D0%BE%D0%B4%D0%B0.html",
+    "label": "kaikki.org: вода"
+   }
+  ]
+ },
+ {
+  "word": "дім",
+  "heads": [
+   "дім"
+  ],
+  "pos": "noun",
+  "genders": [
+   "m"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "house, building"
+   },
+   {
+    "gloss": "home"
+   },
+   {
+    "gloss": "household, family",
+    "tags": [
+     "figuratively"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "дім"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "доми́"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "до́му"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "домі́в"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "до́мові"
+     },
+     {
+      "form": "до́му"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "дома́м"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "дім"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "доми́"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "до́мом"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "дома́ми"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "до́мі"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "дома́х"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "до́ме"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "доми́"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 11,
+  "id": 11,
+  "slug": "дім~noun",
+  "key": "дім",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B4%D1%96%D0%BC#Ukrainian",
+    "label": "Wiktionary: дім"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B4/%D0%B4%D1%96/%D0%B4%D1%96%D0%BC.html",
+    "label": "kaikki.org: дім"
+   }
+  ]
+ },
+ {
+  "word": "добрий",
+  "heads": [
+   "до́брий"
+  ],
+  "pos": "adjective",
+  "senses": [
+   {
+    "gloss": "good"
+   },
+   {
+    "gloss": "kind, good-natured"
+   }
+  ],
+  "paradigm": {
+   "kind": "adjectival",
+   "forms": {
+    "nom.m": [
+     {
+      "form": "до́брий"
+     }
+    ],
+    "nom.n": [
+     {
+      "form": "до́бре"
+     }
+    ],
+    "nom.f": [
+     {
+      "form": "до́бра"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "до́брі"
+     }
+    ],
+    "gen.m": [
+     {
+      "form": "до́брого"
+     }
+    ],
+    "gen.n": [
+     {
+      "form": "до́брого"
+     }
+    ],
+    "gen.f": [
+     {
+      "form": "до́брої"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "до́брих"
+     }
+    ],
+    "dat.m": [
+     {
+      "form": "до́брому"
+     }
+    ],
+    "dat.n": [
+     {
+      "form": "до́брому"
+     }
+    ],
+    "dat.f": [
+     {
+      "form": "до́брій"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "до́брим"
+     }
+    ],
+    "acc.m.inan": [
+     {
+      "form": "до́брий"
+     }
+    ],
+    "acc.m.anim": [
+     {
+      "form": "до́брого"
+     }
+    ],
+    "acc.n": [
+     {
+      "form": "до́бре"
+     }
+    ],
+    "acc.f": [
+     {
+      "form": "до́бру"
+     }
+    ],
+    "acc.pl.inan": [
+     {
+      "form": "до́брі"
+     }
+    ],
+    "acc.pl.anim": [
+     {
+      "form": "до́брих"
+     }
+    ],
+    "ins.m": [
+     {
+      "form": "до́брим"
+     }
+    ],
+    "ins.n": [
+     {
+      "form": "до́брим"
+     }
+    ],
+    "ins.f": [
+     {
+      "form": "до́брою"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "до́брими"
+     }
+    ],
+    "loc.m": [
+     {
+      "form": "до́брому"
+     },
+     {
+      "form": "до́брім"
+     }
+    ],
+    "loc.n": [
+     {
+      "form": "до́брому"
+     },
+     {
+      "form": "до́брім"
+     }
+    ],
+    "loc.f": [
+     {
+      "form": "до́брій"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "до́брих"
+     }
+    ],
+    "short.m": [
+     {
+      "form": "добр"
+     }
+    ],
+    "cmp": [
+     {
+      "form": "кра́щий"
+     }
+    ],
+    "sup": [
+     {
+      "form": "найкра́щий"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "relations": {
+   "synonym": [
+    {
+     "word": "хоро́ший",
+     "linked": false
+    }
+   ],
+   "antonym": [
+    {
+     "word": "злий",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 12,
+  "id": 12,
+  "slug": "добрий~adjective",
+  "key": "добрий",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B1%D1%80%D0%B8%D0%B9#Ukrainian",
+    "label": "Wiktionary: добрий"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B4/%D0%B4%D0%BE/%D0%B4%D0%BE%D0%B1%D1%80%D0%B8%D0%B9.html",
+    "label": "kaikki.org: добрий"
+   }
+  ]
+ },
+ {
+  "word": "стіл",
+  "heads": [
+   "стіл"
+  ],
+  "pos": "noun",
+  "genders": [
+   "m"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "table (item of furniture)"
+   },
+   {
+    "gloss": "food, cuisine, board",
+    "tags": [
+     "figuratively"
+    ]
+   },
+   {
+    "gloss": "princely throne",
+    "tags": [
+     "historical"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "стіл"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "столи́"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "стола́"
+     },
+     {
+      "form": "сто́лу"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "столі́в"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "столу́"
+     },
+     {
+      "form": "столо́ві"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "стола́м"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "стіл"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "столи́"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "столо́м"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "стола́ми"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "столі́"
+     },
+     {
+      "form": "столу́"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "стола́х"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "сто́ле"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "столи́"
+     }
+    ]
+   },
+   "source": "wiktionary",
+   "notes": [
+    "accent pattern b"
+   ]
+  },
+  "pronunciation": {
+   "ipa": [
+    {
+     "value": "[sʲtʲiɫ]"
+    },
+    {
+     "value": "[stiɫ]",
+     "tags": [
+      "colloquial"
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/Uk-%D1%81%D1%82%D1%96%D0%BB.ogg/Uk-%D1%81%D1%82%D1%96%D0%BB.ogg.mp3",
+     "label": "Uk-стіл.ogg"
+    }
+   ]
+  },
+  "relations": {
+   "diminutive": [
+    {
+     "word": "сто́лик",
+     "linked": false
+    }
+   ],
+   "derived": [
+    {
+     "word": "столо́вий",
+     "linked": false
+    },
+    {
+     "word": "столі́ття",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 13,
+  "id": 13,
+  "slug": "стіл~noun",
+  "key": "стіл",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D1%96%D0%BB#Ukrainian",
+    "label": "Wiktionary: стіл"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D1%82/%D1%81%D1%82%D1%96%D0%BB.html",
+    "label": "kaikki.org: стіл"
+   }
+  ]
+ },
+ {
+  "word": "Київ",
+  "heads": [
+   "Ки́їв"
+  ],
+  "pos": "proper-noun",
+  "genders": [
+   "m"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "Kyiv, Kiev (the capital city of Ukraine)"
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "Ки́їв"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "Ки́єва"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "Ки́єву"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "Ки́їв"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "Ки́євом"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "Ки́єві"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "Ки́єве"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 14,
+  "id": 14,
+  "slug": "Київ~proper-noun",
+  "key": "київ",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2#Ukrainian",
+    "label": "Wiktionary: Київ"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%9A/%D0%9A%D0%B8/%D0%9A%D0%B8%D1%97%D0%B2.html",
+    "label": "kaikki.org: Київ"
+   }
+  ]
+ },
+ {
+  "word": "співати",
+  "heads": [
+   "співа́ти"
+  ],
+  "pos": "verb",
+  "aspect": "imperfective",
+  "aspectPartners": [
+   {
+    "word": "заспіва́ти",
+    "aspect": "perfective",
+    "linked": true,
+    "source": "known-aspect-pairs"
+   },
+   {
+    "word": "поспіва́ти",
+    "aspect": "perfective",
+    "linked": true,
+    "source": "wiktionary"
+   }
+  ],
+  "senses": [
+   {
+    "gloss": "to sing",
+    "tags": [
+     "intransitive"
+    ],
+    "examples": [
+     {
+      "text": "Пта́шки співа́ють.",
+      "translation": "The birds are singing.",
+      "source": "wiktionary"
+     }
+    ]
+   },
+   {
+    "gloss": "to perform music",
+    "tags": [
+     "transitive"
+    ]
+   },
+   {
+    "gloss": "to twitter, to whistle, to crow, etc.",
+    "tags": [
+     "intransitive"
+    ]
+   },
+   {
+    "gloss": "to have a nice sound (about musical instrument, bell, toot, etc.)",
+    "tags": [
+     "figuratively",
+     "intransitive"
+    ]
+   },
+   {
+    "gloss": "to be in a nice mood, to be excited",
+    "tags": [
+     "figuratively",
+     "intransitive"
+    ]
+   },
+   {
+    "gloss": "to glorify (in poetry, songs) something or somebody",
+    "tags": [
+     "transitive"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "verb",
+   "forms": {
+    "inf": [
+     {
+      "form": "співа́ти"
+     }
+    ],
+    "pres.1sg": [
+     {
+      "form": "співа́ю"
+     }
+    ],
+    "pres.2sg": [
+     {
+      "form": "співа́єш"
+     }
+    ],
+    "pres.3sg": [
+     {
+      "form": "співа́є"
+     }
+    ],
+    "pres.1pl": [
+     {
+      "form": "співа́ємо"
+     },
+     {
+      "form": "співа́єм",
+      "tags": [
+       "colloquial"
+      ]
+     }
+    ],
+    "pres.2pl": [
+     {
+      "form": "співа́єте"
+     }
+    ],
+    "pres.3pl": [
+     {
+      "form": "співа́ють"
+     }
+    ],
+    "fut.1sg": [
+     {
+      "form": "співа́тиму"
+     }
+    ],
+    "fut.2sg": [
+     {
+      "form": "співа́тимеш"
+     }
+    ],
+    "fut.3sg": [
+     {
+      "form": "співа́тиме"
+     }
+    ],
+    "fut.1pl": [
+     {
+      "form": "співа́тимемо"
+     },
+     {
+      "form": "співа́тимем",
+      "tags": [
+       "colloquial"
+      ]
+     }
+    ],
+    "fut.2pl": [
+     {
+      "form": "співа́тимете"
+     }
+    ],
+    "fut.3pl": [
+     {
+      "form": "співа́тимуть"
+     }
+    ],
+    "past.m": [
+     {
+      "form": "співа́в"
+     }
+    ],
+    "past.f": [
+     {
+      "form": "співа́ла"
+     }
+    ],
+    "past.n": [
+     {
+      "form": "співа́ло"
+     }
+    ],
+    "past.pl": [
+     {
+      "form": "співа́ли"
+     }
+    ],
+    "imp.2sg": [
+     {
+      "form": "співа́й"
+     }
+    ],
+    "imp.1pl": [
+     {
+      "form": "співа́ймо"
+     }
+    ],
+    "imp.2pl": [
+     {
+      "form": "співа́йте"
+     }
+    ],
+    "ptcp.act.pres": [
+     {
+      "form": "співа́ючий",
+      "tags": [
+       "rare"
+      ]
+     }
+    ],
+    "ptcp.pass.past": [
+     {
+      "form": "спі́ваний"
+     }
+    ],
+    "impers": [
+     {
+      "form": "спі́вано"
+     }
+    ],
+    "advp.pres": [
+     {
+      "form": "співа́ючи"
+     }
+    ],
+    "advp.past": [
+     {
+      "form": "співа́вши"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "pronunciation": {
+   "ipa": [
+    {
+     "value": "[sʲpʲiˈʋate]"
+    }
+   ],
+   "audio": [
+    {
+     "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Uk-%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.ogg/Uk-%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.ogg.mp3",
+     "label": "Uk-співати.ogg"
+    }
+   ]
+  },
+  "relations": {
+   "related": [
+    {
+     "word": "спів",
+     "linked": false
+    },
+    {
+     "word": "співа́к",
+     "linked": true
+    },
+    {
+     "word": "пі́сня",
+     "linked": true
+    }
+   ],
+   "derived": [
+    {
+     "word": "проспіва́ти",
+     "linked": false
+    },
+    {
+     "word": "доспіва́ти",
+     "linked": false
+    },
+    {
+     "word": "переспіва́ти",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 15,
+  "id": 15,
+  "slug": "співати~verb",
+  "key": "співати",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8#Ukrainian",
+    "label": "Wiktionary: співати"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D0%BF/%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.html",
+    "label": "kaikki.org: співати"
+   }
+  ]
+ },
+ {
+  "word": "пісня",
+  "heads": [
+   "пі́сня"
+  ],
+  "pos": "noun",
+  "genders": [
+   "f"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "song"
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "пі́сня"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "пі́сні"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "пі́сні"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "пісе́нь"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "пі́сні"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "пі́сням"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "пі́сню"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "пі́сні"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "пі́снею"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "пі́снями"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "пі́сні"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "пі́снях"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "пі́сне"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "пі́сні"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 16,
+  "id": 16,
+  "slug": "пісня~noun",
+  "key": "пісня",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%BF%D1%96%D1%81%D0%BD%D1%8F#Ukrainian",
+    "label": "Wiktionary: пісня"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BF/%D0%BF%D1%96/%D0%BF%D1%96%D1%81%D0%BD%D1%8F.html",
+    "label": "kaikki.org: пісня"
+   }
+  ]
+ },
+ {
+  "word": "собака",
+  "heads": [
+   "соба́ка"
+  ],
+  "pos": "noun",
+  "genders": [
+   "m",
+   "f"
+  ],
+  "animacy": "animate",
+  "senses": [
+   {
+    "gloss": "dog (animal)",
+    "examples": [
+     {
+      "text": "Соба́ка гавка́є.",
+      "translation": "The dog is barking.",
+      "source": "wiktionary"
+     }
+    ]
+   },
+   {
+    "gloss": "scoundrel, detestable person",
+    "tags": [
+     "figuratively",
+     "derogatory"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "соба́ка"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "соба́ки"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "соба́ки"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "соба́к"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "соба́ці"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "соба́кам"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "соба́ку"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "соба́к"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "соба́кою"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "соба́ками"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "соба́ці"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "соба́ках"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "соба́ко"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "соба́ки"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "pronunciation": {
+   "ipa": [
+    {
+     "value": "[sɔˈbakɐ]"
+    }
+   ],
+   "audio": [
+    {
+     "ogg": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg",
+     "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg.mp3",
+     "label": "Uk-собака.ogg"
+    }
+   ]
+  },
+  "relations": {
+   "synonym": [
+    {
+     "word": "пес",
+     "linked": true
+    },
+    {
+     "word": "псина",
+     "linked": false,
+     "tags": [
+      "colloquial"
+     ]
+    }
+   ],
+   "diminutive": [
+    {
+     "word": "соба́чка",
+     "linked": true
+    },
+    {
+     "word": "соба́чечка",
+     "linked": false
+    }
+   ],
+   "derived": [
+    {
+     "word": "соба́чий",
+     "linked": false
+    },
+    {
+     "word": "соба́чник",
+     "linked": false
+    },
+    {
+     "word": "соба́чниця",
+     "linked": false
+    },
+    {
+     "word": "соба́чність",
+     "linked": false
+    },
+    {
+     "word": "собаківни́к",
+     "linked": false
+    },
+    {
+     "word": "соба́читися",
+     "linked": false
+    },
+    {
+     "word": "собацю́ра",
+     "linked": false
+    },
+    {
+     "word": "собачу́га",
+     "linked": false
+    },
+    {
+     "word": "собакозна́вець",
+     "linked": false
+    },
+    {
+     "word": "собакозна́вство",
+     "linked": false
+    },
+    {
+     "word": "собаколо́в",
+     "linked": false
+    },
+    {
+     "word": "собаче́нько",
+     "linked": false
+    },
+    {
+     "word": "соба́чий хвіст",
+     "linked": false
+    },
+    {
+     "word": "соба́ча будка́",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 17,
+  "id": 17,
+  "slug": "собака~noun",
+  "key": "собака",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0#Ukrainian",
+    "label": "Wiktionary: собака"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D0%BE/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.html",
+    "label": "kaikki.org: собака"
+   }
+  ]
+ },
+ {
+  "word": "зелений",
+  "heads": [
+   "зеле́ний"
+  ],
+  "pos": "adjective",
+  "senses": [
+   {
+    "gloss": "green"
+   },
+   {
+    "gloss": "unripe",
+    "tags": [
+     "figuratively"
+    ]
+   },
+   {
+    "gloss": "inexperienced, green",
+    "tags": [
+     "figuratively",
+     "colloquial"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "adjectival",
+   "forms": {
+    "nom.m": [
+     {
+      "form": "зеле́ний"
+     }
+    ],
+    "nom.n": [
+     {
+      "form": "зеле́не"
+     }
+    ],
+    "nom.f": [
+     {
+      "form": "зеле́на"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "зеле́ні"
+     }
+    ],
+    "gen.m": [
+     {
+      "form": "зеле́ного"
+     }
+    ],
+    "gen.n": [
+     {
+      "form": "зеле́ного"
+     }
+    ],
+    "gen.f": [
+     {
+      "form": "зеле́ної"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "зеле́них"
+     }
+    ],
+    "dat.m": [
+     {
+      "form": "зеле́ному"
+     }
+    ],
+    "dat.n": [
+     {
+      "form": "зеле́ному"
+     }
+    ],
+    "dat.f": [
+     {
+      "form": "зеле́ній"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "зеле́ним"
+     }
+    ],
+    "acc.m.inan": [
+     {
+      "form": "зеле́ний"
+     }
+    ],
+    "acc.m.anim": [
+     {
+      "form": "зеле́ного"
+     }
+    ],
+    "acc.n": [
+     {
+      "form": "зеле́не"
+     }
+    ],
+    "acc.f": [
+     {
+      "form": "зеле́ну"
+     }
+    ],
+    "acc.pl.inan": [
+     {
+      "form": "зеле́ні"
+     }
+    ],
+    "acc.pl.anim": [
+     {
+      "form": "зеле́них"
+     }
+    ],
+    "ins.m": [
+     {
+      "form": "зеле́ним"
+     }
+    ],
+    "ins.n": [
+     {
+      "form": "зеле́ним"
+     }
+    ],
+    "ins.f": [
+     {
+      "form": "зеле́ною"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "зеле́ними"
+     }
+    ],
+    "loc.m": [
+     {
+      "form": "зеле́ному"
+     },
+     {
+      "form": "зеле́нім"
+     }
+    ],
+    "loc.n": [
+     {
+      "form": "зеле́ному"
+     },
+     {
+      "form": "зеле́нім"
+     }
+    ],
+    "loc.f": [
+     {
+      "form": "зеле́ній"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "зеле́них"
+     }
+    ],
+    "short.m": [
+     {
+      "form": "зеле́н",
+      "tags": [
+       "poetic"
+      ]
+     }
+    ],
+    "cmp": [
+     {
+      "form": "зелені́ший"
+     }
+    ],
+    "sup": [
+     {
+      "form": "найзелені́ший"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "relations": {
+   "related": [
+    {
+     "word": "зе́лень",
+     "linked": false
+    },
+    {
+     "word": "зелені́ти",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 18,
+  "id": 18,
+  "slug": "зелений~adjective",
+  "key": "зелений",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9#Ukrainian",
+    "label": "Wiktionary: зелений"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B7/%D0%B7%D0%B5/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9.html",
+    "label": "kaikki.org: зелений"
+   }
+  ]
+ },
+ {
+  "word": "замок",
+  "heads": [
+   "за́мок"
+  ],
+  "pos": "noun",
+  "genders": [
+   "m"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "castle"
+   },
+   {
+    "gloss": "palace, manor",
+    "tags": [
+     "broadly"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "за́мок"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "за́мки"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "за́мку"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "за́мків"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "за́мку"
+     },
+     {
+      "form": "за́мкові"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "за́мкам"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "за́мок"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "за́мки"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "за́мком"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "за́мками"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "за́мку"
+     },
+     {
+      "form": "за́мкові"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "за́мках"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "за́мку"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "за́мки"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 19,
+  "id": 19,
+  "slug": "замок~noun",
+  "key": "замок",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA#Ukrainian",
+    "label": "Wiktionary: замок"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B7/%D0%B7%D0%B0/%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA.html",
+    "label": "kaikki.org: замок"
+   }
+  ]
+ },
+ {
+  "word": "ручка",
+  "heads": [
+   "ру́чка"
+  ],
+  "pos": "noun",
+  "genders": [
+   "f"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "pen (writing implement)"
+   },
+   {
+    "gloss": "handle"
+   },
+   {
+    "gloss": "hilt (of a sword)"
+   },
+   {
+    "gloss": "diminutive of рука́: small hand, arm",
+    "tags": [
+     "diminutive"
+    ],
+    "links": [
+     {
+      "start": 14,
+      "end": 19,
+      "target": "рука́"
+     }
+    ],
+    "formOf": [
+     {
+      "word": "рука́",
+      "tags": [
+       "diminutive"
+      ],
+      "linked": true
+     }
+    ]
+   },
+   {
+    "gloss": "armrest (of an armchair); cf. підлокітник",
+    "links": [
+     {
+      "start": 30,
+      "end": 41,
+      "target": "підлокі́тник"
+     }
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "ру́чка"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "ру́чки"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "ру́чки"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "ру́чок"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "ру́чці"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "ру́чкам"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "ру́чку"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "ру́чки"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "ру́чкою"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "ру́чками"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "ру́чці"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "ру́чках"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "ру́чко"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "ру́чки"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "pronunciation": {
+   "ipa": [
+    {
+     "value": "[ˈrut͡ʃkɐ]"
+    }
+   ]
+  },
+  "freqRank": 20,
+  "id": 20,
+  "slug": "ручка~noun",
+  "key": "ручка",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D1%87%D0%BA%D0%B0#Ukrainian",
+    "label": "Wiktionary: ручка"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%80/%D1%80%D1%83/%D1%80%D1%83%D1%87%D0%BA%D0%B0.html",
+    "label": "kaikki.org: ручка"
+   }
+  ]
+ },
+ {
+  "word": "замок",
+  "heads": [
+   "замо́к"
+  ],
+  "pos": "noun",
+  "genders": [
+   "m"
+  ],
+  "animacy": "inanimate",
+  "senses": [
+   {
+    "gloss": "lock (fastening device)"
+   },
+   {
+    "gloss": "keystone (of an arch)",
+    "tags": [
+     "architecture"
+    ],
+    "topics": [
+     "architecture"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "замо́к"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "замки́"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "замка́"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "замкі́в"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "замку́"
+     },
+     {
+      "form": "замко́ві"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "замка́м"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "замо́к"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "замки́"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "замко́м"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "замка́ми"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "замку́"
+     },
+     {
+      "form": "замко́ві"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "замка́х"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "замку́"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "замки́"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "relations": {
+   "diminutive": [
+    {
+     "word": "замо́чок",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 21,
+  "id": 21,
+  "slug": "замок~noun~2",
+  "key": "замок",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA#Ukrainian",
+    "label": "Wiktionary: замок"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B7/%D0%B7%D0%B0/%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA.html",
+    "label": "kaikki.org: замок"
+   }
+  ]
+ },
+ {
+  "word": "п'ять",
+  "heads": [
+   "п'ять"
+  ],
+  "pos": "numeral",
+  "tags": [
+   "cardinal"
+  ],
+  "senses": [
+   {
+    "gloss": "five"
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "п'ять"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "п'ятьо́х"
+     },
+     {
+      "form": "п'яти́"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "п'ятьо́м"
+     },
+     {
+      "form": "п'яти́"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "п'ять"
+     },
+     {
+      "form": "п'ятьо́х"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "п'ятьма́"
+     },
+     {
+      "form": "п'ятьо́ма"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "п'ятьо́х"
+     },
+     {
+      "form": "п'яти́"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 22,
+  "id": 22,
+  "slug": "п'ять~numeral",
+  "key": "п'ять",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%BF'%D1%8F%D1%82%D1%8C#Ukrainian",
+    "label": "Wiktionary: п'ять"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BF/%D0%BF'/%D0%BF'%D1%8F%D1%82%D1%8C.html",
+    "label": "kaikki.org: п'ять"
+   }
+  ]
+ },
+ {
+  "word": "співак",
+  "heads": [
+   "співа́к"
+  ],
+  "pos": "noun",
+  "genders": [
+   "m"
+  ],
+  "animacy": "animate",
+  "senses": [
+   {
+    "gloss": "singer"
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "співа́к"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "співаки́"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "співака́"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "співакі́в"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "співаку́"
+     },
+     {
+      "form": "співако́ві"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "співака́м"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "співака́"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "співакі́в"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "співако́м"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "співака́ми"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "співаку́"
+     },
+     {
+      "form": "співако́ві"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "співака́х"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "співа́че"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "співаки́"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "relations": {
+   "feminine": [
+    {
+     "word": "співа́чка",
+     "linked": false
+    }
+   ]
+  },
+  "freqRank": 23,
+  "id": 23,
+  "slug": "співак~noun",
+  "key": "співак",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D0%BA#Ukrainian",
+    "label": "Wiktionary: співак"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D0%BF/%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D0%BA.html",
+    "label": "kaikki.org: співак"
+   }
+  ]
+ },
+ {
+  "word": "пес",
+  "heads": [
+   "пес"
+  ],
+  "pos": "noun",
+  "genders": [
+   "m"
+  ],
+  "animacy": "animate",
+  "senses": [
+   {
+    "gloss": "dog, hound"
+   },
+   {
+    "gloss": "cur (contemptible person)",
+    "tags": [
+     "figuratively",
+     "derogatory"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "пес"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "пси"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "пса"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "псів"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "псу"
+     },
+     {
+      "form": "псо́ві"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "псам"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "пса"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "псів"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "псом"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "пса́ми"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "псо́ві"
+     },
+     {
+      "form": "псі"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "псах"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "псе"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "пси"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "relations": {
+   "synonym": [
+    {
+     "word": "соба́ка",
+     "linked": true
+    }
+   ]
+  },
+  "freqRank": 24,
+  "id": 24,
+  "slug": "пес~noun",
+  "key": "пес",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%81#Ukrainian",
+    "label": "Wiktionary: пес"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BF/%D0%BF%D0%B5/%D0%BF%D0%B5%D1%81.html",
+    "label": "kaikki.org: пес"
+   }
+  ]
+ },
+ {
+  "word": "заспівати",
+  "heads": [
+   "заспіва́ти"
+  ],
+  "pos": "verb",
+  "aspect": "perfective",
+  "aspectPartners": [
+   {
+    "word": "співа́ти",
+    "aspect": "imperfective",
+    "linked": true,
+    "source": "known-aspect-pairs"
+   }
+  ],
+  "senses": [
+   {
+    "gloss": "to begin to sing, to start singing"
+   },
+   {
+    "gloss": "to sing (a song)",
+    "tags": [
+     "transitive"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "verb",
+   "forms": {
+    "inf": [
+     {
+      "form": "заспіва́ти"
+     }
+    ],
+    "fut.1sg": [
+     {
+      "form": "заспіва́ю"
+     }
+    ],
+    "fut.2sg": [
+     {
+      "form": "заспіва́єш"
+     }
+    ],
+    "fut.3sg": [
+     {
+      "form": "заспіва́є"
+     }
+    ],
+    "fut.1pl": [
+     {
+      "form": "заспіва́ємо"
+     }
+    ],
+    "fut.2pl": [
+     {
+      "form": "заспіва́єте"
+     }
+    ],
+    "fut.3pl": [
+     {
+      "form": "заспіва́ють"
+     }
+    ],
+    "past.m": [
+     {
+      "form": "заспіва́в"
+     }
+    ],
+    "past.f": [
+     {
+      "form": "заспіва́ла"
+     }
+    ],
+    "past.n": [
+     {
+      "form": "заспіва́ло"
+     }
+    ],
+    "past.pl": [
+     {
+      "form": "заспіва́ли"
+     }
+    ],
+    "imp.2sg": [
+     {
+      "form": "заспіва́й"
+     }
+    ],
+    "imp.1pl": [
+     {
+      "form": "заспіва́ймо"
+     }
+    ],
+    "imp.2pl": [
+     {
+      "form": "заспіва́йте"
+     }
+    ],
+    "ptcp.pass.past": [
+     {
+      "form": "заспі́ваний"
+     }
+    ],
+    "impers": [
+     {
+      "form": "заспі́вано"
+     }
+    ],
+    "advp.past": [
+     {
+      "form": "заспіва́вши"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "freqRank": 25,
+  "id": 25,
+  "slug": "заспівати~verb",
+  "key": "заспівати",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8#Ukrainian",
+    "label": "Wiktionary: заспівати"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B7/%D0%B7%D0%B0/%D0%B7%D0%B0%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.html",
+    "label": "kaikki.org: заспівати"
+   }
+  ]
+ },
+ {
+  "word": "поспівати",
+  "heads": [
+   "поспіва́ти"
+  ],
+  "pos": "verb",
+  "aspect": "perfective",
+  "aspectPartners": [
+   {
+    "word": "співа́ти",
+    "aspect": "imperfective",
+    "linked": true,
+    "source": "wiktionary"
+   }
+  ],
+  "senses": [
+   {
+    "gloss": "to sing for a while"
+   }
+  ],
+  "freqRank": 26,
+  "id": 26,
+  "slug": "поспівати~verb",
+  "key": "поспівати",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8#Ukrainian",
+    "label": "Wiktionary: поспівати"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BF/%D0%BF%D0%BE/%D0%BF%D0%BE%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%82%D0%B8.html",
+    "label": "kaikki.org: поспівати"
+   }
+  ]
+ },
+ {
+  "word": "собачка",
+  "heads": [
+   "соба́чка"
+  ],
+  "pos": "noun",
+  "genders": [
+   "f"
+  ],
+  "animacy": "animate",
+  "senses": [
+   {
+    "gloss": "diminutive of соба́ка: doggy, little dog",
+    "tags": [
+     "diminutive"
+    ],
+    "links": [
+     {
+      "start": 14,
+      "end": 21,
+      "target": "соба́ка"
+     }
+    ],
+    "formOf": [
+     {
+      "word": "соба́ка",
+      "tags": [
+       "diminutive"
+      ],
+      "linked": true
+     }
+    ]
+   },
+   {
+    "gloss": "trigger (of a gun)",
+    "tags": [
+     "colloquial"
+    ]
+   }
+  ],
+  "paradigm": {
+   "kind": "noun",
+   "forms": {
+    "nom.sg": [
+     {
+      "form": "соба́чка"
+     }
+    ],
+    "nom.pl": [
+     {
+      "form": "соба́чки"
+     }
+    ],
+    "gen.sg": [
+     {
+      "form": "соба́чки"
+     }
+    ],
+    "gen.pl": [
+     {
+      "form": "соба́чок"
+     }
+    ],
+    "dat.sg": [
+     {
+      "form": "соба́чці"
+     }
+    ],
+    "dat.pl": [
+     {
+      "form": "соба́чкам"
+     }
+    ],
+    "acc.sg": [
+     {
+      "form": "соба́чку"
+     }
+    ],
+    "acc.pl": [
+     {
+      "form": "соба́чок"
+     }
+    ],
+    "ins.sg": [
+     {
+      "form": "соба́чкою"
+     }
+    ],
+    "ins.pl": [
+     {
+      "form": "соба́чками"
+     }
+    ],
+    "loc.sg": [
+     {
+      "form": "соба́чці"
+     }
+    ],
+    "loc.pl": [
+     {
+      "form": "соба́чках"
+     }
+    ],
+    "voc.sg": [
+     {
+      "form": "соба́чко"
+     }
+    ],
+    "voc.pl": [
+     {
+      "form": "соба́чки"
+     }
+    ]
+   },
+   "source": "wiktionary"
+  },
+  "id": 27,
+  "slug": "собачка~noun",
+  "key": "собачка",
+  "sources": [
+   {
+    "source": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B1%D0%B0%D1%87%D0%BA%D0%B0#Ukrainian",
+    "label": "Wiktionary: собачка"
+   },
+   {
+    "source": "kaikki",
+    "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D0%BE/%D1%81%D0%BE%D0%B1%D0%B0%D1%87%D0%BA%D0%B0.html",
+    "label": "kaikki.org: собачка"
+   }
+  ]
+ },
+ {
+  "word": "хот-дог",
+  "heads": [
+   "хот-до́г"
+  ],
+  "pos": "noun",
+  "genders": [
+   "m"
+  ],
+  "senses": [
+   {
+    "gloss": "hot dog",
+    "qualifier": "sausage in a bun"
+   }
+  ],
+  "created": {
+   "method": "english-translation",
+   "from": [
+    {
+     "enWord": "hot dog",
+     "enPos": "noun",
+     "sense": "sausage in a bun",
+     "url": "https://en.wiktionary.org/wiki/hot_dog#English"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "source": "wiktionary-translations",
+    "url": "https://en.wiktionary.org/wiki/hot_dog#English",
+    "label": "English Wiktionary: hot dog",
+    "note": "translation of English 'hot dog' (noun)"
+   }
+  ],
+  "id": 28,
+  "slug": "хот-дог~noun",
+  "key": "хот-дог"
+ }
+]

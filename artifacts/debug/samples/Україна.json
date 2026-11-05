@@ -1,0 +1,940 @@
+{
+  "query": "Україна",
+  "key": "україна",
+  "entries": [
+    {
+      "id": 13,
+      "slug": "Україна~proper-noun",
+      "word": "Україна",
+      "key": "україна",
+      "heads": [
+        "Украї́на"
+      ],
+      "pos": "proper-noun",
+      "genders": [
+        "f"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "Ukraine (a country in Eastern Europe; capital and largest city: Kyiv)",
+          "tags": [
+            "uncountable"
+          ],
+          "examples": [
+            {
+              "text": "в Украї́ні, на Вкраї́ні",
+              "source": "wiktionary",
+              "translation": "in Ukraine"
+            },
+            {
+              "text": "в Украї́ну",
+              "source": "wiktionary",
+              "translation": "to Ukraine"
+            },
+            {
+              "text": "з Украї́ни",
+              "source": "wiktionary",
+              "translation": "from Ukraine"
+            }
+          ],
+          "relations": {
+            "meronym": [
+              {
+                "word": "Автоно́мна Респу́бліка Крим",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Ві́нницька обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Ві́нниччина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Воли́нська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Воли́нь",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Дніпропетро́вська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Дніпропетро́вщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Доне́цька обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Доне́ччина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Жито́мирська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Жито́мирщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Закарпа́тська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Закарпа́ття",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Запорі́зька обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Запорі́жжя",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Іва́но-Франкі́вська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Іва́но-Франкі́вщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Ки́ївська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Ки́ївщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Кіровогра́дська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Кіровогра́дщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Луга́нська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Луга́нщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Льві́вська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Льві́вщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Микола́ївська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Микола́ївщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "мі́сто Ки́їв",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "мі́сто Севасто́поль",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Оде́ська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Оде́щина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Полта́вська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Полта́вщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Рі́вненська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Рі́вненщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Сумська́ обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Су́мщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Терно́пільська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Тернопі́лля",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Ха́рківська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Ха́рківщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Херсо́нська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Херсо́нщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Хмельни́цька обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Хмельни́ччина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Черка́ська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Черка́щина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Черніве́цька обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Черніве́ччина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              },
+              {
+                "word": "Черні́гівська обл",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": false
+              },
+              {
+                "word": "Черні́гівщина",
+                "sense": "the constituent oblasti, autonomous republic, and cities with special status of Ukraine",
+                "linked": true
+              }
+            ],
+            "derived": [
+              {
+                "word": "все бу́де Украї́на",
+                "english": "all will be Ukraine",
+                "linked": true
+              },
+              {
+                "word": "давньоукраїнський",
+                "english": "Old Ukrainian, ancient Ukrainian",
+                "linked": true
+              },
+              {
+                "word": "сла́ва Украї́ні",
+                "english": "glory to Ukraine",
+                "linked": true
+              },
+              {
+                "word": "укр-",
+                "linked": true
+              },
+              {
+                "word": "Украї́на-Ру́сь",
+                "tags": [
+                  "feminine"
+                ],
+                "english": "Ukraine-Rus; Ruthenian people; Ukraine as the successor of Kyivan Rus",
+                "linked": true
+              },
+              {
+                "word": "украї́нець",
+                "tags": [
+                  "masculine"
+                ],
+                "english": "a Ukrainian man",
+                "linked": true
+              },
+              {
+                "word": "украї́нка",
+                "tags": [
+                  "feminine"
+                ],
+                "english": "a Ukrainian woman; a place name or surname; the poet Lesya Ukrainka",
+                "linked": true
+              },
+              {
+                "word": "україніза́ція",
+                "tags": [
+                  "feminine"
+                ],
+                "english": "Ukrainisation, becoming Ukrainian",
+                "linked": true
+              },
+              {
+                "word": "україні́зм",
+                "tags": [
+                  "masculine"
+                ],
+                "english": "Ukrainism; a distinctively Ukrainian word; Ukrainian nationalism",
+                "linked": true
+              },
+              {
+                "word": "українізува́ти",
+                "english": "to Ukrainise, to make something Ukrainian",
+                "linked": true
+              },
+              {
+                "word": "україні́стика",
+                "tags": [
+                  "feminine"
+                ],
+                "english": "Ukrainian studies",
+                "linked": true
+              },
+              {
+                "word": "україно-",
+                "linked": true
+              },
+              {
+                "word": "україно-польський",
+                "english": "Ukrainian-Polish",
+                "linked": true
+              },
+              {
+                "word": "украї́но-росі́йський",
+                "english": "Ukrainian-Russian",
+                "linked": true
+              },
+              {
+                "word": "українозна́вство",
+                "tags": [
+                  "neuter"
+                ],
+                "english": "Ukrainian studies",
+                "linked": true
+              },
+              {
+                "word": "україноненави́сництво",
+                "tags": [
+                  "neuter"
+                ],
+                "english": "Ukrainophobia, fear or hatred of Ukrainians",
+                "linked": true
+              },
+              {
+                "word": "українофі́льство",
+                "tags": [
+                  "neuter"
+                ],
+                "english": "Ukrainophilia, love or liking of Ukrainians",
+                "linked": true
+              },
+              {
+                "word": "українофо́бія",
+                "tags": [
+                  "feminine"
+                ],
+                "english": "Ukrainophobia, fear or hatred of Ukrainians",
+                "linked": true
+              },
+              {
+                "word": "украї́нство",
+                "tags": [
+                  "neuter"
+                ],
+                "english": "Ukraineness, the state of being Ukrainian",
+                "linked": true
+              },
+              {
+                "word": "украї́нський",
+                "english": "Ukrainian, related to Ukraine",
+                "linked": true
+              },
+              {
+                "word": "укро-",
+                "linked": false
+              },
+              {
+                "word": "Уркаї́на",
+                "tags": [
+                  "derogatory",
+                  "feminine"
+                ],
+                "english": "Ukraine under President Yanukovych",
+                "linked": true
+              }
+            ],
+            "related": [
+              {
+                "word": "Малоро́сія",
+                "tags": [
+                  "historical"
+                ],
+                "english": "now can be perceived pejorative",
+                "linked": true
+              },
+              {
+                "word": "Русь",
+                "linked": true
+              },
+              {
+                "word": "Украї́нська Наро́дна Респу́бліка",
+                "linked": true
+              },
+              {
+                "word": "УНР",
+                "linked": true
+              },
+              {
+                "word": "Украї́нська Радя́нська Соціялісти́чна Респу́бліка",
+                "linked": true
+              },
+              {
+                "word": "Украї́нська Радя́нська Соціалісти́чна Респу́бліка",
+                "linked": true
+              },
+              {
+                "word": "УРСР",
+                "linked": true
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "Украї́на"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "Украї́ни"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "Украї́ні"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "Украї́ну"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "Украї́ною"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "Украї́ні"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "Украї́но"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-a",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ʊkrɐˈjinɐ]"
+          },
+          {
+            "value": "[ʊˈkrajinɐ]",
+            "tags": [
+              "poetic"
+            ]
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/LL-Q8798_%28ukr%29-Vshmorgun-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.wav/LL-Q8798_%28ukr%29-Vshmorgun-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.wav.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/LL-Q8798_%28ukr%29-Vshmorgun-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.wav/LL-Q8798_%28ukr%29-Vshmorgun-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.wav.ogg",
+            "label": "Lingua Libre: Vshmorgun"
+          }
+        ]
+      },
+      "relations": {
+        "alternative": [
+          {
+            "word": "Вкраї́на",
+            "linked": true
+          },
+          {
+            "word": "Укра́йна",
+            "linked": false
+          }
+        ],
+        "relational-adjective": [
+          {
+            "word": "украї́нський",
+            "linked": true
+          }
+        ],
+        "related": [
+          {
+            "word": "украї́нець",
+            "tags": [
+              "demonym"
+            ],
+            "linked": true
+          },
+          {
+            "word": "украї́нка",
+            "tags": [
+              "demonym",
+              "feminine"
+            ],
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 12,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%A3/%D0%A3%D0%BA/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 35650,
+      "slug": "україна~noun",
+      "word": "україна",
+      "key": "україна",
+      "heads": [
+        "укра́їна"
+      ],
+      "pos": "noun",
+      "genders": [
+        "f"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "a territory or a land along the border of a country",
+          "tags": [
+            "dated"
+          ],
+          "relations": {
+            "synonym": [
+              {
+                "word": "окра́їна",
+                "linked": true
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "укра́їна"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "укра́їни"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "укра́їні"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "укра́їну"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "укра́їною"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "укра́їні"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "укра́їно"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "укра́їни"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "укра́їн"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "укра́їнам"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "укра́їни"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "укра́їнами"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "укра́їнах"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "укра́їни"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-a",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ʊˈkrajinɐ]"
+          }
+        ]
+      },
+      "relations": {
+        "synonym": [
+          {
+            "word": "Батьківщина",
+            "tags": [
+              "endearing"
+            ],
+            "linked": true
+          },
+          {
+            "word": "Мала Росія",
+            "tags": [
+              "offensive",
+              "dated"
+            ],
+            "linked": true
+          },
+          {
+            "word": "Мала Русь",
+            "tags": [
+              "offensive",
+              "dated"
+            ],
+            "linked": true
+          },
+          {
+            "word": "Малоросія",
+            "tags": [
+              "offensive",
+              "dated"
+            ],
+            "linked": true
+          },
+          {
+            "word": "Ненька",
+            "tags": [
+              "endearing"
+            ],
+            "linked": true
+          },
+          {
+            "word": "Ненька Україна",
+            "tags": [
+              "endearing"
+            ],
+            "linked": false
+          },
+          {
+            "word": "Україна-Русь",
+            "tags": [
+              "endearing",
+              "dated"
+            ],
+            "linked": true
+          },
+          {
+            "word": "Уркаїна",
+            "tags": [
+              "derogatory"
+            ],
+            "linked": true
+          },
+          {
+            "word": "Юкрейн",
+            "tags": [
+              "humorous"
+            ],
+            "linked": true
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%83/%D1%83%D0%BA/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.html",
+          "label": "kaikki.org"
+        },
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%A3/%D0%A3%D0%BA/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 35651,
+      "slug": "україна~noun~2",
+      "word": "україна",
+      "key": "україна",
+      "heads": [
+        "украї́на"
+      ],
+      "pos": "noun",
+      "genders": [
+        "f"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "country, land, region",
+          "tags": [
+            "dated"
+          ],
+          "examples": [
+            {
+              "text": "Він на всі коза́цькі украї́ни за ли́царя зна́ний, а вона́ зросла́ в степу́, як трава́.",
+              "source": "wiktionary",
+              "translation": "He is known in all Cossack lands as a knight and she he is grown in the steppe, like grass.",
+              "ref": "1963, Петро́ Панч (Petró Panč), Гомоні́ла Украї́на (Homoníla Ukrajína) [Homonila Ukrayina], page 175:"
+            }
+          ]
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "украї́на"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "украї́ни"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "украї́ні"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "украї́ну"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "украї́ною"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "украї́ні"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "украї́но"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "украї́ни"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "украї́н"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "украї́нам"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "украї́ни"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "украї́нами"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "украї́нах"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "украї́ни"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-a",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ʊˈkrajinɐ]"
+          },
+          {
+            "value": "[ʊkrɐˈjinɐ]"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%83/%D1%83%D0%BA/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

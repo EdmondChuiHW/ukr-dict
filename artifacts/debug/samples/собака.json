@@ -1,0 +1,322 @@
+{
+  "query": "собака",
+  "key": "собака",
+  "entries": [
+    {
+      "id": 4051,
+      "slug": "собака~noun",
+      "word": "собака",
+      "key": "собака",
+      "heads": [
+        "соба́ка"
+      ],
+      "pos": "noun",
+      "genders": [
+        "m",
+        "f"
+      ],
+      "animacy": "animate",
+      "senses": [
+        {
+          "gloss": "dog (animal)",
+          "relations": {
+            "synonym": [
+              {
+                "word": "пес",
+                "linked": true
+              },
+              {
+                "word": "су́ка",
+                "tags": [
+                  "vulgar"
+                ],
+                "english": "female dog",
+                "linked": true
+              }
+            ],
+            "derived": [
+              {
+                "word": "свинособа́ка",
+                "tags": [
+                  "feminine"
+                ],
+                "linked": true
+              },
+              {
+                "word": "собаківни́к",
+                "tags": [
+                  "masculine"
+                ],
+                "linked": false
+              },
+              {
+                "word": "собаківни́цтво",
+                "tags": [
+                  "neuter"
+                ],
+                "linked": true
+              },
+              {
+                "word": "соба́цька",
+                "tags": [
+                  "feminine"
+                ],
+                "linked": false
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "соба́ка"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "соба́ки"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "соба́ці"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "соба́ку"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "соба́кою"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "соба́ці"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "соба́ко"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "соба́ки"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "соба́к"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "соба́кам"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "соба́ки"
+            },
+            {
+              "form": "соба́к"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "соба́ками"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "соба́ках"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "соба́ки"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-a",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[sɔˈbakɐ]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg",
+            "label": "Uk-собака"
+          }
+        ]
+      },
+      "relations": {
+        "diminutive": [
+          {
+            "word": "соба́чка",
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 4306,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D0%BE/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 4052,
+      "slug": "собака~noun~2",
+      "word": "собака",
+      "key": "собака",
+      "heads": [
+        "соба́ка"
+      ],
+      "pos": "noun",
+      "genders": [
+        "m",
+        "f"
+      ],
+      "animacy": "animate",
+      "senses": [
+        {
+          "gloss": "scoundrel, detestable person",
+          "tags": [
+            "figuratively",
+            "derogatory"
+          ]
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "соба́ка"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "соба́ки"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "соба́ці"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "соба́ку"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "соба́кою"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "соба́ці"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "соба́ко"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "соба́ки"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "соба́к"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "соба́кам"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "соба́к"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "соба́ками"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "соба́ках"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "соба́ки"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-a",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[sɔˈbakɐ]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Uk-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.ogg",
+            "label": "Uk-собака"
+          }
+        ]
+      },
+      "freqRank": 4306,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D0%BE/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

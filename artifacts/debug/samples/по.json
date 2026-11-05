@@ -1,0 +1,519 @@
+{
+  "query": "по",
+  "key": "по",
+  "entries": [
+    {
+      "id": 78,
+      "slug": "по~preposition",
+      "word": "по",
+      "key": "по",
+      "heads": [
+        "по"
+      ],
+      "pos": "preposition",
+      "senses": [
+        {
+          "gloss": "[with locative]",
+          "headerOnly": true,
+          "subsenses": [
+            {
+              "gloss": "used to indicate a physical object on which an action is taking place, or to indicate a space in which something is taking place",
+              "examples": [
+                {
+                  "text": "По столі́ розки́дані ру́чки.",
+                  "source": "wiktionary",
+                  "translation": "Pens are strewn across the table."
+                },
+                {
+                  "text": "По мі́сті ді́є коменда́нтська годи́на.",
+                  "source": "wiktionary",
+                  "translation": "Curfew is in place in the city."
+                }
+              ]
+            },
+            {
+              "gloss": "in the direction of",
+              "examples": [
+                {
+                  "text": "йти вниз по ріці́",
+                  "source": "wiktionary",
+                  "translation": "to follow the river downstream"
+                },
+                {
+                  "text": "плисти́ по ві́трі",
+                  "source": "wiktionary",
+                  "translation": "to sail in the direction of the wind"
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate a direct object upon which an action is performed",
+              "examples": [
+                {
+                  "text": "Мене́ вда́рили по голові́.",
+                  "source": "wiktionary",
+                  "translation": "I was hit on the head."
+                },
+                {
+                  "text": "Він зи́ркає по на́товпі час від ча́су.",
+                  "source": "wiktionary",
+                  "translation": "He looks at the crowd from time to time."
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate someone or something that is being mourned over",
+              "tags": [
+                "colloquial"
+              ],
+              "examples": [
+                {
+                  "text": "По ньо́му пла́кала вся Украї́на.",
+                  "source": "wiktionary",
+                  "translation": "All of Ukraine was mourning his death."
+                }
+              ]
+            },
+            {
+              "gloss": "after",
+              "examples": [
+                {
+                  "text": "Пам'ята́й, си́нку: по те́мній но́чі завжди́ настає́ сві́тлий ра́нок.",
+                  "source": "wiktionary",
+                  "translation": "Remember, son: after a dark night, a bright morning always comes."
+                }
+              ],
+              "relations": {
+                "synonym": [
+                  {
+                    "word": "пі́сля",
+                    "linked": true
+                  }
+                ]
+              }
+            },
+            {
+              "gloss": "used to indicate the disappearance, irreparable damage, or death of someone or something.",
+              "tags": [
+                "colloquial"
+              ],
+              "examples": [
+                {
+                  "text": "Ку́хлик ви́слизнув з мої́х рук і по ньо́му ста́ло!",
+                  "source": "wiktionary",
+                  "translation": "The mug slipped out of my hands and it broke!"
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate a time-frame during which an action occurs.",
+              "tags": [
+                "colloquial"
+              ],
+              "examples": [
+                {
+                  "text": "по яскра́вому мі́сяці",
+                  "source": "wiktionary",
+                  "translation": "when a bright moon (rises)"
+                },
+                {
+                  "text": "по ночах",
+                  "source": "wiktionary",
+                  "translation": "during the night"
+                }
+              ]
+            },
+            {
+              "gloss": "one after another",
+              "examples": [
+                {
+                  "text": "годи́на по годи́ні",
+                  "source": "wiktionary",
+                  "translation": "hour after hour"
+                },
+                {
+                  "text": "пи́во по пи́ві",
+                  "source": "wiktionary",
+                  "translation": "beer after beer"
+                }
+              ]
+            },
+            {
+              "gloss": "used with a temporal noun to indicate the age of something",
+              "tags": [
+                "dialectal"
+              ],
+              "examples": [
+                {
+                  "text": "Йому́ було́ по шо́стому ро́ці коли́ він пішо́в до шко́ли.",
+                  "source": "wiktionary",
+                  "translation": "He was six years old when he went to school."
+                }
+              ]
+            },
+            {
+              "gloss": "through",
+              "examples": [
+                {
+                  "text": "бабу́ся по ма́тері",
+                  "source": "wiktionary",
+                  "translation": "maternal grandmother"
+                },
+                {
+                  "text": "по ба́тькові",
+                  "source": "wiktionary",
+                  "translation": "patronymic"
+                },
+                {
+                  "text": "това́риш по шко́лі",
+                  "source": "wiktionary",
+                  "translation": "school friend"
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate the object with which an action is performed.",
+              "examples": [
+                {
+                  "text": "підня́тися по моту́зці",
+                  "source": "wiktionary",
+                  "translation": "to climb a rope"
+                },
+                {
+                  "text": "транслюва́ти по ра́діо",
+                  "source": "wiktionary",
+                  "translation": "to broadcast on a radio"
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate a justification by which one arrives at a conclusion.",
+              "examples": [
+                {
+                  "text": "По її́ поведі́нці мо́жна було́ зрозумі́ти, що щось не так.",
+                  "source": "wiktionary",
+                  "translation": "One could tell something is wrong by her behaviour."
+                },
+                {
+                  "text": "Не суди́ кни́жку по обкла́динці.",
+                  "source": "wiktionary",
+                  "translation": "Don't judge a book by its cover."
+                }
+              ]
+            },
+            {
+              "gloss": "used with certain nouns to form parentheses.",
+              "examples": [
+                {
+                  "text": "Це, по су́ті, відве́рта брехня́.",
+                  "source": "wiktionary",
+                  "translation": "This is basically a complete lie."
+                },
+                {
+                  "text": "Він, по ща́сті, зміг утекти́.",
+                  "source": "wiktionary",
+                  "translation": "He, luckily, was able to escape."
+                }
+              ]
+            },
+            {
+              "gloss": "each",
+              "examples": [
+                {
+                  "text": "Дай усі́м ді́тям по цуке́рці.",
+                  "source": "wiktionary",
+                  "translation": "Give all the children a candy each."
+                }
+              ]
+            },
+            {
+              "gloss": "for (a length of time)",
+              "examples": [
+                {
+                  "text": "Лю́ди ви́мушені чека́ти по ти́жні, аби отри́мати ї́жу.",
+                  "source": "wiktionary",
+                  "translation": "People are forced to wait for a week to get food."
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate distance traveled in a certain period of time.",
+              "examples": [
+                {
+                  "text": "Мандрівники́ прохо́дять по п'ятна́дцать кіломе́трів на годину",
+                  "source": "wiktionary",
+                  "translation": "Travelers travel fifteen kilometres each hour."
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate the purpose of an action.",
+              "tags": [
+                "colloquial"
+              ],
+              "examples": [
+                {
+                  "text": "Івасько́ прийшо́в до ньо́го по ді́лу.",
+                  "source": "wiktionary",
+                  "translation": "Ivan came to him to do business."
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate the reason for an action.",
+              "tags": [
+                "colloquial"
+              ],
+              "examples": [
+                {
+                  "text": "Ми по ду́рості забу́ли ви́мкнути пра́ску вдо́ма.",
+                  "source": "wiktionary",
+                  "translation": "We have forgotten to turn off the iron at home due to our foolishness."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gloss": "[with accusative]",
+          "headerOnly": true,
+          "subsenses": [
+            {
+              "gloss": "used with directional nouns to indicate direction",
+              "examples": [
+                {
+                  "text": "по пра́ву ру́ку",
+                  "source": "wiktionary",
+                  "translation": "to the right-hand side"
+                },
+                {
+                  "text": "по лі́ву сто́рону",
+                  "source": "wiktionary",
+                  "translation": "to the left side"
+                }
+              ]
+            },
+            {
+              "gloss": "up to",
+              "examples": [
+                {
+                  "text": "по колі́на",
+                  "source": "wiktionary",
+                  "translation": "up to the knees"
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate an object which is the target of an action",
+              "examples": [
+                {
+                  "text": "Треба́ піти́ до крамни́ці по хліб.",
+                  "source": "wiktionary",
+                  "translation": "We need to go to the store for some bread."
+                },
+                {
+                  "text": "Гайда́ візьме́м сачки́ та й по мете́лики!",
+                  "source": "wiktionary",
+                  "translation": "Let's take butterfly nets and go after the butterflies!"
+                }
+              ]
+            },
+            {
+              "gloss": "until",
+              "examples": [
+                {
+                  "text": "Я коха́тиму тебе́ по смерть!",
+                  "source": "wiktionary",
+                  "translation": "I will love you until death!"
+                },
+                {
+                  "text": "Міст буду́ється по сей день.",
+                  "source": "wiktionary",
+                  "translation": "The bridge is still being built to this day."
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate an action done according to someone's wish or request.",
+              "tags": [
+                "with-personal-pronoun"
+              ],
+              "examples": [
+                {
+                  "text": "Сашко́ ро́бить усе́ по його́.",
+                  "source": "wiktionary",
+                  "translation": "Sasha does everything as he pleases."
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate quantity.",
+              "examples": [
+                {
+                  "text": "Не тре́ба мені́ повто́рювати по де́сять разі́в!",
+                  "source": "wiktionary",
+                  "translation": "You don't have to repeat it to me ten times!"
+                },
+                {
+                  "text": "Ко́жному дали́ по кількана́дцять гри́вень.",
+                  "source": "wiktionary",
+                  "translation": "Everyone was given umpteen hryvnias."
+                }
+              ]
+            },
+            {
+              "gloss": "used to indicate the price of something.",
+              "examples": [
+                {
+                  "text": "З глу́зду з'ї́хали! Прода́ють я́йця по 80 гри́вень дю́жина!",
+                  "source": "wiktionary",
+                  "translation": "They've gone insane! They're selling eggs for 80 hryvnias a dozen!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[pɔ]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Uk-%D0%BF%D0%BE.ogg/Uk-%D0%BF%D0%BE.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Uk-%D0%BF%D0%BE.ogg",
+            "label": "Uk-по"
+          }
+        ]
+      },
+      "freqRank": 79,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BF/%D0%BF%D0%BE/%D0%BF%D0%BE.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 33579,
+      "slug": "По~proper-noun",
+      "word": "По",
+      "key": "по",
+      "heads": [
+        "По"
+      ],
+      "pos": "proper-noun",
+      "tags": [
+        "indeclinable"
+      ],
+      "genders": [
+        "n"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "Po (a river in Italy)"
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[pɔ]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/LL-Q8798_%28ukr%29-Po_ukrai%C5%84sku_%28Andriana%29-%D0%9F%D0%BE.wav/LL-Q8798_%28ukr%29-Po_ukrai%C5%84sku_%28Andriana%29-%D0%9F%D0%BE.wav.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/LL-Q8798_%28ukr%29-Po_ukrai%C5%84sku_%28Andriana%29-%D0%9F%D0%BE.wav/LL-Q8798_%28ukr%29-Po_ukrai%C5%84sku_%28Andriana%29-%D0%9F%D0%BE.wav.ogg",
+            "label": "Lingua Libre: Po ukraińsku (Andriana)"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%9F%D0%BE#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%9F/%D0%9F%D0%BE/%D0%9F%D0%BE.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 33580,
+      "slug": "По~proper-noun~2",
+      "word": "По",
+      "key": "по",
+      "heads": [
+        "По"
+      ],
+      "pos": "proper-noun",
+      "tags": [
+        "indeclinable"
+      ],
+      "genders": [
+        "m"
+      ],
+      "animacy": "animate",
+      "senses": [
+        {
+          "gloss": "Petro Poroshenko (former president of Ukraine)",
+          "tags": [
+            "slang",
+            "derogatory"
+          ],
+          "topics": [
+            "government",
+            "politics"
+          ],
+          "relations": {
+            "coordinate": [
+              {
+                "word": "Зе",
+                "linked": true
+              }
+            ]
+          }
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[pɔ]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/LL-Q8798_%28ukr%29-Po_ukrai%C5%84sku_%28Andriana%29-%D0%9F%D0%BE.wav/LL-Q8798_%28ukr%29-Po_ukrai%C5%84sku_%28Andriana%29-%D0%9F%D0%BE.wav.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/LL-Q8798_%28ukr%29-Po_ukrai%C5%84sku_%28Andriana%29-%D0%9F%D0%BE.wav/LL-Q8798_%28ukr%29-Po_ukrai%C5%84sku_%28Andriana%29-%D0%9F%D0%BE.wav.ogg",
+            "label": "Lingua Libre: Po ukraińsku (Andriana)"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%9F%D0%BE#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%9F/%D0%9F%D0%BE/%D0%9F%D0%BE.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

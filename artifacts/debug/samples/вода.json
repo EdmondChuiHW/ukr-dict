@@ -1,0 +1,267 @@
+{
+  "query": "вода",
+  "key": "вода",
+  "entries": [
+    {
+      "id": 586,
+      "slug": "вода~noun",
+      "word": "вода",
+      "key": "вода",
+      "heads": [
+        "вода́"
+      ],
+      "pos": "noun",
+      "genders": [
+        "f"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "water",
+          "relations": {
+            "derived": [
+              {
+                "word": "во́день",
+                "english": "hydrogen",
+                "linked": true
+              },
+              {
+                "word": "води́ця",
+                "linked": true
+              },
+              {
+                "word": "води́чка",
+                "linked": true
+              },
+              {
+                "word": "водовідве́дення",
+                "english": "drainage",
+                "linked": true
+              },
+              {
+                "word": "водогра́й",
+                "english": "a fountain",
+                "linked": true
+              },
+              {
+                "word": "вододі́л",
+                "english": "watershed",
+                "linked": true
+              },
+              {
+                "word": "водозабезпе́чення",
+                "english": "water supply",
+                "linked": true
+              },
+              {
+                "word": "водо́йма",
+                "english": "reservoir",
+                "linked": true
+              },
+              {
+                "word": "водо́ймище",
+                "english": "basin",
+                "linked": true
+              },
+              {
+                "word": "водола́з",
+                "english": "diver",
+                "linked": true
+              },
+              {
+                "word": "водопі́лля",
+                "english": "flood",
+                "linked": true
+              },
+              {
+                "word": "водопостача́ння",
+                "english": "water supply",
+                "linked": true
+              },
+              {
+                "word": "водопрові́д",
+                "english": "water pipe",
+                "linked": true
+              },
+              {
+                "word": "во́дорість",
+                "english": "seaweed, algae",
+                "linked": true
+              },
+              {
+                "word": "водоспа́д",
+                "english": "waterfall",
+                "linked": true
+              },
+              {
+                "word": "водості́к",
+                "english": "gutter",
+                "linked": true
+              },
+              {
+                "word": "водосхо́вище",
+                "english": "reservoir",
+                "linked": true
+              },
+              {
+                "word": "водохре́стя",
+                "english": "epiphany in Christianity",
+                "linked": true
+              },
+              {
+                "word": "Водо́хреще",
+                "english": "Epiphany, the Christian festival",
+                "linked": true
+              },
+              {
+                "word": "водохре́щення",
+                "english": "epiphany in Christianity",
+                "linked": true
+              },
+              {
+                "word": "приво́днення",
+                "english": "a splashdown, landing on water",
+                "linked": true
+              },
+              {
+                "word": "приводни́ти",
+                "english": "to land on water",
+                "linked": false
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "вода́"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "води́"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "воді́"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "во́ду"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "водо́ю"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "воді́"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "во́до"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "во́ди"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "вод"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "во́дам"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "во́ди"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "во́дами"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "во́дах"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "во́ди"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-dʹ",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[wɔˈda]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/11/Uk-%D0%B2%D0%BE%D0%B4%D0%B0.ogg/Uk-%D0%B2%D0%BE%D0%B4%D0%B0.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/1/11/Uk-%D0%B2%D0%BE%D0%B4%D0%B0.ogg",
+            "label": "Uk-вода"
+          }
+        ]
+      },
+      "relations": {
+        "diminutive": [
+          {
+            "word": "води́ця",
+            "linked": true
+          },
+          {
+            "word": "води́чка",
+            "linked": true
+          }
+        ],
+        "relational-adjective": [
+          {
+            "word": "водяни́й",
+            "linked": true
+          },
+          {
+            "word": "во́дний",
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 578,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B2/%D0%B2%D0%BE/%D0%B2%D0%BE%D0%B4%D0%B0.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

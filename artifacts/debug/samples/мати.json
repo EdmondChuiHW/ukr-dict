@@ -1,0 +1,353 @@
+{
+  "query": "мати",
+  "key": "мати",
+  "entries": [
+    {
+      "id": 30,
+      "slug": "мати~verb",
+      "word": "мати",
+      "key": "мати",
+      "heads": [
+        "ма́ти"
+      ],
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to have",
+          "examples": [
+            {
+              "text": "Якщо́ роботода́вець відправля́є у відря́дження жі́нку, яка́ ма́є дити́ну ві́ком до трьох ро́ків, це вважа́тиметься пору́шенням законода́вства.",
+              "source": "wiktionary",
+              "translation": "If an employer sends a woman who has a child under the age of three on a business trip, this will be considered a violation of the law."
+            }
+          ],
+          "relations": {
+            "synonym": [
+              {
+                "word": "у є",
+                "linked": false
+              }
+            ]
+          }
+        },
+        {
+          "gloss": "to have to; to be obliged (to do something)",
+          "examples": [
+            {
+              "text": "Він мав працюва́ти вчо́ра.",
+              "source": "wiktionary",
+              "translation": "He had to work yesterday."
+            }
+          ]
+        }
+      ],
+      "paradigm": {
+        "kind": "verb",
+        "forms": {
+          "inf": [
+            {
+              "form": "ма́ти"
+            },
+            {
+              "form": "мать"
+            }
+          ],
+          "pres.1sg": [
+            {
+              "form": "ма́ю"
+            }
+          ],
+          "pres.2sg": [
+            {
+              "form": "ма́єш"
+            }
+          ],
+          "pres.3sg": [
+            {
+              "form": "ма́є"
+            }
+          ],
+          "pres.1pl": [
+            {
+              "form": "ма́ємо"
+            },
+            {
+              "form": "ма́єм"
+            }
+          ],
+          "pres.2pl": [
+            {
+              "form": "ма́єте"
+            }
+          ],
+          "pres.3pl": [
+            {
+              "form": "ма́ють"
+            }
+          ],
+          "fut.1sg": [
+            {
+              "form": "ма́тиму"
+            }
+          ],
+          "fut.2sg": [
+            {
+              "form": "ма́тимеш"
+            }
+          ],
+          "fut.3sg": [
+            {
+              "form": "ма́тиме"
+            }
+          ],
+          "fut.1pl": [
+            {
+              "form": "ма́тимемо"
+            },
+            {
+              "form": "ма́тимем"
+            }
+          ],
+          "fut.2pl": [
+            {
+              "form": "ма́тимете"
+            }
+          ],
+          "fut.3pl": [
+            {
+              "form": "ма́тимуть"
+            }
+          ],
+          "past.m": [
+            {
+              "form": "мав"
+            }
+          ],
+          "past.f": [
+            {
+              "form": "ма́ла"
+            }
+          ],
+          "past.n": [
+            {
+              "form": "ма́ло"
+            }
+          ],
+          "past.pl": [
+            {
+              "form": "ма́ли"
+            }
+          ],
+          "imp.1pl": [
+            {
+              "form": "ма́ймо"
+            }
+          ],
+          "imp.2sg": [
+            {
+              "form": "май"
+            }
+          ],
+          "imp.2pl": [
+            {
+              "form": "ма́йте"
+            }
+          ],
+          "advp.pres": [
+            {
+              "form": "ма́ючи"
+            }
+          ],
+          "advp.past": [
+            {
+              "form": "ма́вши"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "1a",
+          "uk-conj"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ˈmate]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/Uk-%D0%BC%D0%B0%D1%82%D0%B8.ogg/Uk-%D0%BC%D0%B0%D1%82%D0%B8.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Uk-%D0%BC%D0%B0%D1%82%D0%B8.ogg",
+            "label": "Uk-мати"
+          }
+        ]
+      },
+      "freqRank": 30,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%82%D0%B8#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BC/%D0%BC%D0%B0/%D0%BC%D0%B0%D1%82%D0%B8.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 3404,
+      "slug": "мати~noun",
+      "word": "мати",
+      "key": "мати",
+      "heads": [
+        "ма́ти"
+      ],
+      "pos": "noun",
+      "genders": [
+        "f"
+      ],
+      "animacy": "animate",
+      "senses": [
+        {
+          "gloss": "mother",
+          "relations": {
+            "synonym": [
+              {
+                "word": "ма́ма",
+                "linked": true
+              },
+              {
+                "word": "не́ня",
+                "tags": [
+                  "uncommon"
+                ],
+                "linked": true
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "ма́ти"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "ма́тері"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "ма́тері"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "ма́тір"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "ма́тір'ю"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "ма́тері"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "ма́ти"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "матері́"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "матері́в"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "матеря́м"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "матері́в"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "матеря́ми"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "матеря́х"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "матері́"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-c",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ˈmate]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/Uk-%D0%BC%D0%B0%D1%82%D0%B8.ogg/Uk-%D0%BC%D0%B0%D1%82%D0%B8.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Uk-%D0%BC%D0%B0%D1%82%D0%B8.ogg",
+            "label": "Uk-мати"
+          }
+        ]
+      },
+      "relations": {
+        "alternative": [
+          {
+            "word": "ма́тір",
+            "linked": false
+          }
+        ]
+      },
+      "freqRank": 3551,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%82%D0%B8#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BC/%D0%BC%D0%B0/%D0%BC%D0%B0%D1%82%D0%B8.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

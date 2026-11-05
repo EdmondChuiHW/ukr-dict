@@ -1,0 +1,295 @@
+{
+  "query": "стіл",
+  "key": "стіл",
+  "entries": [
+    {
+      "id": 1377,
+      "slug": "стіл~noun",
+      "word": "стіл",
+      "key": "стіл",
+      "heads": [
+        "стіл"
+      ],
+      "pos": "noun",
+      "genders": [
+        "m"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "table (item of furniture)"
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "стіл"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "стола́"
+            },
+            {
+              "form": "сто́лу"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "столо́ві"
+            },
+            {
+              "form": "столу́"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "стіл"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "столо́м"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "столі́"
+            },
+            {
+              "form": "столу́"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "сто́ле"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "столи́"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "столі́в"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "стола́м"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "столи́"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "стола́ми"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "стола́х"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "столи́"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-b",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[sʲtʲiɫ]"
+          },
+          {
+            "value": "[stiɫ]",
+            "tags": [
+              "dialectal"
+            ]
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/Uk-%D1%81%D1%82%D1%96%D0%BB.ogg/Uk-%D1%81%D1%82%D1%96%D0%BB.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/7/76/Uk-%D1%81%D1%82%D1%96%D0%BB.ogg",
+            "label": "Uk-стіл"
+          }
+        ]
+      },
+      "relations": {
+        "diminutive": [
+          {
+            "word": "сто́лик",
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 1381,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D1%96%D0%BB#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D1%82/%D1%81%D1%82%D1%96%D0%BB.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 1378,
+      "slug": "стіл~noun~2",
+      "word": "стіл",
+      "key": "стіл",
+      "heads": [
+        "стіл"
+      ],
+      "pos": "noun",
+      "genders": [
+        "m"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "princely throne",
+          "tags": [
+            "historical"
+          ],
+          "qualifier": "ancient Rus"
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "стіл"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "стола́"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "столо́ві"
+            },
+            {
+              "form": "столу́"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "стіл"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "столо́м"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "столі́"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "сто́ле"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "столи́"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "столі́в"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "стола́м"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "столи́"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "стола́ми"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "стола́х"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "столи́"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-b",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[sʲtʲiɫ]"
+          },
+          {
+            "value": "[stiɫ]",
+            "tags": [
+              "dialectal"
+            ]
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/Uk-%D1%81%D1%82%D1%96%D0%BB.ogg/Uk-%D1%81%D1%82%D1%96%D0%BB.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/7/76/Uk-%D1%81%D1%82%D1%96%D0%BB.ogg",
+            "label": "Uk-стіл"
+          }
+        ]
+      },
+      "freqRank": 1381,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D1%96%D0%BB#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%81/%D1%81%D1%82/%D1%81%D1%82%D1%96%D0%BB.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

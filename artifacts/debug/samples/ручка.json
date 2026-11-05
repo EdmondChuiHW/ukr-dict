@@ -1,0 +1,182 @@
+{
+  "query": "ручка",
+  "key": "ручка",
+  "entries": [
+    {
+      "id": 7397,
+      "slug": "ручка~noun",
+      "word": "ручка",
+      "key": "ручка",
+      "heads": [
+        "ру́чка"
+      ],
+      "pos": "noun",
+      "genders": [
+        "f"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "pen (writing implement)"
+        },
+        {
+          "gloss": "handle"
+        },
+        {
+          "gloss": "hilt (of a sword)"
+        },
+        {
+          "gloss": "diminutive of рука́ (ruká): (small hand, arm)",
+          "tags": [
+            "diminutive"
+          ],
+          "formOf": [
+            {
+              "word": "рука́",
+              "tags": [
+                "diminutive"
+              ],
+              "linked": true
+            }
+          ],
+          "links": [
+            {
+              "start": 14,
+              "end": 19,
+              "target": "рука"
+            }
+          ]
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "ру́чка"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "ру́чки"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "ру́чці"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "ру́чку"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "ру́чкою"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "ру́чці"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "ру́чко"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "ручки́"
+            },
+            {
+              "form": "ру́чки"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "ручо́к"
+            },
+            {
+              "form": "ру́чок"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "ручка́м"
+            },
+            {
+              "form": "ру́чкам"
+            }
+          ],
+          "acc.pl": [
+            {
+              "form": "ручки́"
+            },
+            {
+              "form": "ру́чки"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "ручка́ми"
+            },
+            {
+              "form": "ру́чками"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "ручка́х"
+            },
+            {
+              "form": "ру́чках"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "ручки́"
+            },
+            {
+              "form": "ру́чки"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-c",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ˈrut͡ʃkɐ]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/Uk-%D1%80%D1%83%D1%87%D0%BA%D0%B0.ogg/Uk-%D1%80%D1%83%D1%87%D0%BA%D0%B0.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Uk-%D1%80%D1%83%D1%87%D0%BA%D0%B0.ogg",
+            "label": "Uk-ручка"
+          }
+        ]
+      },
+      "freqRank": 8602,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D1%87%D0%BA%D0%B0#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%80/%D1%80%D1%83/%D1%80%D1%83%D1%87%D0%BA%D0%B0.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

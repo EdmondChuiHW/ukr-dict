@@ -1,0 +1,173 @@
+{
+  "query": "Київ",
+  "key": "київ",
+  "entries": [
+    {
+      "id": 178,
+      "slug": "Київ~proper-noun",
+      "word": "Київ",
+      "key": "київ",
+      "heads": [
+        "Ки́їв"
+      ],
+      "pos": "proper-noun",
+      "genders": [
+        "m"
+      ],
+      "animacy": "inanimate",
+      "senses": [
+        {
+          "gloss": "Kyiv (the capital city of Ukraine)",
+          "tags": [
+            "uncountable"
+          ],
+          "examples": [
+            {
+              "text": "у Ки́єві, у Ки́єву",
+              "source": "wiktionary",
+              "translation": "in Kyiv"
+            },
+            {
+              "text": "у Ки́їв, до Ки́єва",
+              "source": "wiktionary",
+              "translation": "to Kyiv"
+            },
+            {
+              "text": "з Ки́єва",
+              "source": "wiktionary",
+              "translation": "from Kyiv"
+            }
+          ],
+          "relations": {
+            "derived": [
+              {
+                "word": "Ки́євець",
+                "linked": false
+              },
+              {
+                "word": "Ки́єво-",
+                "linked": false
+              },
+              {
+                "word": "Ки́ївська о́бласть",
+                "linked": true
+              },
+              {
+                "word": "Ки́ївська Русь",
+                "linked": true
+              },
+              {
+                "word": "ки́ївський",
+                "linked": true
+              },
+              {
+                "word": "Ки́ївщина",
+                "linked": true
+              },
+              {
+                "word": "кия́нин",
+                "linked": true
+              },
+              {
+                "word": "кия́нка",
+                "linked": true
+              },
+              {
+                "word": "кия́нський",
+                "linked": false
+              },
+              {
+                "word": "язи́к до Ки́єва доведе́",
+                "linked": true
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "noun",
+        "forms": {
+          "nom.sg": [
+            {
+              "form": "Ки́їв"
+            }
+          ],
+          "gen.sg": [
+            {
+              "form": "Ки́єва"
+            }
+          ],
+          "dat.sg": [
+            {
+              "form": "Ки́єву"
+            }
+          ],
+          "acc.sg": [
+            {
+              "form": "Ки́їв"
+            }
+          ],
+          "ins.sg": [
+            {
+              "form": "Ки́євом"
+            }
+          ],
+          "loc.sg": [
+            {
+              "form": "Ки́єву"
+            },
+            {
+              "form": "Ки́єві"
+            }
+          ],
+          "voc.sg": [
+            {
+              "form": "Ки́єве"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "accent-a",
+          "uk-ndecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[ˈkɪjiu̯]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/Uk-%D0%9A%D0%B8%D1%97%D0%B2.ogg/Uk-%D0%9A%D0%B8%D1%97%D0%B2.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/1/13/Uk-%D0%9A%D0%B8%D1%97%D0%B2.ogg",
+            "label": "Uk-Київ"
+          }
+        ]
+      },
+      "relations": {
+        "relational-adjective": [
+          {
+            "word": "ки́ївський",
+            "linked": true
+          }
+        ]
+      },
+      "freqRank": 184,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%9A/%D0%9A%D0%B8/%D0%9A%D0%B8%D1%97%D0%B2.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

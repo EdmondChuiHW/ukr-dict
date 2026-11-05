@@ -1,0 +1,354 @@
+{
+  "query": "зелений",
+  "key": "зелений",
+  "entries": [
+    {
+      "id": 5464,
+      "slug": "зелений~adjective",
+      "word": "зелений",
+      "key": "зелений",
+      "heads": [
+        "зеле́ний"
+      ],
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "green",
+          "relations": {
+            "derived": [
+              {
+                "word": "Зеле́на Гу́ра",
+                "linked": true
+              },
+              {
+                "word": "зелене́нький",
+                "linked": true
+              },
+              {
+                "word": "зеле́ний борщ",
+                "english": "green borsch",
+                "linked": true
+              },
+              {
+                "word": "зелени́ти",
+                "english": "to turn green",
+                "linked": true
+              },
+              {
+                "word": "зеле́ність",
+                "english": "greenness",
+                "linked": true
+              },
+              {
+                "word": "зелені́ти",
+                "english": "to turn green, third-person only",
+                "linked": true
+              },
+              {
+                "word": "зеле́нка",
+                "english": "brilliant green dye",
+                "linked": true
+              },
+              {
+                "word": "Зеленодо́льськ",
+                "linked": true
+              },
+              {
+                "word": "зеленоо́кий",
+                "english": "green-eyed",
+                "linked": true
+              },
+              {
+                "word": "зеленува́тий",
+                "english": "somewhat green in colour",
+                "linked": true
+              },
+              {
+                "word": "зе́лень",
+                "english": "greens, vegetables",
+                "linked": true
+              }
+            ],
+            "related": [
+              {
+                "word": "Зеле́нський",
+                "linked": true
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "adjectival",
+        "forms": {
+          "nom.m": [
+            {
+              "form": "зеле́ний"
+            }
+          ],
+          "nom.n": [
+            {
+              "form": "зеле́не"
+            },
+            {
+              "form": "зеле́неє",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "nom.f": [
+            {
+              "form": "зеле́на"
+            },
+            {
+              "form": "зеле́ная",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "зеле́ні"
+            },
+            {
+              "form": "зеле́нії",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "gen.m": [
+            {
+              "form": "зеле́ного"
+            }
+          ],
+          "gen.n": [
+            {
+              "form": "зеле́ного"
+            }
+          ],
+          "gen.f": [
+            {
+              "form": "зеле́ної"
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "зеле́них"
+            }
+          ],
+          "dat.m": [
+            {
+              "form": "зеле́ному"
+            }
+          ],
+          "dat.n": [
+            {
+              "form": "зеле́ному"
+            }
+          ],
+          "dat.f": [
+            {
+              "form": "зеле́ній"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "зеле́ним"
+            }
+          ],
+          "acc.n": [
+            {
+              "form": "зеле́не"
+            },
+            {
+              "form": "зеле́неє",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "acc.f": [
+            {
+              "form": "зеле́ну"
+            },
+            {
+              "form": "зеле́ную",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "ins.m": [
+            {
+              "form": "зеле́ним"
+            }
+          ],
+          "ins.n": [
+            {
+              "form": "зеле́ним"
+            }
+          ],
+          "ins.f": [
+            {
+              "form": "зеле́ною"
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "зеле́ними"
+            }
+          ],
+          "loc.m": [
+            {
+              "form": "зеле́ному"
+            },
+            {
+              "form": "зеле́нім"
+            }
+          ],
+          "loc.n": [
+            {
+              "form": "зеле́ному"
+            },
+            {
+              "form": "зеле́нім"
+            }
+          ],
+          "loc.f": [
+            {
+              "form": "зеле́ній"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "зеле́них"
+            }
+          ],
+          "voc.m": [
+            {
+              "form": "зеле́ний"
+            }
+          ],
+          "voc.n": [
+            {
+              "form": "зеле́не"
+            },
+            {
+              "form": "зеле́неє",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "voc.f": [
+            {
+              "form": "зеле́на"
+            },
+            {
+              "form": "зеле́ная",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "зеле́ні"
+            },
+            {
+              "form": "зеле́нії",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "acc.m.anim": [
+            {
+              "form": "зеле́ного"
+            }
+          ],
+          "acc.m.inan": [
+            {
+              "form": "зеле́ний"
+            }
+          ],
+          "acc.pl.anim": [
+            {
+              "form": "зеле́них"
+            }
+          ],
+          "acc.pl.inan": [
+            {
+              "form": "зеле́ні"
+            },
+            {
+              "form": "зеле́нії",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "short.m": [
+            {
+              "form": "зе́лен"
+            }
+          ],
+          "cmp": [
+            {
+              "form": "зелені́ший"
+            }
+          ],
+          "sup": [
+            {
+              "form": "найзелені́ший"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "uk-adecl"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[zeˈɫɛnei̯]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/Uk-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9.ogg/Uk-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Uk-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9.ogg",
+            "label": "Uk-зелений"
+          }
+        ]
+      },
+      "freqRank": 6052,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%B7/%D0%B7%D0%B5/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

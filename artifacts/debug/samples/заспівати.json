@@ -1,0 +1,154 @@
+{
+  "query": "заспівати",
+  "key": "заспівати",
+  "entries": [
+    {
+      "id": 7757,
+      "slug": "заспівати~verb",
+      "word": "заспівати",
+      "key": "заспівати",
+      "heads": [
+        "заспіва́ти"
+      ],
+      "pos": "verb",
+      "aspect": "perfective",
+      "aspectPartners": [
+        {
+          "word": "співа́ти",
+          "aspect": "imperfective",
+          "source": "known-aspect-pairs",
+          "linked": true
+        }
+      ],
+      "senses": [
+        {
+          "gloss": "to sing",
+          "qualifier": "to produce harmonious sounds with one’s voice"
+        }
+      ],
+      "paradigm": {
+        "kind": "verb",
+        "forms": {
+          "inf": [
+            {
+              "form": "заспіва́ти"
+            }
+          ],
+          "fut.1sg": [
+            {
+              "form": "заспіва́ю"
+            }
+          ],
+          "fut.2sg": [
+            {
+              "form": "заспіва́єш"
+            }
+          ],
+          "fut.3sg": [
+            {
+              "form": "заспіва́є"
+            }
+          ],
+          "fut.1pl": [
+            {
+              "form": "заспіва́ємо"
+            },
+            {
+              "form": "заспіва́єм"
+            }
+          ],
+          "fut.2pl": [
+            {
+              "form": "заспіва́єте"
+            }
+          ],
+          "fut.3pl": [
+            {
+              "form": "заспіва́ють"
+            }
+          ],
+          "past.m": [
+            {
+              "form": "заспіва́в"
+            }
+          ],
+          "past.f": [
+            {
+              "form": "заспіва́ла"
+            }
+          ],
+          "past.n": [
+            {
+              "form": "заспіва́ло"
+            }
+          ],
+          "past.pl": [
+            {
+              "form": "заспіва́ли"
+            }
+          ],
+          "imp.1pl": [
+            {
+              "form": "заспіва́ймо"
+            }
+          ],
+          "imp.2sg": [
+            {
+              "form": "заспіва́й"
+            }
+          ],
+          "imp.2pl": [
+            {
+              "form": "заспіва́йте"
+            }
+          ],
+          "ptcp.pass.past": [
+            {
+              "form": "заспі́ваний"
+            }
+          ],
+          "impers": [
+            {
+              "form": "заспі́вано"
+            }
+          ],
+          "advp.past": [
+            {
+              "form": "заспіва́вши"
+            }
+          ]
+        },
+        "source": "lcorp",
+        "notes": [
+          "дієслово доконаного виду"
+        ]
+      },
+      "freqRank": 9092,
+      "created": {
+        "method": "english-translation",
+        "from": [
+          {
+            "enWord": "sing",
+            "enPos": "verb",
+            "url": "https://en.wiktionary.org/wiki/sing#English",
+            "sense": "to produce harmonious sounds with one’s voice"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary-translations",
+          "url": "https://en.wiktionary.org/wiki/sing#English",
+          "label": "Wiktionary: sing"
+        },
+        {
+          "source": "lcorp",
+          "url": "https://lcorp.ulif.org.ua/dictua/dictua.aspx",
+          "label": "lcorp: заспівати",
+          "note": "inflection table — search for this word"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

@@ -1,0 +1,505 @@
+{
+  "builtAt": "2026-10-10T16:31:40.425Z",
+  "durationMs": 6749,
+  "options": {
+    "workers": 11,
+    "workersUk": 4,
+    "workersEn": 7,
+    "shardSize": 200,
+    "created": true,
+    "lcorp": "offline (cache only)",
+    "outDir": "/Users/edmondc/coding-project-6/tasks/ukr-dict/model-a-run/artifacts"
+  },
+  "stages": [
+    {
+      "id": "load",
+      "label": "Frequency list + aspect pairs",
+      "state": "done",
+      "durationMs": 116,
+      "summary": "84,550 frequency rows · 1 known aspect pairs"
+    },
+    {
+      "id": "kaikki-uk",
+      "label": "kaikki Ukrainian",
+      "state": "done",
+      "durationMs": 1236,
+      "summary": "59,877 lines → 32,215 entries, 27,662 ignored, 29,058 with tables (4 workers)"
+    },
+    {
+      "id": "kaikki-en",
+      "label": "kaikki English translations",
+      "state": "done",
+      "durationMs": 64,
+      "summary": "53,312 uk translations from 27,539 entries (cached)"
+    },
+    {
+      "id": "created",
+      "label": "Created entries",
+      "state": "done",
+      "durationMs": 174,
+      "summary": "18,170 created (5,343 multi-word) from 53,312 translations"
+    },
+    {
+      "id": "merge",
+      "label": "Merge identical entries",
+      "state": "done",
+      "durationMs": 312,
+      "summary": "77 entries merged in 77 groups (32 gloss-less stubs dropped) → 50,308"
+    },
+    {
+      "id": "lcorp",
+      "label": "lcorp enrichment",
+      "state": "done",
+      "durationMs": 905,
+      "summary": "188+12,424 candidates (kaikki+created) · 4,225 found · +4,225 paradigms · net 0 · cache 4,564 · skipped 8,048"
+    },
+    {
+      "id": "resolve",
+      "label": "Resolve forms/links/aspect",
+      "state": "done",
+      "durationMs": 401,
+      "summary": "421 extra forms · 743 lemma-missing · 556 aspect partners added"
+    },
+    {
+      "id": "rank",
+      "label": "Rank + ids + slugs",
+      "state": "done",
+      "durationMs": 220,
+      "summary": "50,308 entries · 26,038 ranked · 10,622 unranked kaikki · 13,648 unranked created"
+    },
+    {
+      "id": "plugins",
+      "label": "Plugins",
+      "state": "done",
+      "durationMs": 18,
+      "summary": "example-sentences"
+    },
+    {
+      "id": "validate",
+      "label": "Validate",
+      "state": "done",
+      "durationMs": 251,
+      "summary": "all checks passed"
+    },
+    {
+      "id": "emit-web",
+      "label": "Emit web artifacts",
+      "state": "done",
+      "durationMs": 2984,
+      "summary": "538 files · 13.4 MB · phase-1 368 KB"
+    },
+    {
+      "id": "emit-machine",
+      "label": "Emit machine artifacts",
+      "state": "done",
+      "durationMs": 908,
+      "summary": "entries.jsonl 78.4 MB · ignored-entries.jsonl 10.7 MB · created-entries.jsonl 14.8 MB"
+    },
+    {
+      "id": "emit-debug",
+      "label": "Emit debug artifacts",
+      "state": "done",
+      "durationMs": 247,
+      "summary": "25 files · samples without entries: кращий"
+    }
+  ],
+  "counts": {
+    "kaikkiUkLines": 59877,
+    "kaikkiUkEntries": 32215,
+    "kaikkiUkIgnored": 27662,
+    "kaikkiUkWithParadigm": 29058,
+    "englishLinesMatched": 27539,
+    "englishTranslations": 53312,
+    "createdEntries": 18170,
+    "draftsBeforeMerge": 50385,
+    "mergedAway": 77,
+    "entries": 50308,
+    "createdEntriesFinal": 18170,
+    "rankedEntries": 26038,
+    "unrankedKaikki": 10622,
+    "unrankedCreated": 13648,
+    "homonymSlugs": 1179,
+    "withParadigm": 33238,
+    "withExtraForms": 397,
+    "withAudio": 18063,
+    "withIpa": 31479,
+    "withAspectPartners": 4976,
+    "withRelations": 14351,
+    "headwordKeys": 48451,
+    "formKeys": 371668,
+    "englishTokens": 31467
+  },
+  "ignored": {
+    "byReason": {
+      "inflected-form-only": 27662
+    },
+    "byResolution": {
+      "in-paradigm": 26494,
+      "lemma-missing": 743,
+      "added-as-extra-form": 425
+    }
+  },
+  "created": {
+    "translations": 53312,
+    "skippedLatinOrDigits": 61,
+    "skippedTooLong": 93,
+    "skippedInvalid": 6,
+    "existingHeadword": 32342,
+    "existingForm": 251,
+    "created": 18170,
+    "multiword": 5343
+  },
+  "merges": {
+    "groups": 77,
+    "mergedAway": 77,
+    "droppedStubs": 32
+  },
+  "sanitize": {
+    "headsCleaned": 238,
+    "headsDropped": 84,
+    "primaryHeadFixed": 227,
+    "relationWordsCleaned": 40,
+    "relationWordsDropped": 3,
+    "refWordsCleaned": 20,
+    "partnerWordsCleaned": 0
+  },
+  "resolve": {
+    "ignored": 27662,
+    "inParadigm": 26494,
+    "addedAsExtraForm": 425,
+    "lemmaMissing": 743,
+    "extraFormsAdded": 421,
+    "knownPairsApplied": 2,
+    "symmetricPartnersAdded": 554,
+    "partnersStressFilled": 2,
+    "linkedRefs": 81673,
+    "unlinkedRefs": 38691,
+    "relationDuplicatesRemoved": 0
+  },
+  "lcorp": {
+    "enabled": true,
+    "mode": "offline (cache only)",
+    "enrich": {
+      "candidates": 12612,
+      "candidatesKaikki": 188,
+      "candidatesCreated": 12424,
+      "lookedUp": 12612,
+      "found": 4225,
+      "notFound": 339,
+      "skipped": 8048,
+      "errors": 0,
+      "paradigmsAdded": 4225,
+      "paradigmsAddedCreated": 4128,
+      "fieldsFilled": 3272,
+      "aborted": false
+    },
+    "client": {
+      "network": 0,
+      "cacheHits": 4564,
+      "found": 4225,
+      "notFound": 339,
+      "errors": 0,
+      "skipped": 8048,
+      "requests": 0,
+      "sessions": 0,
+      "failedRequests": 0,
+      "circuitOpen": false
+    }
+  },
+  "paradigms": {
+    "bySource": {
+      "wiktionary": 29013,
+      "lcorp": 4225
+    },
+    "byKind": {
+      "noun": 20421,
+      "verb": 6480,
+      "adjectival": 6337
+    },
+    "without": 17070,
+    "inflectableWithout": 14284
+  },
+  "validation": {
+    "ok": true,
+    "totalViolations": 0,
+    "checks": [
+      {
+        "name": "unique-slugs",
+        "description": "every slug is unique",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "key-matches-word",
+        "description": "entry.key === searchKey(entry.word)",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "heads-present",
+        "description": "at least one head; the primary head has the same key as the word",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "senses-present",
+        "description": "at least one sense with a gloss",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "sources-present",
+        "description": "at least one source reference",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "relation-duplicates",
+        "description": "no duplicate search keys within any relation list (entry and sense level)",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "partner-duplicates",
+        "description": "no duplicate keys within aspectPartners",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "paradigm-slots",
+        "description": "every paradigm slot key is in the closed vocabulary (isKnownSlot)",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "paradigm-empty-forms",
+        "description": "no empty form strings in paradigms / extraForms",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "gloss-link-bounds",
+        "description": "gloss link offsets within the gloss: 0 ≤ start < end ≤ gloss.length",
+        "violations": 0,
+        "examples": []
+      },
+      {
+        "name": "freqrank-valid",
+        "description": "freqRank is a positive integer when present",
+        "violations": 0,
+        "examples": []
+      }
+    ]
+  },
+  "artifacts": {
+    "web": {
+      "files": 538,
+      "totalBytes": 14096744,
+      "phase1Bytes": 376850,
+      "manifestBytes": 34100,
+      "categories": {
+        "manifest": {
+          "files": 1,
+          "bytes": 34100,
+          "rawBytes": 34100
+        },
+        "core": {
+          "files": 1,
+          "bytes": 342750,
+          "rawBytes": 1443395
+        },
+        "summaries": {
+          "files": 1,
+          "bytes": 1142553,
+          "rawBytes": 3903740
+        },
+        "shards": {
+          "files": 252,
+          "bytes": 10399037,
+          "rawBytes": 82231946
+        },
+        "forms": {
+          "files": 243,
+          "bytes": 1438527,
+          "rawBytes": 11232108
+        },
+        "english": {
+          "files": 40,
+          "bytes": 739777,
+          "rawBytes": 1909475
+        }
+      }
+    },
+    "machine": [
+      {
+        "path": "entries.jsonl",
+        "bytes": 82225199
+      },
+      {
+        "path": "ignored-entries.jsonl",
+        "bytes": 11191479
+      },
+      {
+        "path": "created-entries.jsonl",
+        "bytes": 15553276
+      },
+      {
+        "path": "schema.d.ts",
+        "bytes": 9086
+      },
+      {
+        "path": "README.md",
+        "bytes": 1300
+      }
+    ],
+    "debugFiles": 25
+  },
+  "missingSamples": [
+    "кращий"
+  ],
+  "top20": [
+    {
+      "id": 0,
+      "head": "і",
+      "pos": "conjunction",
+      "freqRank": 1,
+      "slug": "і~conjunction"
+    },
+    {
+      "id": 1,
+      "head": "і",
+      "pos": "particle",
+      "freqRank": 1,
+      "slug": "і~particle"
+    },
+    {
+      "id": 2,
+      "head": "на",
+      "pos": "preposition",
+      "freqRank": 2,
+      "slug": "на~preposition"
+    },
+    {
+      "id": 3,
+      "head": "в",
+      "pos": "preposition",
+      "freqRank": 3,
+      "slug": "в~preposition"
+    },
+    {
+      "id": 4,
+      "head": "у",
+      "pos": "preposition",
+      "freqRank": 4,
+      "slug": "у~preposition"
+    },
+    {
+      "id": 5,
+      "head": "у",
+      "pos": "preposition",
+      "freqRank": 4,
+      "slug": "у~preposition~2"
+    },
+    {
+      "id": 6,
+      "head": "з",
+      "pos": "preposition",
+      "freqRank": 6,
+      "slug": "з~preposition"
+    },
+    {
+      "id": 7,
+      "head": "з",
+      "pos": "preposition",
+      "freqRank": 6,
+      "slug": "з~preposition~2"
+    },
+    {
+      "id": 8,
+      "head": "бу́ти",
+      "pos": "verb",
+      "freqRank": 7,
+      "slug": "бути~verb"
+    },
+    {
+      "id": 9,
+      "head": "та",
+      "pos": "conjunction",
+      "freqRank": 8,
+      "slug": "та~conjunction"
+    },
+    {
+      "id": 10,
+      "head": "що",
+      "pos": "conjunction",
+      "freqRank": 9,
+      "slug": "що~conjunction"
+    },
+    {
+      "id": 11,
+      "head": "до",
+      "pos": "preposition",
+      "freqRank": 10,
+      "slug": "до~preposition"
+    },
+    {
+      "id": 12,
+      "head": "за",
+      "pos": "preposition",
+      "freqRank": 11,
+      "slug": "за~preposition"
+    },
+    {
+      "id": 13,
+      "head": "Украї́на",
+      "pos": "proper-noun",
+      "freqRank": 12,
+      "slug": "Україна~proper-noun"
+    },
+    {
+      "id": 14,
+      "head": "й",
+      "pos": "conjunction",
+      "freqRank": 13,
+      "slug": "й~conjunction"
+    },
+    {
+      "id": 15,
+      "head": "про",
+      "pos": "preposition",
+      "freqRank": 14,
+      "slug": "про~preposition"
+    },
+    {
+      "id": 16,
+      "head": "цей",
+      "pos": "determiner",
+      "freqRank": 15,
+      "slug": "цей~determiner"
+    },
+    {
+      "id": 17,
+      "head": "рік",
+      "pos": "noun",
+      "freqRank": 16,
+      "slug": "рік~noun"
+    },
+    {
+      "id": 18,
+      "head": "для",
+      "pos": "preposition",
+      "freqRank": 17,
+      "slug": "для~preposition"
+    },
+    {
+      "id": 19,
+      "head": "це",
+      "pos": "pronoun",
+      "freqRank": 18,
+      "slug": "це~pronoun"
+    }
+  ],
+  "plugins": [
+    "example-sentences"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "query": "є",
+  "key": "є",
+  "entries": [
+    {
+      "id": 29886,
+      "slug": "є~verb",
+      "word": "є",
+      "key": "є",
+      "heads": [
+        "є"
+      ],
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "present indicative of бу́ти (búty): am, is, are",
+          "formOf": [
+            {
+              "word": "бу́ти",
+              "tags": [
+                "indicative",
+                "present"
+              ],
+              "linked": true
+            }
+          ],
+          "links": [
+            {
+              "start": 22,
+              "end": 27,
+              "target": "бути"
+            }
+          ]
+        },
+        {
+          "gloss": "there is, there are",
+          "relations": {
+            "antonym": [
+              {
+                "word": "нема́",
+                "linked": true
+              }
+            ]
+          }
+        },
+        {
+          "gloss": "used to express possession",
+          "examples": [
+            {
+              "text": "у ме́не є пита́ння",
+              "source": "wiktionary",
+              "translation": "I have a question"
+            }
+          ],
+          "relations": {
+            "synonym": [
+              {
+                "word": "ма́ти",
+                "linked": true
+              }
+            ]
+          }
+        },
+        {
+          "gloss": "to be (+ instrumental case)"
+        }
+      ],
+      "extraForms": [
+        {
+          "form": "єсть",
+          "tags": [
+            "indicative",
+            "present"
+          ],
+          "origin": "form-of-entry"
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[jɛ]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Uk-%D1%94.ogg/Uk-%D1%94.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Uk-%D1%94.ogg",
+            "label": "Uk-є"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%94#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%94/%D1%94/%D1%94.html",
+          "label": "kaikki.org"
+        }
+      ]
+    },
+    {
+      "id": 29887,
+      "slug": "є~letter",
+      "word": "є",
+      "key": "є",
+      "heads": [
+        "є"
+      ],
+      "pos": "letter",
+      "senses": [
+        {
+          "gloss": "The eighth letter of the Ukrainian alphabet, called є (je) and written in the Cyrillic script.",
+          "tags": [
+            "lowercase",
+            "uppercase"
+          ],
+          "links": [
+            {
+              "start": 52,
+              "end": 53,
+              "target": "є"
+            }
+          ]
+        }
+      ],
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[jɛ]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Uk-%D1%94.ogg/Uk-%D1%94.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Uk-%D1%94.ogg",
+            "label": "Uk-є"
+          },
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/LL-Q8798_%28ukr%29-Tohaomg-%D0%84.wav/LL-Q8798_%28ukr%29-Tohaomg-%D0%84.wav.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/LL-Q8798_%28ukr%29-Tohaomg-%D0%84.wav/LL-Q8798_%28ukr%29-Tohaomg-%D0%84.wav.ogg",
+            "label": "Lingua Libre: Tohaomg"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D1%94#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D1%94/%D1%94/%D1%94.html",
+          "label": "kaikki.org"
+        },
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%84#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%84/%D0%84/%D0%84.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}

@@ -1,0 +1,365 @@
+{
+  "query": "мій",
+  "key": "мій",
+  "entries": [
+    {
+      "id": 163,
+      "slug": "мій~pronoun",
+      "word": "мій",
+      "key": "мій",
+      "heads": [
+        "мій"
+      ],
+      "pos": "pronoun",
+      "tags": [
+        "possessive"
+      ],
+      "senses": [
+        {
+          "gloss": "my, mine",
+          "relations": {
+            "related": [
+              {
+                "word": "я",
+                "linked": true
+              }
+            ]
+          }
+        }
+      ],
+      "paradigm": {
+        "kind": "adjectival",
+        "forms": {
+          "nom.m": [
+            {
+              "form": "мій"
+            }
+          ],
+          "nom.n": [
+            {
+              "form": "моє́"
+            }
+          ],
+          "nom.f": [
+            {
+              "form": "моя́"
+            }
+          ],
+          "nom.pl": [
+            {
+              "form": "мої́"
+            }
+          ],
+          "gen.m": [
+            {
+              "form": "мого́"
+            },
+            {
+              "form": "мойо́го",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "моє́го",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "gen.n": [
+            {
+              "form": "мого́"
+            },
+            {
+              "form": "мойо́го",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "моє́го",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "gen.f": [
+            {
+              "form": "моє́ї"
+            },
+            {
+              "form": "меї́",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "gen.pl": [
+            {
+              "form": "мої́х"
+            }
+          ],
+          "dat.m": [
+            {
+              "form": "моє́му"
+            },
+            {
+              "form": "мойо́му",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "мойму́",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "мо́му",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "dat.n": [
+            {
+              "form": "моє́му"
+            },
+            {
+              "form": "мойо́му",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "мойму́",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "мо́му",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "dat.f": [
+            {
+              "form": "мої́й"
+            }
+          ],
+          "dat.pl": [
+            {
+              "form": "мої́м"
+            }
+          ],
+          "acc.n": [
+            {
+              "form": "моє́"
+            }
+          ],
+          "acc.f": [
+            {
+              "form": "мою́"
+            }
+          ],
+          "ins.m": [
+            {
+              "form": "мої́м"
+            }
+          ],
+          "ins.n": [
+            {
+              "form": "мої́м"
+            }
+          ],
+          "ins.f": [
+            {
+              "form": "моє́ю"
+            },
+            {
+              "form": "мею́",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "ins.pl": [
+            {
+              "form": "мої́ми"
+            }
+          ],
+          "loc.m": [
+            {
+              "form": "моє́му"
+            },
+            {
+              "form": "мої́м"
+            },
+            {
+              "form": "мойо́му",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "мойму́",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "мо́му",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "loc.n": [
+            {
+              "form": "моє́му"
+            },
+            {
+              "form": "мої́м"
+            },
+            {
+              "form": "мойо́му",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "мойму́",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "мо́му",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "loc.f": [
+            {
+              "form": "мої́й"
+            }
+          ],
+          "loc.pl": [
+            {
+              "form": "мої́х"
+            }
+          ],
+          "voc.m": [
+            {
+              "form": "мій"
+            }
+          ],
+          "voc.n": [
+            {
+              "form": "моє́"
+            }
+          ],
+          "voc.f": [
+            {
+              "form": "моя́"
+            }
+          ],
+          "voc.pl": [
+            {
+              "form": "мої́"
+            }
+          ],
+          "acc.m.anim": [
+            {
+              "form": "мого́"
+            },
+            {
+              "form": "мойо́го",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            },
+            {
+              "form": "моє́го",
+              "tags": [
+                "dated",
+                "dialectal"
+              ]
+            }
+          ],
+          "acc.m.inan": [
+            {
+              "form": "мій"
+            }
+          ],
+          "acc.pl.anim": [
+            {
+              "form": "мої́х"
+            }
+          ],
+          "acc.pl.inan": [
+            {
+              "form": "мої́"
+            }
+          ]
+        },
+        "source": "wiktionary",
+        "notes": [
+          "uk-adecl-manual"
+        ]
+      },
+      "pronunciation": {
+        "ipa": [
+          {
+            "value": "[mʲii̯]"
+          }
+        ],
+        "audio": [
+          {
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/Uk-%D0%BC%D1%96%D0%B9.ogg/Uk-%D0%BC%D1%96%D0%B9.ogg.mp3",
+            "ogg": "https://upload.wikimedia.org/wikipedia/commons/4/46/Uk-%D0%BC%D1%96%D0%B9.ogg",
+            "label": "Uk-мій"
+          }
+        ]
+      },
+      "freqRank": 169,
+      "sources": [
+        {
+          "source": "wiktionary",
+          "url": "https://en.wiktionary.org/wiki/%D0%BC%D1%96%D0%B9#Ukrainian",
+          "label": "Wiktionary"
+        },
+        {
+          "source": "kaikki",
+          "url": "https://kaikki.org/dictionary/Ukrainian/meaning/%D0%BC/%D0%BC%D1%96/%D0%BC%D1%96%D0%B9.html",
+          "label": "kaikki.org"
+        }
+      ]
+    }
+  ],
+  "ignoredEntriesWithThisWord": []
+}
