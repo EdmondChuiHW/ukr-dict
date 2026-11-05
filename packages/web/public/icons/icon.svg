@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1f5fae"/>
+  <path d="M0 400h512v0c0 61.9-50.1 112-112 112H112C50.1 512 0 461.9 0 400z" fill="#ffd43b"/>
+  <text x="250" y="352" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="300" font-weight="700" fill="#fff">С</text>
+  <path d="M292 72 L352 72 L300 140 L262 140 Z" fill="#ffd43b"/>
+</svg>

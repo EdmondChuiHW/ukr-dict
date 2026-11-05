@@ -1,0 +1,13 @@
+{
+  "name": "@ukdict/shared",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": { ".": "./src/index.ts" },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "node --test 'src/**/*.test.ts'"
+  },
+  "dependencies": { "stemmer": "^2.0.1" },
+  "devDependencies": { "typescript": "^7.0.2", "@types/node": "^24.0.0" }
+}

@@ -1,0 +1,1820 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Словники України online - УКРАЇНСЬКИЙ МОВНО-ІНФОРМАЦІЙНИЙ ФОНД НАН УКРАЇНИ
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="text/javascript">
+        (function () {
+            var m = document.cookie.match(/(?:^|;\s*)dictua_lang=([^;]+)/);
+            var lang = m ? decodeURIComponent(m[1]) : "uk";
+            if (lang === "en") {
+                document.documentElement.className +=
+                    (document.documentElement.className ? " " : "") + "ui-en";
+                document.title = "Dictionaries of Ukraine online - Ukrainian Lingua-Information Fund, NAS of Ukraine";
+            }
+        })();
+    </script>
+
+    <meta name="description" content="Словники України - http://lcorp.ulif.org.ua/dictua/; explanatory dictionary of ukraine, Тлумачний СЛОВНИК УКРАЇНСЬКОЇ МОВИ ONLINE - http://lcorp.ulif.org.ua/xclient/ , http://lcorp.ulif.org.ua/xclientinfo/" />
+
+    <style type="text/css">
+
+        /* UA/EN interface language */
+        .lang-en {
+            display: none !important;
+        }
+
+        .lang-uk {
+            display: inline !important;
+        }
+
+        img.lang-uk {
+            display: block !important;
+        }
+
+        img.lang-en {
+            display: none !important;
+        }
+
+        html.ui-en .lang-uk {
+            display: none !important;
+        }
+
+        html.ui-en .lang-en {
+            display: inline !important;
+        }
+
+        html.ui-en img.lang-en {
+            display: block !important;
+        }
+
+        html.ui-en img.lang-uk {
+            display: none !important;
+        }
+
+        .ulifLangSwitch {
+            display: inline-flex;
+            align-items: center;
+            overflow: hidden;
+            margin-left: 2px;
+            border: 1px solid #b8c4d2;
+            border-radius: 5px;
+            background: #ffffff;
+            vertical-align: middle;
+        }
+
+        .ulifLang {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 30px;
+            min-height: 24px;
+            box-sizing: border-box;
+            padding: 2px 6px;
+            color: #405b7c !important;
+            font-size: 11px;
+            font-weight: bold;
+            line-height: 18px;
+            text-decoration: none !important;
+        }
+
+        .ulifLang + .ulifLang {
+            border-left: 1px solid #d5dce5;
+        }
+
+        html:not(.ui-en) .ulifLangUk,
+        html.ui-en .ulifLangEn {
+            background: #174f8a;
+            color: #ffffff !important;
+        }
+
+        .ulifLang:hover,
+        .ulifLang:focus {
+            background: #eaf2fb;
+            color: #174f8a !important;
+        }
+
+        html:not(.ui-en) .ulifLangUk:hover,
+        html:not(.ui-en) .ulifLangUk:focus,
+        html.ui-en .ulifLangEn:hover,
+        html.ui-en .ulifLangEn:focus {
+            background: #113f70;
+            color: #ffffff !important;
+        }
+
+        html, body {
+            min-height: 100%;
+        }
+
+        body {
+            padding-right: 8px;
+            padding-left: 8px;
+            padding-bottom: 16px;
+            margin: 0;
+            padding-top: 14px;
+            background: #eef2f6;
+            position: relative;
+            text-align: center;
+        }
+
+        body:before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            background: #eef2f6 url('/dictua/img/site/ukraine-bg.png') center top / cover no-repeat;
+            z-index: -3;
+            pointer-events: none;
+        }
+
+        body:after {
+            content: "";
+            position: fixed;
+            inset: 0;
+            background:
+                linear-gradient(180deg, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0.18) 46%, rgba(255,255,255,0.12) 100%);
+            z-index: -2;
+            pointer-events: none;
+        }
+
+        #MainTab {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.82);
+            border: 1px solid rgba(216, 224, 234, 0.90);
+            border-radius: 22px;
+            box-shadow: 0 22px 44px rgba(55, 78, 109, 0.12);
+            overflow: hidden;
+            backdrop-filter: blur(2px);
+            -webkit-backdrop-filter: blur(2px);
+        }
+
+
+
+
+
+
+
+
+
+
+        /* =========================================================
+           Compact ULIF header — logo-based version
+           ========================================================= */
+        .ulifHeader {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 14px;
+            box-sizing: border-box;
+            width: calc(100% - 14px);
+            min-height: 0;
+            margin: 6px 7px 0 7px;
+            padding: 4px 8px 2px 8px;
+            border: 1px solid #dde5ef;
+            border-radius: 16px 16px 0 0;
+            background: linear-gradient(180deg, rgba(255,255,255,0.90) 0%, rgba(247,249,252,0.88) 100%);
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: left;
+        }
+
+        .ulifBrand {
+            display: flex;
+            align-items: center;
+            gap: 0;
+            min-width: 0;
+            flex: 0 1 auto;
+            color: #17366b !important;
+            text-decoration: none !important;
+        }
+
+        .ulifBrand:hover .ulifBrandName,
+        .ulifBrand:focus .ulifBrandName {
+            text-decoration: underline;
+        }
+
+        .ulifLogoWrap {
+            flex: 0 0 auto;
+            display: flex;
+            align-items: center;
+            line-height: 0;
+        }
+
+        .ulifLogo {
+            display: block;
+            width: 204px;
+            height: auto;
+            max-width: 100%;
+            object-fit: contain;
+        }
+
+        .ulifBrandText {
+            display: block;
+            min-width: 0;
+        }
+
+        .ulifBrandName {
+            display: block;
+            color: #17366b;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 17px;
+            line-height: 21px;
+            font-weight: bold;
+        }
+
+        .ulifBrandHint {
+            display: block;
+            margin-top: 2px;
+            color: #6b7789;
+            font-size: 11px;
+            line-height: 14px;
+        }
+
+        .ulifBrandShort {
+            display: none;
+        }
+
+        .ulifActions {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            align-self: center;
+            gap: 8px;
+            flex: 0 0 auto;
+            margin-left: auto;
+        }
+
+        .ulifCta {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 40px;
+            box-sizing: border-box;
+            padding: 8px 13px;
+            border-radius: 8px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 13px;
+            font-weight: bold;
+            line-height: 18px;
+            text-decoration: none !important;
+            white-space: nowrap;
+            box-shadow: 0 1px 0 rgba(255,255,255,.35) inset;
+        }
+
+        .ulifCtaSite {
+            border: 1px solid #164f8e;
+            background: linear-gradient(180deg, #2c6eb2 0%, #174f8a 100%);
+            color: #ffffff !important;
+        }
+
+        .ulifCtaSite:hover,
+        .ulifCtaSite:focus {
+            background: linear-gradient(180deg, #235d9a 0%, #113f70 100%);
+        }
+
+        .ulifCtaSum20 {
+            min-height: 44px;
+            padding: 5px 11px 4px;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: center;
+            border: 1px solid #d9b84f;
+            background: linear-gradient(180deg, #fffef6 0%, #fff6c9 100%);
+            color: #17366b !important;
+            white-space: normal;
+            text-align: left;
+            line-height: 1.08;
+        }
+
+        .ulifCtaSum20:hover,
+        .ulifCtaSum20:focus {
+            background: linear-gradient(180deg, #fffbea 0%, #ffefad 100%);
+            border-color: #caa437;
+        }
+
+        .ulifCtaSum20Main {
+            display: block;
+            font-size: 12.5px;
+            font-weight: bold;
+            line-height: 14px;
+            white-space: nowrap;
+        }
+
+        .ulifCtaSum20Sub {
+            display: block;
+            margin-top: 2px;
+            font-size: 9.5px;
+            font-weight: normal;
+            line-height: 11px;
+            color: #566c83;
+            white-space: nowrap;
+        }
+
+        .ulifCtaFacebook {
+            border: 1px solid #cfe0f9;
+            background: #ffffff;
+            color: #145fc1 !important;
+        }
+
+        .ulifCtaFacebook:hover,
+        .ulifCtaFacebook:focus {
+            background: #eef6ff;
+        }
+
+        .ulifFbBadge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 21px;
+            height: 21px;
+            margin-right: 6px;
+            border-radius: 50%;
+            background: #1877f2;
+            color: #ffffff;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: bold;
+            line-height: 21px;
+        }
+
+        .ulifUtility {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px 16px;
+            box-sizing: border-box;
+            width: calc(100% - 16px);
+            min-height: 30px;
+            margin: 0 7px 6px 7px;
+            padding: 3px 8px;
+            border: 1px solid #dde5ef;
+            border-top: 0;
+            border-radius: 0 0 16px 16px;
+            background: linear-gradient(180deg, rgba(247,249,252,0.88) 0%, rgba(240,244,249,0.86) 100%);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            line-height: 18px;
+            text-align: center;
+        }
+
+        .ulifUtility a {
+            color: #315b89;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+
+        .ulifUtility a:hover,
+        .ulifUtility a:focus {
+            color: #0d4d94;
+            text-decoration: underline;
+        }
+
+        .ulifUtilityIcon {
+            margin-right: 4px;
+            color: #177046;
+            font-weight: bold;
+        }
+
+        .ulifUtilityInfo {
+            margin-right: 4px;
+            color: #2173b8;
+            font-weight: bold;
+        }
+
+        .ulifCtaShort {
+            display: none;
+        }
+        /* Банер UNESCO Digital Learning Week 2026 */
+        .dlwBanner {
+            display: block;
+            margin: 7px 8px 8px 8px;
+            border: 1px solid #253b5d;
+            text-decoration: none;
+            overflow: hidden;
+            background-color: #06172d;
+        }
+
+        .dlwBanner img {
+            display: block;
+            width: 100%;
+            height: auto;
+            border: 0;
+        }
+
+        .dlwBanner:hover {
+            border-color: #c59b3f;
+        }
+
+        /* Банер підтримки відновлення Президії НАН України */
+        .nasBanner {
+            display: block;
+            position: relative;
+            height: 96px;
+            margin: 7px 8px 8px 8px;
+            overflow: hidden;
+            text-decoration: none;
+            border: 1px solid #bac6d5;
+            background-color: #12365e;
+            text-align: left;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* Важливо: фото Президії тепер є звичайним IMG,
+           а не CSS background. Це надійніше для старого сайту/IIS. */
+        .nasBannerImage {
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: 1;
+            display: block;
+            width: 100%;
+            height: 96px;
+            border: 0;
+        }
+
+        .nasBannerText {
+            display: block;
+            position: relative;
+            z-index: 2;
+            padding: 11px 17px 7px 18px;
+            width: 67%;
+            color: white;
+        }
+
+        .nasBannerTitle {
+            display: block;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 22px;
+            line-height: 25px;
+            font-weight: normal;
+            color: #ffffff;
+            margin-bottom: 5px;
+        }
+
+        .nasBannerDescription {
+            display: block;
+            font-size: 13px;
+            line-height: 18px;
+            color: #edf3fa;
+        }
+
+        .nasBannerAction {
+            color: #ffd98a;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        .nasBanner:hover {
+            border-color: #758ca7;
+        }
+
+        .nasBanner:hover .nasBannerAction {
+            text-decoration: underline;
+            color: #ffe8ad;
+        }
+
+        .nasTrackingPixel {
+            position: absolute;
+            left: -9999px;
+            top: -9999px;
+            width: 1px;
+            height: 1px;
+            border: 0;
+        }
+
+        .portalTitle {
+            max-width: 100%;
+            height: auto;
+            border: 0;
+            display: block;
+        }
+    
+        /* Responsive shell — legacy layout is preserved, but no longer fixed to 1002 px */
+        #MainTab {
+            width: 100%;
+            max-width: 1020px;
+            box-sizing: border-box;
+        }
+
+        #TabInMain {
+            width: 100%;
+            table-layout: fixed;
+        }
+
+        #TabInMain td {
+            box-sizing: border-box;
+        }
+
+        @media (max-width: 720px) {
+            body {
+                padding: 0;
+            }
+
+            #MainTab {
+                border: 0;
+                border-radius: 0;
+                box-shadow: none;
+                max-width: none;
+                background: rgba(255, 255, 255, 0.80);
+                backdrop-filter: blur(1px);
+                -webkit-backdrop-filter: blur(1px);
+            }
+
+            .ulifHeader {
+                width: calc(100% - 10px);
+                min-height: 0;
+                margin: 6px 5px 0 5px;
+                padding: 8px 8px;
+                gap: 8px;
+                border-radius: 12px 12px 0 0;
+            }
+
+            .ulifBrand {
+                gap: 8px;
+                flex: 1 1 auto;
+            }
+
+            .ulifLogo {
+                width: 168px;
+                height: auto;
+                max-width: 100%;
+            }
+
+            .ulifBrandFull,
+            .ulifBrandHint {
+                display: none;
+            }
+
+            .ulifBrandShort {
+                display: block;
+                color: #17366b;
+                font-family: Georgia, "Times New Roman", serif;
+                font-size: 14px;
+                line-height: 17px;
+                font-weight: bold;
+            }
+
+            .ulifActions {
+                gap: 5px;
+            }
+
+            .ulifCta {
+                min-height: 36px;
+                padding: 6px 8px;
+                border-radius: 6px;
+                font-size: 12px;
+            }
+
+            .ulifCtaSum20 {
+                min-height: 38px;
+                padding: 4px 7px 3px;
+            }
+
+            .ulifCtaSum20Main {
+                font-size: 11px;
+                line-height: 12px;
+            }
+
+            .ulifCtaSum20Sub {
+                font-size: 8.5px;
+                line-height: 9px;
+            }
+
+            .ulifCtaFull {
+                display: none;
+            }
+
+            .ulifCtaShort {
+                display: inline;
+            }
+
+            .ulifFbBadge {
+                width: 19px;
+                height: 19px;
+                margin-right: 4px;
+                font-size: 15px;
+                line-height: 19px;
+            }
+
+            .ulifUtility {
+                width: calc(100% - 6px);
+                min-height: 26px;
+                margin: 0 3px 3px 3px;
+                padding: 2px 5px;
+                gap: 5px 10px;
+                border-radius: 0 0 12px 12px;
+                font-size: 11px;
+                line-height: 16px;
+            }
+
+            .ulifLangSwitch {
+                margin-left: 0;
+            }
+
+            .ulifLang {
+                min-width: 28px;
+                min-height: 24px;
+                padding: 2px 5px;
+            }
+
+
+
+
+
+
+            .nasBanner {
+                height: 92px;
+                margin: 5px 5px 6px 5px;
+            }
+
+            .nasBannerImage {
+                height: 92px;
+                width: 100%;
+                object-fit: cover;
+                object-position: center center;
+            }
+
+            .nasBannerText {
+                width: 74%;
+                padding: 9px 10px 5px 12px;
+            }
+
+            .nasBannerTitle {
+                font-size: 17px;
+                line-height: 20px;
+                margin-bottom: 3px;
+            }
+
+            .nasBannerDescription {
+                font-size: 11px;
+                line-height: 14px;
+            }
+
+            .dlwBanner {
+                margin: 5px 5px 6px 5px;
+            }
+
+            .portalTitle {
+                width: 100%;
+                max-width: 100%;
+                height: auto;
+            }
+        }
+
+        @media (max-width: 430px) {
+            .ulifHeader {
+                flex-wrap: wrap;
+            }
+
+            .ulifBrand {
+                flex: 0 1 auto;
+            }
+
+            .ulifActions {
+                width: 100%;
+                justify-content: flex-start;
+            }
+
+            .ulifCta {
+                flex: 1 1 48%;
+            }
+
+            .ulifCtaSum20 {
+                flex: 1 1 100%;
+                align-items: center;
+                text-align: center;
+            }
+
+            .ulifUtility {
+                flex-wrap: wrap;
+                gap: 2px 10px;
+            }
+
+            .ulifUtility a {
+                white-space: normal;
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+    <form method="post" action="./dictua.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NjE4NTE1NzEPZBYCZg9kFgICAw9kFgICAw9kFgICAQ9kFgJmD2QWFmYPZBYEAgEPD2QWBB4LcGxhY2Vob2xkZXIFMNCS0LLQtdC00ZbRgtGMINGB0LvQvtCy0L4g0LTQu9GPINC/0L7RiNGD0LrRgy4uLh4KYXJpYS1sYWJlbAUt0JLQstC10LTRltGC0Ywg0YHQu9C+0LLQviDQtNC70Y8g0L/QvtGI0YPQutGDZAIDDw8WAh4EVGV4dAUM0JfQvdCw0LnRgtC4ZGQCAQ8PFgIfAmVkZAIGDw8WAh8CBSjQoNC10ZTRgdGC0YDQvtCy0LjRhSDRgdC70ZbQsiDigJQgMjYyODEyZGQCBw8PFgQfAgUj4oaQINCf0L7Qv9C10YDQtdC00L3RjyDRgdGC0LDRgtGC0Y8eB1Rvb2xUaXAFNtCf0L7Qv9C10YDQtdC00L3RjyDQv9C10YDQtdCz0LvRj9C90YPRgtCwINGB0YLQsNGC0YLRj2RkAggPDxYEHwIFIdCd0LDRgdGC0YPQv9C90LAg0YHRgtCw0YLRgtGPIOKGkh8DBTTQndCw0YHRgtGD0L/QvdCwINC/0LXRgNC10LPQu9GP0L3Rg9GC0LAg0YHRgtCw0YLRgtGPZGQCCQ8PFgYeCENzc0NsYXNzBRdkaWN0TW9kZSBkaWN0TW9kZUFjdGl2ZR8CBRTQodCb0J7QktCe0JfQnNCG0J3QkB4EXyFTQgICZGQCCg8PFggfBAUIZGljdE1vZGUfAgUQ0KHQmNCd0J7QndCG0JzQmB8FAgIeB1Zpc2libGVoZGQCCw8PFgYfBAUIZGljdE1vZGUfAgUW0KTQoNCQ0JfQldCe0JvQntCT0IbQrx8FAgJkZAIMDw8WCB8EBQhkaWN0TW9kZR8CBRDQkNCd0KLQntCd0IbQnNCYHwUCAh8GaGRkAg0PFgIeCWlubmVyaHRtbAWMEzxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+IDwhLS0ud29yZF9zdHlsZSB7DQoJZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWNvbG9yOiAjQ0MzMzAwOw0KCXRleHQtYWxpZ246IGNlbnRlcjsNCglmb250LXdlaWdodDogYm9sZDsNCn0NCmJvZHkgew0KCWJhY2tncm91bmQtY29sb3I6ICNGRkZGRkY7DQp9DQouZ3JhbV9zdHlsZSB7DQoJZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWNvbG9yOiAjMzM5OTk5Ow0KCWZvbnQtd2VpZ2h0OiBub3JtYWw7DQp9DQouY29tbWVudF9zdHlsZSB7DQoJZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWZvbnQtc3R5bGU6IGl0YWxpYzsNCn0NCi50YWJsZV9zdHlsZSB7DQoJZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KfQ0KLnRkX3N0eWxlIHsNCglmb250LWZhbWlseTogQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsNCglmb250LXNpemU6IDEycHg7DQoJY29sb3I6ICNGRkZGRkY7DQoJYmFja2dyb3VuZC1jb2xvcjogIzAwNjY2NjsNCglmb250LXdlaWdodDogYm9sZDsNCgl0ZXh0LWFsaWduOiBjZW50ZXI7DQoJbGV0dGVyLXNwYWNpbmc6IDFweDsNCn0NCi50ZF9sZWZ0X3N0eWxlIHsNCglmb250LWZhbWlseTogQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsNCglmb250LXNpemU6IDEycHg7DQoJY29sb3I6ICNGRkZGRkY7DQoJYmFja2dyb3VuZC1jb2xvcjogIzAwNjY2NjsNCglmb250LXdlaWdodDogYm9sZDsNCgl0ZXh0LWFsaWduOiBsZWZ0Ow0KCWxldHRlci1zcGFjaW5nOiAxcHg7DQoJYm9yZGVyLXRvcC1jb2xvcjogIzAwNjY5OTsNCglwYWRkaW5nLWxlZnQ6IDRweDsNCn0NCi50ZF9pbm5lcl9zdHlsZSB7DQoJZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWNvbG9yOiAjMDAwMDAwOw0KCXRleHQtYWxpZ246IGxlZnQ7DQoJbGVmdDogNXB4Ow0KCXBhZGRpbmctbGVmdDogMTBweDsNCn0NCi50ZF9pbm5lcl9jZW50ZXJfc3R5bGUgew0KCWZvbnQtZmFtaWx5OiBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOw0KCWZvbnQtc2l6ZTogMTJweDsNCgljb2xvcjogIzAwMDAwMDsNCgl0ZXh0LWFsaWduOiBjZW50ZXI7DQoJbGVmdDogNXB4Ow0KCXBhZGRpbmctbGVmdDogMTBweDsNCn0NCi5jb21tX2VuZF9zdHlsZSB7DQoJZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWNvbG9yOiAjMDAwMDAwOw0KfQ0KLnBfY2wgew0KCWZvbnQtZmFtaWx5OiBBcmlhbDsNCglsZWZ0OiAwcHg7DQoJdG9wOiAwcHg7DQoJcmlnaHQ6IDBweDsNCglib3R0b206IDBweDsNCglwYWRkaW5nOiAxMHB4Ow0KCWZvbnQtc2l6ZTogMTJweDsNCn0NCg0KLmZfY2wgew0KCWZvbnQtZmFtaWx5OiBBcmlhbDsNCglsZWZ0OiAwcHg7DQoJdG9wOiAwcHg7DQoJcmlnaHQ6IDBweDsNCglib3R0b206IDBweDsNCglwYWRkaW5nOiAwcHg7DQoJYmFja2dyb3VuZC1jb2xvcjogI0UzRTNFMzsNCglmb250LXNpemU6IDEycHg7DQp9DQoNCi5mX3ogew0KCWZvbnQtZmFtaWx5OiBBcmlhbDsNCglsZWZ0OiAwcHg7DQoJdG9wOiAwcHg7DQoJcmlnaHQ6IDBweDsNCglib3R0b206IDBweDsNCglwYWRkaW5nOiAwcHg7DQoJdGV4dC1hbGlnbjogY2VudGVyOw0KCWZvbnQtc2l6ZTogMTJweDsNCgljb2xvcjogIzVEMUE5QjsNCglmb250LXdlaWdodDogYm9sZDsNCn0NCg0KLnRhYl9hbnQgew0KCWZvbnQtZmFtaWx5OiBBcmlhbDsNCglmb250LXNpemU6IDEycHg7DQoJcGFkZGluZzogMTBweDsNCglsZWZ0OiAxMHB4Ow0KfQ0KLmJsYWNrVHsNCgljb2xvcjpCbGFjazsNCglwYWRkaW5nLXRvcDogMHB4Ow0KCXBhZGRpbmctcmlnaHQ6IDBweDsNCglwYWRkaW5nLWJvdHRvbTogMHB4Ow0KCXBhZGRpbmctbGVmdDogMTBweDsNCglmb250LWZhbWlseTogQXJpYWw7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWZvbnQtd2VpZ2h0OiBib2xkOw0KfQ0KLmJsdWVUew0KCWNvbG9yOiM4MDAwMDA7DQoJY3Vyc29yOmhhbmQ7DQoJcGFkZGluZy10b3A6IDBweDsNCglwYWRkaW5nLXJpZ2h0OiAwcHg7DQoJcGFkZGluZy1ib3R0b206IDBweDsNCglwYWRkaW5nLWxlZnQ6IDEwcHg7DQoJZm9udC1mYW1pbHk6IEFyaWFsOw0KCWZvbnQtc2l6ZTogMTJweDsNCglmb250LXdlaWdodDogYm9sZDsNCn0NCi5yZWRUew0KCWZvbnQtZmFtaWx5OiBBcmlhbDsNCgljb2xvcjpSZWQ7DQoJY3Vyc29yOmhhbmQ7DQp9DQouRGVsVHsNCglkaXNwbGF5PW5vbmU7DQp9DQouRGlzcFR7DQoJZGlzcGxheT1ibG9jazsNCn0NCi0tPjwvc3R5bGU+ZAIODxAPFgIfBmhkZBYAZGRVJN/IzOIApbu+pAZVAezeChv6vRp3jWb/o0qb3RTRjQ==" />
+
+
+<script src="/dictua/ScriptResource.axd?d=ToYKU4_Q-YTIemyBGUvW0Hyvt3lXo9sYfOxjlE05jz1wJ7NpktWWHJk5dRi0luGg-KKzF4E_64O2OPqdOVS95Sr7Vd3HLOyWEMRX9FuJVkYVx6OdO4RdnHdU8hhWT-8a82oqnX9rqrM-MmnRO6E0lHyk4KCDfXdgenc4j1ciFMrtuyT1OynhTqECmXYNOfSJ0&amp;t=5d0a842b" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/dictua/ScriptResource.axd?d=eGhA6KwcWUa0XjOFgAlYei3kxPVfh6LCpMy1Ty4Llr9zsrClMHxUQ0axqH2Iimm0j0-GRsH58frQP0jOsRz4qNrzn4RsGfUxY5BKW-2ShQdyZ3GTlIRQYG8DqgW9mEE6IIdT3YF3I4QRjdXpXb1tMMiKoHYZzgIRFeSDVo341khQYfxL6FcwYPOImd_8ysSF0&amp;t=5d0a842b" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7AC6B68E" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAv91b/R/P4Ki22A82XmCLdmPXh3Evsn6cUqriuNA7EZi3XlnF6575MENzzL89IVRCD8M2QpQxJAPMHHC3hspDzvDucVjqVyOI1enLev6MC2Gocyd4kQebDHDlre92LYLoVQ+xPFbKZYnPy2kRkmM+ssay8tSSWzNl3EEIB/sy8zdpmu5COLr1GLwQi/et4G7PtswwjawHn5dhVsRxhFXP99mQ6m2ZTcjzdCRvdeheZeU29wZV/mUrxT4+PgpdCYynOWugo1bKPvYXt1P6rVBzm9" />
+        <div style="vertical-align: top; text-align: center;">
+            <table align="center" id="MainTab">
+                <tr>
+                    <td>
+                        <table width="100%" id="TabInMain">
+
+                            <!-- Compact ULIF header -->
+                            <tr>
+                                <td colspan="3">
+                                    <div class="ulifHeader">
+
+                                        <a href="/dictua/header-link.aspx?to=site"
+                                           target="_blank"
+                                           rel="noopener"
+                                           class="ulifBrand"
+                                           title="Перейти на основний сайт УМІФ / Go to the main ULIF website">
+
+                                            <span class="ulifLogoWrap">
+                                                <img src="/dictua/img/header/ulif-logo-ua.jpg"
+                                                     alt="УМІФ"
+                                                     class="ulifLogo ulifLogoUa lang-uk" />
+                                                <img src="/dictua/img/header/ulif-logo-en.jpg"
+                                                     alt="ULIF"
+                                                     class="ulifLogo ulifLogoEn lang-en" />
+                                            </span>
+                                        </a>
+
+                                        <span class="ulifActions">
+                                            <a href="/dictua/header-link.aspx?to=site"
+                                               target="_blank"
+                                               rel="noopener"
+                                               class="ulifCta ulifCtaSite"
+                                               title="Перейти на основний сайт УМІФ / Go to the main ULIF website">
+                                                <span class="ulifCtaFull"><span class="lang-uk">Основний сайт →</span><span class="lang-en">Main website →</span></span>
+                                                <span class="ulifCtaShort"><span class="lang-uk">Сайт →</span><span class="lang-en">Website →</span></span>
+                                            </a>
+
+                                            <a href="/dictua/header-link.aspx?to=sum20"
+                                               target="_blank"
+                                               rel="noopener"
+                                               class="ulifCta ulifCtaSum20"
+                                               title="Тлумачний словник української мови у 20 томах — sum20ua.com / 20-volume Dictionary of the Ukrainian language — sum20ua.com">
+                                                <span class="lang-uk">
+                                                    <span class="ulifCtaSum20Main">Тлумачний словник →</span>
+                                                    <span class="ulifCtaSum20Sub">української мови у 20 томах</span>
+                                                </span>
+                                                <span class="lang-en">
+                                                    <span class="ulifCtaSum20Main">20-volume Dictionary →</span>
+                                                    <span class="ulifCtaSum20Sub">of the Ukrainian language</span>
+                                                </span>
+                                            </a>
+
+                                            <a href="/dictua/header-link.aspx?to=facebook"
+                                               target="_blank"
+                                               rel="noopener"
+                                               class="ulifCta ulifCtaFacebook"
+                                               title="УМІФ НАН України у Facebook / ULIF on Facebook">
+                                                <span class="ulifFbBadge">f</span>
+                                                Facebook
+                                            </a>
+                                        </span>
+
+                                    </div>
+
+                                    <div class="ulifUtility">
+                                        <a href="/dictua/header-link.aspx?to=trusted"
+                                           target="_blank"
+                                           rel="noopener"
+                                           title="Достовірні словники / Trusted dictionaries">
+                                            <span class="ulifUtilityIcon">✓</span>
+                                            <span class="lang-uk">Достовірні словники</span>
+                                            <span class="lang-en">Trusted dictionaries</span>
+                                        </a>
+
+                                        <a href="/dictua/header-link.aspx?to=about"
+                                           target="_blank"
+                                           rel="noopener"
+                                           title="Про систему / About the system">
+                                            <span class="ulifUtilityInfo">ⓘ</span>
+                                            <span class="lang-uk">Про систему</span>
+                                            <span class="lang-en">About the system</span>
+                                        </a>
+
+                                        <span class="ulifLangSwitch" title="Мова інтерфейсу / Interface language">
+                                            <a href="/dictua/lang-switch.aspx?lang=uk"
+                                               class="ulifLang ulifLangUk"
+                                               title="Українська">UA</a>
+                                            <a href="/dictua/lang-switch.aspx?lang=en"
+                                               class="ulifLang ulifLangEn"
+                                               title="English">EN</a>
+                                        </span>
+                                    </div>
+                                </td>
+                            </tr>
+
+                            <!-- Банер підтримки відновлення Президії НАН України -->
+                            <tr>
+                                <td colspan="3">
+                                    <a href="/dictua/nas-support.aspx"
+                                       target="_blank"
+                                       rel="noopener"
+                                       class="nasBanner"
+                                       title="Підтримати відновлення Президії НАН України / Support restoration">
+
+                                        <img src="/dictua/img/banner/nas-presidium.jpg"
+                                             class="nasBannerImage"
+                                             alt="" />
+
+                                        <span class="nasBannerText">
+                                            <span class="nasBannerTitle">
+                                                <span class="lang-uk">Підтримаймо відновлення Президії НАН України</span>
+                                                <span class="lang-en">Support the restoration of the Presidium of the NAS of Ukraine</span>
+                                            </span>
+
+                                            <span class="nasBannerDescription">
+                                                <span class="lang-uk">
+                                                    Після російського удару історична будівля Академії потребує відновлення.
+                                                    <span class="nasBannerAction">Долучитися →</span>
+                                                </span>
+                                                <span class="lang-en">
+                                                    Following the Russian strike, the Academy's historic building needs restoration.
+                                                    <span class="nasBannerAction">Contribute →</span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                    </a>
+
+                                    <!-- 1×1 запит для підрахунку показів банера -->
+                                    <img src="/dictua/nas-track.aspx?b=nas"
+                                         alt=""
+                                         width="1"
+                                         height="1"
+                                         class="nasTrackingPixel" />
+                                </td>
+                            </tr>
+
+                            <!-- Банер UNESCO Digital Learning Week 2026 -->
+                            <tr>
+                                <td colspan="3">
+                                    <a href="/dictua/dlw2026.aspx"
+                                       target="_blank"
+                                       rel="noopener"
+                                       class="dlwBanner"
+                                       title="UNESCO Digital Learning Week 2026: українські пропозиції та уроки Парижа / Ukrainian proposals and lessons from Paris">
+                                        <img src="/dictua/img/banner/dlw2026-teaser.jpg"
+                                             alt="UNESCO Digital Learning Week 2026 — ШІ говорить українською. Але чи розуміє Україну?" />
+                                    </a>
+
+                                    <!-- 1×1 запит для підрахунку показів DLW2026-банера -->
+                                    <img src="/dictua/nas-track.aspx?b=dlw2026"
+                                         alt=""
+                                         width="1"
+                                         height="1"
+                                         class="nasTrackingPixel" />
+                                </td>
+                            </tr>
+
+                            <!-- Старий впізнаваний банер порталу залишено -->
+                            <tr>
+                                <td colspan="3">
+                                    <img id="ImgTitle" class="portalTitle" src="img/title/title.jpg" />
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td colspan="3" style="height: 21px">
+                                    
+
+<style type="text/css">
+    #DictMain {
+        width: 100%;
+        max-width: 1002px;
+        box-sizing: border-box;
+        margin: 0 auto;
+        padding: 8px 12px 12px 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #1c2940;
+        text-align: left;
+    }
+
+    .dictSearchBar {
+        display: flex;
+        gap: 8px;
+        align-items: stretch;
+        margin: 2px 0 10px 0;
+    }
+
+    .dictSearchInput {
+        flex: 1 1 auto;
+        min-width: 0;
+        height: 42px;
+        box-sizing: border-box;
+        padding: 8px 12px;
+        border: 1px solid #9aaac0;
+        border-radius: 7px;
+        background: #fff;
+        color: #17243a;
+        font-size: 18px;
+        outline: none;
+    }
+
+    .dictSearchInput:focus {
+        border-color: #2368b5;
+        box-shadow: 0 0 0 2px rgba(35,104,181,.13);
+    }
+
+    .dictSearchButton {
+        min-width: 112px;
+        height: 42px;
+        padding: 0 18px;
+        border: 1px solid #15569c;
+        border-radius: 7px;
+        background: #1768bb;
+        color: #fff;
+        font-size: 17px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .dictSearchButton:hover,
+    .dictSearchButton:focus {
+        background: #0f589f;
+    }
+
+    .searchMessage {
+        display: block;
+        margin: -4px 0 8px 2px;
+        color: #9b2f2f;
+        font-size: 13px;
+    }
+
+    .dictColumns {
+        display: flex;
+        align-items: flex-start;
+        gap: 14px;
+        width: 100%;
+    }
+
+    .registryPanel {
+        flex: 0 0 29%;
+        min-width: 235px;
+        box-sizing: border-box;
+        border: 1px solid #c5ccd5;
+        border-radius: 6px;
+        background: #fff;
+        overflow: hidden;
+    }
+
+    .registryHeader {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 8px;
+        padding: 8px 10px;
+        border-bottom: 1px solid #c5ccd5;
+        background: #f3f6fa;
+    }
+
+    .registryHeader strong {
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 20px;
+        color: #142d52;
+    }
+
+    .registryCount {
+        font-size: 11px;
+        color: #65748b;
+        text-align: right;
+    }
+
+    .registryScroll {
+        position: relative;
+        height: 565px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        overscroll-behavior: contain;
+        -webkit-overflow-scrolling: touch;
+        background: #fff;
+    }
+
+    .registryItems {
+        min-height: 100%;
+    }
+
+    .registryWord {
+        display: block;
+        box-sizing: border-box;
+        min-height: 39px;
+        padding: 7px 30px 7px 11px;
+        border-bottom: 1px solid #e1e6ec;
+        color: #064fc0;
+
+        /* More reliable rendering of Ukrainian combining acute accents. */
+        font-family: "Times New Roman", "DejaVu Serif", serif;
+        font-size: 19px;
+        line-height: 24px;
+        font-kerning: normal;
+        text-rendering: optimizeLegibility;
+        font-feature-settings: "mark" 1, "mkmk" 1;
+
+        text-decoration: none;
+        position: relative;
+        word-break: normal;
+        overflow-wrap: break-word;
+    }
+
+    .registryAccentCluster {
+        display: inline-block;
+        white-space: nowrap;
+        letter-spacing: 0;
+        font: inherit;
+    }
+
+    .registryWord:after {
+        content: "›";
+        position: absolute;
+        right: 10px;
+        top: 7px;
+        color: #78859a;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        line-height: 24px;
+    }
+
+    .registryWord:hover,
+    .registryWord:focus {
+        background: #edf5ff;
+        color: #003a94;
+        text-decoration: none;
+    }
+
+    .registryWord.current {
+        background: #dbeeff;
+        color: #003a94;
+        font-weight: bold;
+        box-shadow: inset 4px 0 0 #1768bb;
+    }
+
+    .registryLoading {
+        padding: 8px;
+        text-align: center;
+        font-size: 12px;
+        color: #68778d;
+        background: #f8fafc;
+    }
+
+    .registryEnd {
+        padding: 8px;
+        text-align: center;
+        font-size: 12px;
+        color: #8a96a8;
+        background: #f8fafc;
+    }
+
+    .articlePanel {
+        flex: 1 1 71%;
+        min-width: 0;
+        box-sizing: border-box;
+        border: 1px solid #d4d9df;
+        border-radius: 6px;
+        background: #fff;
+        padding: 10px 13px 14px 13px;
+    }
+
+    .articleNav {
+        display: flex;
+        justify-content: space-between;
+        gap: 8px;
+        margin-bottom: 9px;
+    }
+
+    .articleNavButton {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 40px;
+        box-sizing: border-box;
+        padding: 7px 12px;
+        border: 1px solid #b5c0ce;
+        border-radius: 6px;
+        background: #f3f6fa;
+        color: #274c79 !important;
+        font-size: 14px;
+        font-weight: bold;
+        text-decoration: none !important;
+    }
+
+    .articleNavButton:hover,
+    .articleNavButton:focus {
+        background: #e7eef7;
+        border-color: #879bb4;
+    }
+
+    .dictModes {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 7px;
+        margin: 0 0 11px 0;
+        padding: 0 0 9px 0;
+        border-bottom: 1px solid #d8dde4;
+    }
+
+    /* Replaces legacy ON/OFF GIFs. Visibility is still controlled by server logic. */
+    .dictMode {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        box-sizing: border-box;
+        min-height: 42px;
+        padding: 8px 15px;
+        border: 1px solid #8fa1b7;
+        border-radius: 7px;
+        background: linear-gradient(#ffffff, #e5ebf3);
+        color: #17366b !important;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 15px;
+        font-weight: bold;
+        text-decoration: none !important;
+        text-align: center;
+    }
+
+    .dictMode:hover,
+    .dictMode:focus {
+        background: linear-gradient(#f5f9ff, #d7e4f4);
+        border-color: #5e7fa7;
+    }
+
+    .dictModeActive {
+        border-color: #0753a6;
+        background: linear-gradient(#2e92ee, #0755b6);
+        color: #fff !important;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.35);
+    }
+
+    .articleContent {
+        min-height: 360px;
+        overflow-x: auto;
+        padding: 6px 4px 10px 4px;
+        font-size: 16px;
+        line-height: 1.45;
+    }
+
+    .articleContent img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .phraseList {
+        width: 100%;
+        min-height: 135px;
+        margin-top: 8px;
+        font-size: 15px;
+    }
+
+    .dictFooter {
+        display: flex;
+        justify-content: space-between;
+        gap: 15px;
+        align-items: flex-start;
+        margin-top: 10px;
+        padding-top: 9px;
+        border-top: 1px solid #d8dde4;
+        color: #697589;
+        font-size: 11px;
+        line-height: 1.4;
+    }
+
+    .dictFooterRight {
+        text-align: right;
+    }
+
+    @media (max-width: 720px) {
+        #DictMain {
+            padding: 6px 7px 10px 7px;
+        }
+
+        .dictSearchBar {
+            gap: 6px;
+        }
+
+        .dictSearchInput {
+            height: 46px;
+            font-size: 17px;
+        }
+
+        .dictSearchButton {
+            min-width: 92px;
+            height: 46px;
+            padding: 0 12px;
+            font-size: 16px;
+        }
+
+        .dictColumns {
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .articlePanel {
+            order: 1;
+            width: 100%;
+            padding: 8px 8px 11px 8px;
+        }
+
+        .registryPanel {
+            order: 2;
+            width: 100%;
+            min-width: 0;
+        }
+
+        .articleNav {
+            margin-bottom: 8px;
+        }
+
+        .articleNavButton {
+            flex: 1 1 50%;
+            min-height: 46px;
+            padding: 7px 6px;
+            font-size: 13px;
+        }
+
+        .dictModes {
+            gap: 6px;
+        }
+
+        .dictMode {
+            flex: 1 1 calc(50% - 6px);
+            min-height: 46px;
+            padding: 8px 6px;
+            font-size: 14px;
+        }
+
+        .articleContent {
+            min-height: 0;
+            padding: 5px 1px 8px 1px;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        .registryScroll {
+            height: 42vh;
+            min-height: 330px;
+            max-height: 520px;
+        }
+
+        .registryWord {
+            min-height: 46px;
+            padding: 10px 34px 9px 12px;
+            font-size: 20px;
+            line-height: 26px;
+        }
+
+        .registryWord:after {
+            top: 10px;
+        }
+
+        .dictFooter {
+            display: block;
+            font-size: 10px;
+        }
+
+        .dictFooterRight {
+            margin-top: 5px;
+            text-align: left;
+        }
+    }
+
+    @media (max-width: 420px) {
+        .dictSearchBar {
+            flex-wrap: wrap;
+        }
+
+        .dictSearchInput,
+        .dictSearchButton {
+            width: 100%;
+        }
+
+        .dictSearchButton {
+            flex: 1 1 100%;
+        }
+    }
+</style>
+
+
+
+<div id="ContentPlaceHolder1_UpdText">
+	
+        <div id="DictMain">
+
+            <div id="ContentPlaceHolder1_panel1" class="dictSearchBar">
+		
+                <input name="ctl00$ContentPlaceHolder1$tsearch" type="text" value="вони" id="ContentPlaceHolder1_tsearch" class="dictSearchInput" placeholder="Введіть слово для пошуку..." aria-label="Введіть слово для пошуку" />
+                <input type="submit" name="ctl00$ContentPlaceHolder1$search" value="Знайти" id="ContentPlaceHolder1_search" class="dictSearchButton" />
+            
+	</div>
+            <span id="ContentPlaceHolder1_searchMessage" class="searchMessage"></span>
+
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$registryCenterOrder" id="ContentPlaceHolder1_registryCenterOrder" value="37384" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$registryCurrentUid" id="ContentPlaceHolder1_registryCurrentUid" value="24454" />
+
+            <!-- Registry clicks use an async postback, like Search. -->
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$registryClickUid" id="ContentPlaceHolder1_registryClickUid" value="0" />
+            <a id="ContentPlaceHolder1_registrySelectButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$registrySelectButton&#39;,&#39;&#39;)" style="display:none">registry</a>
+
+            <div class="dictColumns">
+
+                <div class="registryPanel">
+                    <div class="registryHeader">
+                        <strong><span class="lang-uk">Реєстр</span><span class="lang-en">Registry</span></strong>
+                        <span id="ContentPlaceHolder1_rlength" class="registryCount">Реєстрових слів — 262812</span>
+                    </div>
+
+                    <div id="registryScroll" class="registryScroll">
+                        <div id="registryLoadingTop" class="registryLoading" style="display:none;">
+                            <span class="lang-uk">Завантаження попередніх слів…</span><span class="lang-en">Loading previous words…</span>
+                        </div>
+                        <div id="registryItems" class="registryItems"></div>
+                        <div id="registryLoadingBottom" class="registryLoading" style="display:none;">
+                            <span class="lang-uk">Завантаження наступних слів…</span><span class="lang-en">Loading next words…</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="articlePanel">
+
+                    <div class="articleNav">
+                        <a id="ContentPlaceHolder1_artback" title="Попередня переглянута стаття" class="articleNavButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$artback&#39;,&#39;&#39;)">← Попередня стаття</a>
+                        <a id="ContentPlaceHolder1_artnext" title="Наступна переглянута стаття" class="articleNavButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$artnext&#39;,&#39;&#39;)">Наступна стаття →</a>
+                    </div>
+
+                    <div class="dictModes">
+                        <a id="ContentPlaceHolder1_par" class="dictMode dictModeActive" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$par&#39;,&#39;&#39;)">СЛОВОЗМІНА</a>
+                        
+                        <a id="ContentPlaceHolder1_phras" class="dictMode" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$phras&#39;,&#39;&#39;)">ФРАЗЕОЛОГІЯ</a>
+                        
+                    </div>
+
+                    <div id="ContentPlaceHolder1_article" class="articleContent"><style type="text/css"> <!--.word_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CC3300;
+	text-align: center;
+	font-weight: bold;
+}
+body {
+	background-color: #FFFFFF;
+}
+.gram_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #339999;
+	font-weight: normal;
+}
+.comment_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+}
+.table_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.td_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #006666;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 1px;
+}
+.td_left_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #006666;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1px;
+	border-top-color: #006699;
+	padding-left: 4px;
+}
+.td_inner_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	left: 5px;
+	padding-left: 10px;
+}
+.td_inner_center_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	left: 5px;
+	padding-left: 10px;
+}
+.comm_end_style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.p_cl {
+	font-family: Arial;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	padding: 10px;
+	font-size: 12px;
+}
+
+.f_cl {
+	font-family: Arial;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	padding: 0px;
+	background-color: #E3E3E3;
+	font-size: 12px;
+}
+
+.f_z {
+	font-family: Arial;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	padding: 0px;
+	text-align: center;
+	font-size: 12px;
+	color: #5D1A9B;
+	font-weight: bold;
+}
+
+.tab_ant {
+	font-family: Arial;
+	font-size: 12px;
+	padding: 10px;
+	left: 10px;
+}
+.blackT{
+	color:Black;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+.blueT{
+	color:#800000;
+	cursor:hand;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+.redT{
+	font-family: Arial;
+	color:Red;
+	cursor:hand;
+}
+.DelT{
+	display=none;
+}
+.DispT{
+	display=block;
+}
+--></style></div>
+
+                    
+
+                    <span id="ContentPlaceHolder1_cbtimer" style="display:none;"></span>
+                </div>
+            </div>
+
+            <div class="dictFooter">
+                <div>
+                    <span class="lang-uk">«Словники України online» — Український мовно-інформаційний фонд НАН України.</span>
+                    <span class="lang-en">“Dictionaries of Ukraine online” — Ukrainian Lingua-Information Fund, NAS of Ukraine.</span>
+                </div>
+                <div class="dictFooterRight">
+                    <span class="lang-uk">Розроблено на основі CD-версії 3.2 (2008 р.)</span>
+                    <span class="lang-en">Based on CD version 3.2 (2008)</span>
+                    © ULIF, 2001-2026
+                    &nbsp;·&nbsp;
+                    <a href="https://lcorp.ulif.org.ua/pdf/Instruction_Dict_Of_Ukraine_3.2.pdf">
+                        <span class="lang-uk">Інструкція</span><span class="lang-en">Guide</span>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    
+</div>
+
+<script type="text/javascript">
+// Two-way infinite registry.
+// No framework dependency beyond the ASP.NET AJAX already present on this page.
+(function () {
+    var BATCH = 60;
+    var EDGE = 150;
+
+    function byId(id) {
+        return document.getElementById(id);
+    }
+
+    function htmlEncode(value) {
+        var div = document.createElement("div");
+        div.appendChild(document.createTextNode(value == null ? "" : value));
+        return div.innerHTML;
+    }
+
+    function initRegistry() {
+        var scroll = byId("registryScroll");
+        var items = byId("registryItems");
+        var centerField = document.getElementById("ContentPlaceHolder1_registryCenterOrder");
+        var uidField = document.getElementById("ContentPlaceHolder1_registryCurrentUid");
+
+        if (!scroll || !items || !centerField || !uidField)
+            return;
+
+        var center = parseInt(centerField.value || "0", 10);
+        var currentUid = parseInt(uidField.value || "0", 10);
+
+        var state = {
+            minOrder: -1,
+            maxOrder: -1,
+            total: 0,
+            loadingTop: false,
+            loadingBottom: false,
+            currentUid: currentUid
+        };
+
+        scroll._registryState = state;
+        items.innerHTML = "";
+
+        function setLoading(which, on) {
+            var el = byId(which === "up" ? "registryLoadingTop" : "registryLoadingBottom");
+            if (el)
+                el.style.display = on ? "block" : "none";
+        }
+
+        function request(start, count, direction, done) {
+            if (count <= 0) {
+                if (done) done(null);
+                return;
+            }
+
+            var url =
+                "registry-feed.aspx?start=" + encodeURIComponent(start) +
+                "&count=" + encodeURIComponent(count) +
+                "&dir=" + encodeURIComponent(direction) +
+                "&_=" + new Date().getTime();
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", url, true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState !== 4)
+                    return;
+
+                if (xhr.status >= 200 && xhr.status < 300) {
+                    try {
+                        done(JSON.parse(xhr.responseText));
+                    }
+                    catch (e) {
+                        done(null);
+                    }
+                }
+                else {
+                    done(null);
+                }
+            };
+            xhr.send(null);
+        }
+
+        function appendAccentSafeWord(anchor, value) {
+            var word = value == null ? "" : String(value);
+
+            if (word.normalize) {
+                try { word = word.normalize("NFC"); }
+                catch (e) { }
+            }
+
+            var plain = "";
+
+            function flushPlain() {
+                if (plain.length) {
+                    anchor.appendChild(document.createTextNode(plain));
+                    plain = "";
+                }
+            }
+
+            for (var i = 0; i < word.length; i++) {
+                var ch = word.charAt(i);
+                var code = word.charCodeAt(i);
+                var combining =
+                    (code >= 0x0300 && code <= 0x036F) ||
+                    (code >= 0x1AB0 && code <= 0x1AFF) ||
+                    (code >= 0x1DC0 && code <= 0x1DFF) ||
+                    (code >= 0x20D0 && code <= 0x20FF) ||
+                    (code >= 0xFE20 && code <= 0xFE2F);
+
+                if (combining && plain.length) {
+                    var base = plain.charAt(plain.length - 1);
+                    plain = plain.substring(0, plain.length - 1);
+                    flushPlain();
+
+                    var cluster = document.createElement("span");
+                    cluster.className = "registryAccentCluster";
+                    cluster.appendChild(document.createTextNode(base + ch));
+                    anchor.appendChild(cluster);
+                }
+                else {
+                    plain += ch;
+                }
+            }
+
+            flushPlain();
+        }
+
+        function buildNodes(data) {
+            var frag = document.createDocumentFragment();
+
+            for (var i = 0; i < data.items.length; i++) {
+                var it = data.items[i];
+                var a = document.createElement("a");
+                a.className = "registryWord" +
+                    (parseInt(it.uid, 10) === state.currentUid ? " current" : "");
+                a.href = "dictua.aspx?src=registry&uid=" + encodeURIComponent(it.uid);
+                a.setAttribute("data-order", it.order);
+                a.setAttribute("data-uid", it.uid);
+                appendAccentSafeWord(a, it.word);
+
+                a.onclick = function (ev) {
+                    ev = ev || window.event;
+
+                    // Keep Ctrl/Cmd/Shift/Alt click behavior for new tabs/windows.
+                    if (ev && (ev.ctrlKey || ev.metaKey || ev.shiftKey || ev.altKey))
+                        return true;
+
+                    var uidInput = document.getElementById(
+                        "ContentPlaceHolder1_registryClickUid"
+                    );
+                    var selectButton = document.getElementById(
+                        "ContentPlaceHolder1_registrySelectButton"
+                    );
+
+                    if (!uidInput || !selectButton)
+                        return true;
+
+                    if (ev && ev.preventDefault)
+                        ev.preventDefault();
+                    else if (window.event)
+                        window.event.returnValue = false;
+
+                    uidInput.value = this.getAttribute("data-uid") || "0";
+
+                    if (selectButton.click)
+                        selectButton.click();
+                    else
+                        __doPostBack("ctl00$ContentPlaceHolder1$registrySelectButton", "");
+
+                    return false;
+                };
+
+                frag.appendChild(a);
+            }
+
+            return frag;
+        }
+
+        function loadInitial() {
+            var start = Math.max(0, center - Math.floor(BATCH / 3));
+            setLoading("down", true);
+
+            request(start, BATCH, "init", function (data) {
+                setLoading("down", false);
+
+                if (!data || !data.items || !data.items.length)
+                    return;
+
+                state.total = data.total;
+                state.minOrder = data.items[0].order;
+                state.maxOrder = data.items[data.items.length - 1].order;
+                items.appendChild(buildNodes(data));
+
+                var current = items.querySelector(".registryWord.current");
+                if (current) {
+                    var wanted =
+                        current.offsetTop -
+                        Math.max(0, (scroll.clientHeight - current.offsetHeight) / 2);
+                    scroll.scrollTop = Math.max(0, wanted);
+                }
+            });
+        }
+
+        function loadDown() {
+            if (state.loadingBottom || state.maxOrder < 0 ||
+                (state.total > 0 && state.maxOrder >= state.total - 1))
+                return;
+
+            state.loadingBottom = true;
+            setLoading("down", true);
+
+            var start = state.maxOrder + 1;
+
+            request(start, BATCH, "down", function (data) {
+                state.loadingBottom = false;
+                setLoading("down", false);
+
+                if (!data || !data.items || !data.items.length)
+                    return;
+
+                state.total = data.total;
+                state.maxOrder = data.items[data.items.length - 1].order;
+                items.appendChild(buildNodes(data));
+            });
+        }
+
+        function loadUp() {
+            if (state.loadingTop || state.minOrder <= 0)
+                return;
+
+            state.loadingTop = true;
+
+            var count = Math.min(BATCH, state.minOrder);
+            var start = Math.max(0, state.minOrder - count);
+            var oldItemsHeight = items.scrollHeight;
+            var oldTop = scroll.scrollTop;
+
+            setLoading("up", true);
+
+            request(start, count, "up", function (data) {
+                state.loadingTop = false;
+                setLoading("up", false);
+
+                if (!data || !data.items || !data.items.length)
+                    return;
+
+                state.total = data.total;
+                state.minOrder = data.items[0].order;
+                items.insertBefore(buildNodes(data), items.firstChild);
+
+                // Preserve visual position after prepending rows.
+                var delta = items.scrollHeight - oldItemsHeight;
+                scroll.scrollTop = oldTop + delta;
+            });
+        }
+
+        scroll.onscroll = function () {
+            if (scroll.scrollTop < EDGE)
+                loadUp();
+
+            if (scroll.scrollTop + scroll.clientHeight >
+                scroll.scrollHeight - EDGE)
+                loadDown();
+        };
+
+        loadInitial();
+    }
+
+    if (window.Sys && Sys.Application) {
+        // Fires both on initial load and after every UpdatePanel refresh.
+        Sys.Application.add_load(initRegistry);
+    }
+    else if (document.addEventListener) {
+        document.addEventListener("DOMContentLoaded", initRegistry);
+    }
+    else {
+        window.attachEvent("onload", initRegistry);
+    }
+})();
+</script>
+
+
+                                </td>
+                            </tr>
+
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.UI._Timer, {"enabled":true,"interval":300000,"uniqueID":"ctl00$ContentPlaceHolder1$cbtimer"}, null, null, $get("ContentPlaceHolder1_cbtimer"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
